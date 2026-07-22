@@ -265,6 +265,83 @@
       "language": "TypeScript",
       "url": "https://github.com/MoonshotAI/kimi-code",
       "firstSeenAt": "2026-07-22T10:27:51.897Z"
+    },
+    "ruvnet/RuView": {
+      "fullName": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "url": "https://github.com/ruvnet/RuView",
+      "firstSeenAt": "2026-07-22T14:01:31.765Z"
+    },
+    "shiyu-coder/Kronos": {
+      "fullName": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "firstSeenAt": "2026-07-22T14:01:31.772Z"
+    },
+    "ComposioHQ/awesome-claude-skills": {
+      "fullName": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "firstSeenAt": "2026-07-22T14:01:31.783Z"
+    },
+    "likec4/likec4": {
+      "fullName": "likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "url": "https://github.com/likec4/likec4",
+      "firstSeenAt": "2026-07-22T14:01:31.803Z"
+    },
+    "jamiepine/voicebox": {
+      "fullName": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "url": "https://github.com/jamiepine/voicebox",
+      "firstSeenAt": "2026-07-22T14:01:32.143Z"
+    },
+    "rohitg00/ai-engineering-from-scratch": {
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "firstSeenAt": "2026-07-22T14:01:32.820Z"
+    },
+    "dreamhunter2333/cloudflare_temp_email": {
+      "fullName": "dreamhunter2333/cloudflare_temp_email",
+      "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "language": "TypeScript",
+      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+      "firstSeenAt": "2026-07-22T14:01:32.840Z"
+    },
+    "Pumpkin-MC/Pumpkin": {
+      "fullName": "Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "firstSeenAt": "2026-07-22T14:01:32.851Z"
+    },
+    "apache/ossie": {
+      "fullName": "apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "url": "https://github.com/apache/ossie",
+      "firstSeenAt": "2026-07-22T14:01:33.603Z"
+    },
+    "chenyme/grok2api": {
+      "fullName": "chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "url": "https://github.com/chenyme/grok2api",
+      "firstSeenAt": "2026-07-22T14:01:34.341Z"
+    },
+    "Robbyant/lingbot-map": {
+      "fullName": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "firstSeenAt": "2026-07-22T14:01:34.360Z"
     }
   },
   "snapshots": {
@@ -280,6 +357,10 @@
       {
         "stars": 7527,
         "at": "2026-07-22T10:27:50.444Z"
+      },
+      {
+        "stars": 7753,
+        "at": "2026-07-22T14:01:31.753Z"
       }
     ],
     "tirth8205/code-review-graph": [
@@ -298,6 +379,10 @@
       {
         "stars": 25006,
         "at": "2026-07-22T10:27:50.435Z"
+      },
+      {
+        "stars": 25094,
+        "at": "2026-07-22T14:01:32.868Z"
       }
     ],
     "1jehuang/jcode": [
@@ -316,6 +401,10 @@
       {
         "stars": 10572,
         "at": "2026-07-22T10:27:50.473Z"
+      },
+      {
+        "stars": 10612,
+        "at": "2026-07-22T14:01:33.599Z"
       }
     ],
     "bojieli/ai-agent-book": [
@@ -352,6 +441,10 @@
       {
         "stars": 67196,
         "at": "2026-07-22T10:27:50.428Z"
+      },
+      {
+        "stars": 67773,
+        "at": "2026-07-22T14:01:31.787Z"
       }
     ],
     "oblien/openship": [
@@ -370,6 +463,10 @@
       {
         "stars": 6696,
         "at": "2026-07-22T10:27:50.481Z"
+      },
+      {
+        "stars": 6915,
+        "at": "2026-07-22T14:01:32.861Z"
       }
     ],
     "every-app/open-seo": [
@@ -460,6 +557,10 @@
       {
         "stars": 70225,
         "at": "2026-07-22T10:27:51.191Z"
+      },
+      {
+        "stars": 70360,
+        "at": "2026-07-22T14:01:31.761Z"
       }
     ],
     "schollz/croc": [
@@ -478,6 +579,10 @@
       {
         "stars": 37101,
         "at": "2026-07-22T10:27:51.150Z"
+      },
+      {
+        "stars": 37249,
+        "at": "2026-07-22T14:01:31.747Z"
       }
     ],
     "agegr/pi-web": [
@@ -496,6 +601,10 @@
       {
         "stars": 1889,
         "at": "2026-07-22T10:27:51.159Z"
+      },
+      {
+        "stars": 1958,
+        "at": "2026-07-22T14:01:32.870Z"
       }
     ],
     "DioxusLabs/dioxus": [
@@ -514,6 +623,10 @@
       {
         "stars": 37834,
         "at": "2026-07-22T10:27:51.182Z"
+      },
+      {
+        "stars": 37891,
+        "at": "2026-07-22T14:01:32.866Z"
       }
     ],
     "diegosouzapw/OmniRoute": [
@@ -532,6 +645,10 @@
       {
         "stars": 24244,
         "at": "2026-07-22T10:27:51.183Z"
+      },
+      {
+        "stars": 24489,
+        "at": "2026-07-22T14:01:31.755Z"
       }
     ],
     "hyprwm/Hyprland": [
@@ -550,6 +667,10 @@
       {
         "stars": 37162,
         "at": "2026-07-22T10:27:51.180Z"
+      },
+      {
+        "stars": 37199,
+        "at": "2026-07-22T14:01:32.822Z"
       }
     ],
     "langchain-ai/open_deep_research": [
@@ -604,6 +725,10 @@
       {
         "stars": 14963,
         "at": "2026-07-22T10:27:51.167Z"
+      },
+      {
+        "stars": 15017,
+        "at": "2026-07-22T14:01:32.841Z"
       }
     ],
     "microsoft/Ontology-Playground": [
@@ -640,6 +765,10 @@
       {
         "stars": 181395,
         "at": "2026-07-22T10:27:52.586Z"
+      },
+      {
+        "stars": 181672,
+        "at": "2026-07-22T14:01:33.563Z"
       }
     ],
     "kangarooking/cangjie-skill": [
@@ -676,6 +805,10 @@
       {
         "stars": 5916,
         "at": "2026-07-22T10:27:51.880Z"
+      },
+      {
+        "stars": 5936,
+        "at": "2026-07-22T14:01:33.583Z"
       }
     ],
     "HKUDS/Vibe-Trading": [
@@ -730,6 +863,10 @@
       {
         "stars": 77289,
         "at": "2026-07-22T10:27:51.908Z"
+      },
+      {
+        "stars": 77379,
+        "at": "2026-07-22T14:01:33.606Z"
       }
     ],
     "Shubhamsaboo/awesome-llm-apps": [
@@ -748,6 +885,10 @@
       {
         "stars": 126045,
         "at": "2026-07-22T10:27:51.887Z"
+      },
+      {
+        "stars": 126109,
+        "at": "2026-07-22T14:01:33.587Z"
       }
     ],
     "Nutlope/hallmark": [
@@ -766,6 +907,10 @@
       {
         "stars": 15265,
         "at": "2026-07-22T10:27:51.884Z"
+      },
+      {
+        "stars": 15364,
+        "at": "2026-07-22T14:01:32.861Z"
       }
     ],
     "MoonshotAI/kimi-cli": [
@@ -784,6 +929,10 @@
       {
         "stars": 10573,
         "at": "2026-07-22T10:27:51.909Z"
+      },
+      {
+        "stars": 10586,
+        "at": "2026-07-22T14:01:33.625Z"
       }
     ],
     "HKUDS/DeepTutor": [
@@ -802,6 +951,10 @@
       {
         "stars": 28988,
         "at": "2026-07-22T10:27:51.872Z"
+      },
+      {
+        "stars": 29028,
+        "at": "2026-07-22T14:01:33.558Z"
       }
     ],
     "HKUDS/nanobot": [
@@ -856,6 +1009,10 @@
       {
         "stars": 67101,
         "at": "2026-07-22T10:27:52.585Z"
+      },
+      {
+        "stars": 67115,
+        "at": "2026-07-22T14:01:34.377Z"
       }
     ],
     "Dicklesworthstone/destructive_command_guard": [
@@ -892,6 +1049,10 @@
       {
         "stars": 20868,
         "at": "2026-07-22T10:27:52.572Z"
+      },
+      {
+        "stars": 20921,
+        "at": "2026-07-22T14:01:35.018Z"
       }
     ],
     "earendil-works/pi": [
@@ -910,6 +1071,10 @@
       {
         "stars": 75173,
         "at": "2026-07-22T10:27:52.634Z"
+      },
+      {
+        "stars": 75309,
+        "at": "2026-07-22T14:01:33.550Z"
       }
     ],
     "openai/codex": [
@@ -934,6 +1099,76 @@
       {
         "stars": 4475,
         "at": "2026-07-22T10:27:51.897Z"
+      },
+      {
+        "stars": 4515,
+        "at": "2026-07-22T14:01:33.596Z"
+      }
+    ],
+    "ruvnet/RuView": [
+      {
+        "stars": 83139,
+        "at": "2026-07-22T14:01:31.765Z"
+      }
+    ],
+    "shiyu-coder/Kronos": [
+      {
+        "stars": 32460,
+        "at": "2026-07-22T14:01:31.772Z"
+      }
+    ],
+    "ComposioHQ/awesome-claude-skills": [
+      {
+        "stars": 68545,
+        "at": "2026-07-22T14:01:31.784Z"
+      }
+    ],
+    "likec4/likec4": [
+      {
+        "stars": 4114,
+        "at": "2026-07-22T14:01:31.803Z"
+      }
+    ],
+    "jamiepine/voicebox": [
+      {
+        "stars": 45459,
+        "at": "2026-07-22T14:01:32.143Z"
+      }
+    ],
+    "rohitg00/ai-engineering-from-scratch": [
+      {
+        "stars": 41901,
+        "at": "2026-07-22T14:01:32.820Z"
+      }
+    ],
+    "dreamhunter2333/cloudflare_temp_email": [
+      {
+        "stars": 10711,
+        "at": "2026-07-22T14:01:32.840Z"
+      }
+    ],
+    "Pumpkin-MC/Pumpkin": [
+      {
+        "stars": 8163,
+        "at": "2026-07-22T14:01:32.851Z"
+      }
+    ],
+    "apache/ossie": [
+      {
+        "stars": 1488,
+        "at": "2026-07-22T14:01:33.603Z"
+      }
+    ],
+    "chenyme/grok2api": [
+      {
+        "stars": 6541,
+        "at": "2026-07-22T14:01:34.341Z"
+      }
+    ],
+    "Robbyant/lingbot-map": [
+      {
+        "stars": 14829,
+        "at": "2026-07-22T14:01:34.360Z"
       }
     ]
   },
