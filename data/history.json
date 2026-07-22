@@ -1,0 +1,488 @@
+{
+  "repos": {
+    "ayghri/i-have-adhd": {
+      "fullName": "ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "firstSeenAt": "2026-07-22T05:27:31.028Z"
+    },
+    "tirth8205/code-review-graph": {
+      "fullName": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "firstSeenAt": "2026-07-22T05:27:31.034Z"
+    },
+    "1jehuang/jcode": {
+      "fullName": "1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "url": "https://github.com/1jehuang/jcode",
+      "firstSeenAt": "2026-07-22T05:27:31.039Z"
+    },
+    "bojieli/ai-agent-book": {
+      "fullName": "bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "firstSeenAt": "2026-07-22T05:27:31.039Z"
+    },
+    "koala73/worldmonitor": {
+      "fullName": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "url": "https://github.com/koala73/worldmonitor",
+      "firstSeenAt": "2026-07-22T05:27:31.039Z"
+    },
+    "oblien/openship": {
+      "fullName": "oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "url": "https://github.com/oblien/openship",
+      "firstSeenAt": "2026-07-22T05:27:31.045Z"
+    },
+    "every-app/open-seo": {
+      "fullName": "every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "url": "https://github.com/every-app/open-seo",
+      "firstSeenAt": "2026-07-22T05:27:31.048Z"
+    },
+    "tradesdontlie/tradingview-mcp": {
+      "fullName": "tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "firstSeenAt": "2026-07-22T05:27:31.052Z"
+    },
+    "AstrBotDevs/AstrBot": {
+      "fullName": "AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "firstSeenAt": "2026-07-22T05:27:31.073Z"
+    },
+    "earthtojake/text-to-cad": {
+      "fullName": "earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "firstSeenAt": "2026-07-22T05:27:31.099Z"
+    },
+    "chrislgarry/Apollo-11": {
+      "fullName": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "firstSeenAt": "2026-07-22T05:27:31.919Z"
+    },
+    "schollz/croc": {
+      "fullName": "schollz/croc",
+      "description": "Easily and securely send things from one computer to another :crocodile: :package:",
+      "language": "Go",
+      "url": "https://github.com/schollz/croc",
+      "firstSeenAt": "2026-07-22T05:27:31.920Z"
+    },
+    "agegr/pi-web": {
+      "fullName": "agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "url": "https://github.com/agegr/pi-web",
+      "firstSeenAt": "2026-07-22T05:27:31.927Z"
+    },
+    "DioxusLabs/dioxus": {
+      "fullName": "DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "firstSeenAt": "2026-07-22T05:27:31.927Z"
+    },
+    "diegosouzapw/OmniRoute": {
+      "fullName": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "firstSeenAt": "2026-07-22T05:27:31.934Z"
+    },
+    "hyprwm/Hyprland": {
+      "fullName": "hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "firstSeenAt": "2026-07-22T05:27:31.936Z"
+    },
+    "langchain-ai/open_deep_research": {
+      "fullName": "langchain-ai/open_deep_research",
+      "description": "",
+      "language": "Python",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "firstSeenAt": "2026-07-22T05:27:31.955Z"
+    },
+    "AlexsJones/llmfit": {
+      "fullName": "AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "firstSeenAt": "2026-07-22T05:27:31.955Z"
+    },
+    "dottxt-ai/outlines": {
+      "fullName": "dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "url": "https://github.com/dottxt-ai/outlines",
+      "firstSeenAt": "2026-07-22T05:27:31.972Z"
+    },
+    "microsoft/Ontology-Playground": {
+      "fullName": "microsoft/Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "language": "TypeScript",
+      "url": "https://github.com/microsoft/Ontology-Playground",
+      "firstSeenAt": "2026-07-22T05:27:31.985Z"
+    },
+    "mattpocock/skills": {
+      "fullName": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills",
+      "firstSeenAt": "2026-07-22T05:27:32.817Z"
+    },
+    "kangarooking/cangjie-skill": {
+      "fullName": "kangarooking/cangjie-skill",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "language": "Python",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "firstSeenAt": "2026-07-22T05:27:32.818Z"
+    },
+    "ibelick/ui-skills": {
+      "fullName": "ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "url": "https://github.com/ibelick/ui-skills",
+      "firstSeenAt": "2026-07-22T05:27:32.821Z"
+    },
+    "HKUDS/Vibe-Trading": {
+      "fullName": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "firstSeenAt": "2026-07-22T05:27:32.821Z"
+    },
+    "KnockOutEZ/wigolo": {
+      "fullName": "KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "firstSeenAt": "2026-07-22T05:27:32.821Z"
+    },
+    "OpenCut-app/OpenCut": {
+      "fullName": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "firstSeenAt": "2026-07-22T05:27:32.822Z"
+    },
+    "Shubhamsaboo/awesome-llm-apps": {
+      "fullName": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "firstSeenAt": "2026-07-22T05:27:32.822Z"
+    },
+    "Nutlope/hallmark": {
+      "fullName": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "url": "https://github.com/Nutlope/hallmark",
+      "firstSeenAt": "2026-07-22T05:27:32.824Z"
+    },
+    "MoonshotAI/kimi-cli": {
+      "fullName": "MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "firstSeenAt": "2026-07-22T05:27:32.831Z"
+    },
+    "HKUDS/DeepTutor": {
+      "fullName": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "firstSeenAt": "2026-07-22T05:27:32.848Z"
+    },
+    "HKUDS/nanobot": {
+      "fullName": "HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "language": "Python",
+      "url": "https://github.com/HKUDS/nanobot",
+      "firstSeenAt": "2026-07-22T05:27:33.439Z"
+    },
+    "stablyai/orca": {
+      "fullName": "stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "language": "TypeScript",
+      "url": "https://github.com/stablyai/orca",
+      "firstSeenAt": "2026-07-22T05:27:33.713Z"
+    },
+    "openinterpreter/openinterpreter": {
+      "fullName": "openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "firstSeenAt": "2026-07-22T05:27:33.713Z"
+    },
+    "Dicklesworthstone/destructive_command_guard": {
+      "fullName": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "firstSeenAt": "2026-07-22T05:27:33.714Z"
+    },
+    "iOfficeAI/OfficeCLI": {
+      "fullName": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "firstSeenAt": "2026-07-22T05:27:33.724Z"
+    },
+    "earendil-works/pi": {
+      "fullName": "earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "url": "https://github.com/earendil-works/pi",
+      "firstSeenAt": "2026-07-22T05:27:33.724Z"
+    },
+    "openai/codex": {
+      "fullName": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "url": "https://github.com/openai/codex",
+      "firstSeenAt": "2026-07-22T05:27:33.731Z"
+    }
+  },
+  "snapshots": {
+    "ayghri/i-have-adhd": [
+      {
+        "stars": 7186,
+        "at": "2026-07-22T05:27:31.028Z"
+      }
+    ],
+    "tirth8205/code-review-graph": [
+      {
+        "stars": 24771,
+        "at": "2026-07-22T05:27:31.034Z"
+      }
+    ],
+    "1jehuang/jcode": [
+      {
+        "stars": 10447,
+        "at": "2026-07-22T05:27:31.039Z"
+      }
+    ],
+    "bojieli/ai-agent-book": [
+      {
+        "stars": 15526,
+        "at": "2026-07-22T05:27:31.039Z"
+      }
+    ],
+    "koala73/worldmonitor": [
+      {
+        "stars": 66201,
+        "at": "2026-07-22T05:27:31.039Z"
+      }
+    ],
+    "oblien/openship": [
+      {
+        "stars": 6444,
+        "at": "2026-07-22T05:27:31.045Z"
+      }
+    ],
+    "every-app/open-seo": [
+      {
+        "stars": 6685,
+        "at": "2026-07-22T05:27:31.048Z"
+      }
+    ],
+    "tradesdontlie/tradingview-mcp": [
+      {
+        "stars": 4922,
+        "at": "2026-07-22T05:27:31.052Z"
+      }
+    ],
+    "AstrBotDevs/AstrBot": [
+      {
+        "stars": 37566,
+        "at": "2026-07-22T05:27:31.073Z"
+      }
+    ],
+    "earthtojake/text-to-cad": [
+      {
+        "stars": 9283,
+        "at": "2026-07-22T05:27:31.099Z"
+      }
+    ],
+    "chrislgarry/Apollo-11": [
+      {
+        "stars": 70037,
+        "at": "2026-07-22T05:27:31.919Z"
+      }
+    ],
+    "schollz/croc": [
+      {
+        "stars": 36934,
+        "at": "2026-07-22T05:27:31.921Z"
+      }
+    ],
+    "agegr/pi-web": [
+      {
+        "stars": 1803,
+        "at": "2026-07-22T05:27:31.927Z"
+      }
+    ],
+    "DioxusLabs/dioxus": [
+      {
+        "stars": 37742,
+        "at": "2026-07-22T05:27:31.928Z"
+      }
+    ],
+    "diegosouzapw/OmniRoute": [
+      {
+        "stars": 23894,
+        "at": "2026-07-22T05:27:31.934Z"
+      }
+    ],
+    "hyprwm/Hyprland": [
+      {
+        "stars": 37097,
+        "at": "2026-07-22T05:27:31.936Z"
+      }
+    ],
+    "langchain-ai/open_deep_research": [
+      {
+        "stars": 12295,
+        "at": "2026-07-22T05:27:31.955Z"
+      }
+    ],
+    "AlexsJones/llmfit": [
+      {
+        "stars": 30295,
+        "at": "2026-07-22T05:27:31.955Z"
+      }
+    ],
+    "dottxt-ai/outlines": [
+      {
+        "stars": 14906,
+        "at": "2026-07-22T05:27:31.972Z"
+      }
+    ],
+    "microsoft/Ontology-Playground": [
+      {
+        "stars": 2062,
+        "at": "2026-07-22T05:27:31.985Z"
+      }
+    ],
+    "mattpocock/skills": [
+      {
+        "stars": 180900,
+        "at": "2026-07-22T05:27:32.818Z"
+      }
+    ],
+    "kangarooking/cangjie-skill": [
+      {
+        "stars": 4296,
+        "at": "2026-07-22T05:27:32.818Z"
+      }
+    ],
+    "ibelick/ui-skills": [
+      {
+        "stars": 5881,
+        "at": "2026-07-22T05:27:32.821Z"
+      }
+    ],
+    "HKUDS/Vibe-Trading": [
+      {
+        "stars": 26205,
+        "at": "2026-07-22T05:27:32.821Z"
+      }
+    ],
+    "KnockOutEZ/wigolo": [
+      {
+        "stars": 3246,
+        "at": "2026-07-22T05:27:32.821Z"
+      }
+    ],
+    "OpenCut-app/OpenCut": [
+      {
+        "stars": 77128,
+        "at": "2026-07-22T05:27:32.822Z"
+      }
+    ],
+    "Shubhamsaboo/awesome-llm-apps": [
+      {
+        "stars": 125902,
+        "at": "2026-07-22T05:27:32.822Z"
+      }
+    ],
+    "Nutlope/hallmark": [
+      {
+        "stars": 15086,
+        "at": "2026-07-22T05:27:32.824Z"
+      }
+    ],
+    "MoonshotAI/kimi-cli": [
+      {
+        "stars": 10540,
+        "at": "2026-07-22T05:27:32.831Z"
+      }
+    ],
+    "HKUDS/DeepTutor": [
+      {
+        "stars": 28903,
+        "at": "2026-07-22T05:27:32.848Z"
+      }
+    ],
+    "HKUDS/nanobot": [
+      {
+        "stars": 46047,
+        "at": "2026-07-22T05:27:33.439Z"
+      }
+    ],
+    "stablyai/orca": [
+      {
+        "stars": 25250,
+        "at": "2026-07-22T05:27:33.713Z"
+      }
+    ],
+    "openinterpreter/openinterpreter": [
+      {
+        "stars": 67085,
+        "at": "2026-07-22T05:27:33.713Z"
+      }
+    ],
+    "Dicklesworthstone/destructive_command_guard": [
+      {
+        "stars": 5296,
+        "at": "2026-07-22T05:27:33.714Z"
+      }
+    ],
+    "iOfficeAI/OfficeCLI": [
+      {
+        "stars": 20720,
+        "at": "2026-07-22T05:27:33.724Z"
+      }
+    ],
+    "earendil-works/pi": [
+      {
+        "stars": 74917,
+        "at": "2026-07-22T05:27:33.724Z"
+      }
+    ],
+    "openai/codex": [
+      {
+        "stars": 100485,
+        "at": "2026-07-22T05:27:33.731Z"
+      }
+    ]
+  },
+  "sentAlerts": {}
+}

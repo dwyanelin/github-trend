@@ -1,0 +1,27 @@
+{
+  "name": "github-star-explosion-detector",
+  "version": "2.0.0",
+  "description": "Detect GitHub repos with explosive star growth and notify via LINE (GitHub Actions cron)",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "test": "ts-node src/test.ts"
+  },
+  "keywords": ["github", "trending", "stars", "line-bot", "notification"],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/node": "^25.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^11.0.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.1"
+  }
+}
