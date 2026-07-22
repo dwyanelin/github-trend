@@ -67,9 +67,9 @@ The workflow at [.github/workflows/star-watch.yml](.github/workflows/star-watch.
 
 ```bash
 cp .env.example .env   # fill in LINE_CHANNEL_ACCESS_TOKEN (and optionally GITHUB_TOKEN)
-npm install
-npm test               # unit tests (no network needed)
-npm run dev            # run the full pipeline once (scrape → track → analyze → broadcast)
+pnpm install
+pnpm test              # unit tests (no network needed)
+pnpm run dev           # run the full pipeline once (scrape → track → analyze → broadcast)
 ```
 
 Note: running the pipeline locally writes to `data/history.json` and, if thresholds are hit, sends a **real broadcast** to your LINE OA followers.
