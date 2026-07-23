@@ -100,7 +100,7 @@
     },
     "diegosouzapw/OmniRoute": {
       "fullName": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "firstSeenAt": "2026-07-22T05:27:31.934Z"
@@ -494,6 +494,10 @@
       {
         "stars": 25773,
         "at": "2026-07-23T17:25:19.217Z"
+      },
+      {
+        "stars": 25806,
+        "at": "2026-07-23T21:07:11.546Z"
       }
     ],
     "1jehuang/jcode": [
@@ -544,6 +548,10 @@
       {
         "stars": 10943,
         "at": "2026-07-23T17:25:19.228Z"
+      },
+      {
+        "stars": 10977,
+        "at": "2026-07-23T21:07:11.608Z"
       }
     ],
     "bojieli/ai-agent-book": [
@@ -612,6 +620,10 @@
       {
         "stars": 71101,
         "at": "2026-07-23T17:25:18.484Z"
+      },
+      {
+        "stars": 71371,
+        "at": "2026-07-23T21:07:10.763Z"
       }
     ],
     "oblien/openship": [
@@ -734,6 +746,10 @@
       {
         "stars": 9842,
         "at": "2026-07-23T17:25:18.456Z"
+      },
+      {
+        "stars": 9914,
+        "at": "2026-07-23T21:07:10.781Z"
       }
     ],
     "chrislgarry/Apollo-11": [
@@ -784,6 +800,10 @@
       {
         "stars": 70972,
         "at": "2026-07-23T17:25:18.489Z"
+      },
+      {
+        "stars": 71047,
+        "at": "2026-07-23T21:07:10.763Z"
       }
     ],
     "schollz/croc": [
@@ -876,6 +896,10 @@
       {
         "stars": 2302,
         "at": "2026-07-23T17:25:18.459Z"
+      },
+      {
+        "stars": 2324,
+        "at": "2026-07-23T21:07:10.790Z"
       }
     ],
     "DioxusLabs/dioxus": [
@@ -968,6 +992,10 @@
       {
         "stars": 26747,
         "at": "2026-07-23T17:25:18.469Z"
+      },
+      {
+        "stars": 26975,
+        "at": "2026-07-23T21:07:10.778Z"
       }
     ],
     "hyprwm/Hyprland": [
@@ -1216,6 +1244,10 @@
       {
         "stars": 6133,
         "at": "2026-07-23T17:25:19.945Z"
+      },
+      {
+        "stars": 6147,
+        "at": "2026-07-23T21:07:12.344Z"
       }
     ],
     "HKUDS/Vibe-Trading": [
@@ -1344,6 +1376,10 @@
       {
         "stars": 126828,
         "at": "2026-07-23T17:25:19.958Z"
+      },
+      {
+        "stars": 126884,
+        "at": "2026-07-23T21:07:12.321Z"
       }
     ],
     "Nutlope/hallmark": [
@@ -1394,6 +1430,10 @@
       {
         "stars": 16107,
         "at": "2026-07-23T17:25:19.206Z"
+      },
+      {
+        "stars": 16192,
+        "at": "2026-07-23T21:07:11.545Z"
       }
     ],
     "MoonshotAI/kimi-cli": [
@@ -1444,6 +1484,10 @@
       {
         "stars": 10680,
         "at": "2026-07-23T17:25:19.948Z"
+      },
+      {
+        "stars": 10692,
+        "at": "2026-07-23T21:07:12.430Z"
       }
     ],
     "HKUDS/DeepTutor": [
@@ -1494,6 +1538,10 @@
       {
         "stars": 29331,
         "at": "2026-07-23T17:25:19.958Z"
+      },
+      {
+        "stars": 29351,
+        "at": "2026-07-23T21:07:12.354Z"
       }
     ],
     "HKUDS/nanobot": [
@@ -1682,6 +1730,10 @@
       {
         "stars": 76198,
         "at": "2026-07-23T17:25:19.965Z"
+      },
+      {
+        "stars": 76241,
+        "at": "2026-07-23T21:07:12.314Z"
       }
     ],
     "openai/codex": [
@@ -1738,6 +1790,10 @@
       {
         "stars": 4752,
         "at": "2026-07-23T17:25:19.221Z"
+      },
+      {
+        "stars": 4772,
+        "at": "2026-07-23T21:07:11.552Z"
       }
     ],
     "ruvnet/RuView": [
@@ -1772,6 +1828,10 @@
       {
         "stars": 84955,
         "at": "2026-07-23T17:25:19.215Z"
+      },
+      {
+        "stars": 85109,
+        "at": "2026-07-23T21:07:11.565Z"
       }
     ],
     "shiyu-coder/Kronos": [
@@ -1806,6 +1866,10 @@
       {
         "stars": 32928,
         "at": "2026-07-23T17:25:18.456Z"
+      },
+      {
+        "stars": 32988,
+        "at": "2026-07-23T21:07:10.847Z"
       }
     ],
     "ComposioHQ/awesome-claude-skills": [
@@ -1840,6 +1904,10 @@
       {
         "stars": 69274,
         "at": "2026-07-23T17:25:18.488Z"
+      },
+      {
+        "stars": 69361,
+        "at": "2026-07-23T21:07:10.794Z"
       }
     ],
     "likec4/likec4": [
@@ -1874,6 +1942,10 @@
       {
         "stars": 4609,
         "at": "2026-07-23T17:25:19.249Z"
+      },
+      {
+        "stars": 4653,
+        "at": "2026-07-23T21:07:11.564Z"
       }
     ],
     "jamiepine/voicebox": [
@@ -1986,6 +2058,10 @@
       {
         "stars": 8788,
         "at": "2026-07-23T17:25:18.478Z"
+      },
+      {
+        "stars": 8848,
+        "at": "2026-07-23T21:07:10.812Z"
       }
     ],
     "apache/ossie": [
@@ -2020,6 +2096,10 @@
       {
         "stars": 1536,
         "at": "2026-07-23T17:25:19.998Z"
+      },
+      {
+        "stars": 1544,
+        "at": "2026-07-23T21:07:12.332Z"
       }
     ],
     "chenyme/grok2api": [
@@ -2072,6 +2152,10 @@
       {
         "stars": 15056,
         "at": "2026-07-23T17:25:19.986Z"
+      },
+      {
+        "stars": 15091,
+        "at": "2026-07-23T21:07:12.311Z"
       }
     ],
     "citrolabs/ego-lite": [
@@ -2082,6 +2166,10 @@
       {
         "stars": 1447,
         "at": "2026-07-23T17:25:18.505Z"
+      },
+      {
+        "stars": 1542,
+        "at": "2026-07-23T21:07:10.783Z"
       }
     ],
     "block/buzz": [
@@ -2092,6 +2180,10 @@
       {
         "stars": 6079,
         "at": "2026-07-23T17:25:18.494Z"
+      },
+      {
+        "stars": 6541,
+        "at": "2026-07-23T21:07:10.871Z"
       }
     ],
     "Julian-adv/OpenMMO": [
@@ -2102,6 +2194,10 @@
       {
         "stars": 1285,
         "at": "2026-07-23T17:25:19.209Z"
+      },
+      {
+        "stars": 1320,
+        "at": "2026-07-23T21:07:11.553Z"
       }
     ],
     "Automattic/harper": [
@@ -2112,6 +2208,10 @@
       {
         "stars": 12044,
         "at": "2026-07-23T17:25:19.214Z"
+      },
+      {
+        "stars": 12179,
+        "at": "2026-07-23T21:07:11.590Z"
       }
     ],
     "alibaba/open-code-review": [
@@ -2122,6 +2222,10 @@
       {
         "stars": 11278,
         "at": "2026-07-23T17:25:19.212Z"
+      },
+      {
+        "stars": 11403,
+        "at": "2026-07-23T21:07:11.590Z"
       }
     ],
     "jellyfin/jellyfin": [
@@ -2132,6 +2236,10 @@
       {
         "stars": 54649,
         "at": "2026-07-23T17:25:19.216Z"
+      },
+      {
+        "stars": 54698,
+        "at": "2026-07-23T21:07:11.580Z"
       }
     ],
     "kvcache-ai/ktransformers": [
@@ -2142,6 +2250,10 @@
       {
         "stars": 18941,
         "at": "2026-07-23T17:25:19.960Z"
+      },
+      {
+        "stars": 18943,
+        "at": "2026-07-23T21:07:12.307Z"
       }
     ],
     "PrismML-Eng/Bonsai-demo": [
@@ -2152,6 +2264,10 @@
       {
         "stars": 1964,
         "at": "2026-07-23T17:25:19.990Z"
+      },
+      {
+        "stars": 1972,
+        "at": "2026-07-23T21:07:12.301Z"
       }
     ],
     "codecrafters-io/build-your-own-x": [
@@ -2162,6 +2278,10 @@
       {
         "stars": 530658,
         "at": "2026-07-23T17:25:19.971Z"
+      },
+      {
+        "stars": 530762,
+        "at": "2026-07-23T21:07:12.305Z"
       }
     ]
   },
