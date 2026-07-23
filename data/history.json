@@ -342,6 +342,69 @@
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-map",
       "firstSeenAt": "2026-07-22T14:01:34.360Z"
+    },
+    "citrolabs/ego-lite": {
+      "fullName": "citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "language": "JavaScript",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "firstSeenAt": "2026-07-23T14:06:43.266Z"
+    },
+    "block/buzz": {
+      "fullName": "block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "url": "https://github.com/block/buzz",
+      "firstSeenAt": "2026-07-23T14:06:43.566Z"
+    },
+    "Julian-adv/OpenMMO": {
+      "fullName": "Julian-adv/OpenMMO",
+      "description": "",
+      "language": "Rust",
+      "url": "https://github.com/Julian-adv/OpenMMO",
+      "firstSeenAt": "2026-07-23T14:06:44.363Z"
+    },
+    "Automattic/harper": {
+      "fullName": "Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "url": "https://github.com/Automattic/harper",
+      "firstSeenAt": "2026-07-23T14:06:44.382Z"
+    },
+    "alibaba/open-code-review": {
+      "fullName": "alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "url": "https://github.com/alibaba/open-code-review",
+      "firstSeenAt": "2026-07-23T14:06:44.387Z"
+    },
+    "jellyfin/jellyfin": {
+      "fullName": "jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "firstSeenAt": "2026-07-23T14:06:44.402Z"
+    },
+    "kvcache-ai/ktransformers": {
+      "fullName": "kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "firstSeenAt": "2026-07-23T14:06:45.200Z"
+    },
+    "PrismML-Eng/Bonsai-demo": {
+      "fullName": "PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "firstSeenAt": "2026-07-23T14:06:45.228Z"
+    },
+    "codecrafters-io/build-your-own-x": {
+      "fullName": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "firstSeenAt": "2026-07-23T14:06:45.260Z"
     }
   },
   "snapshots": {
@@ -423,6 +486,10 @@
       {
         "stars": 25634,
         "at": "2026-07-23T10:25:14.636Z"
+      },
+      {
+        "stars": 25712,
+        "at": "2026-07-23T14:06:44.383Z"
       }
     ],
     "1jehuang/jcode": [
@@ -465,6 +532,10 @@
       {
         "stars": 10869,
         "at": "2026-07-23T10:25:15.337Z"
+      },
+      {
+        "stars": 10910,
+        "at": "2026-07-23T14:06:44.369Z"
       }
     ],
     "bojieli/ai-agent-book": [
@@ -525,6 +596,10 @@
       {
         "stars": 70362,
         "at": "2026-07-23T10:25:13.851Z"
+      },
+      {
+        "stars": 70780,
+        "at": "2026-07-23T14:06:43.266Z"
       }
     ],
     "oblien/openship": [
@@ -639,6 +714,10 @@
       {
         "stars": 9471,
         "at": "2026-07-22T10:27:50.461Z"
+      },
+      {
+        "stars": 9777,
+        "at": "2026-07-23T14:06:43.389Z"
       }
     ],
     "chrislgarry/Apollo-11": [
@@ -681,6 +760,10 @@
       {
         "stars": 70838,
         "at": "2026-07-23T10:25:13.853Z"
+      },
+      {
+        "stars": 70898,
+        "at": "2026-07-23T14:06:43.387Z"
       }
     ],
     "schollz/croc": [
@@ -765,6 +848,10 @@
       {
         "stars": 2207,
         "at": "2026-07-23T10:25:14.663Z"
+      },
+      {
+        "stars": 2259,
+        "at": "2026-07-23T14:06:43.277Z"
       }
     ],
     "DioxusLabs/dioxus": [
@@ -849,6 +936,10 @@
       {
         "stars": 26135,
         "at": "2026-07-23T10:25:13.823Z"
+      },
+      {
+        "stars": 26434,
+        "at": "2026-07-23T14:06:43.291Z"
       }
     ],
     "hyprwm/Hyprland": [
@@ -1089,6 +1180,10 @@
       {
         "stars": 6087,
         "at": "2026-07-23T10:25:15.444Z"
+      },
+      {
+        "stars": 6109,
+        "at": "2026-07-23T14:06:45.257Z"
       }
     ],
     "HKUDS/Vibe-Trading": [
@@ -1209,6 +1304,10 @@
       {
         "stars": 126646,
         "at": "2026-07-23T10:25:15.380Z"
+      },
+      {
+        "stars": 126735,
+        "at": "2026-07-23T14:06:45.216Z"
       }
     ],
     "Nutlope/hallmark": [
@@ -1251,6 +1350,10 @@
       {
         "stars": 15930,
         "at": "2026-07-23T10:25:14.610Z"
+      },
+      {
+        "stars": 16011,
+        "at": "2026-07-23T14:06:44.367Z"
       }
     ],
     "MoonshotAI/kimi-cli": [
@@ -1293,6 +1396,10 @@
       {
         "stars": 10662,
         "at": "2026-07-23T10:25:15.376Z"
+      },
+      {
+        "stars": 10670,
+        "at": "2026-07-23T14:06:45.199Z"
       }
     ],
     "HKUDS/DeepTutor": [
@@ -1335,6 +1442,10 @@
       {
         "stars": 29261,
         "at": "2026-07-23T10:25:15.375Z"
+      },
+      {
+        "stars": 29298,
+        "at": "2026-07-23T14:06:45.168Z"
       }
     ],
     "HKUDS/nanobot": [
@@ -1515,6 +1626,10 @@
       {
         "stars": 75991,
         "at": "2026-07-23T10:25:15.393Z"
+      },
+      {
+        "stars": 76111,
+        "at": "2026-07-23T14:06:45.221Z"
       }
     ],
     "openai/codex": [
@@ -1563,6 +1678,10 @@
       {
         "stars": 4686,
         "at": "2026-07-23T10:25:15.373Z"
+      },
+      {
+        "stars": 4727,
+        "at": "2026-07-23T14:06:44.334Z"
       }
     ],
     "ruvnet/RuView": [
@@ -1589,6 +1708,10 @@
       {
         "stars": 84539,
         "at": "2026-07-23T10:25:13.843Z"
+      },
+      {
+        "stars": 84799,
+        "at": "2026-07-23T14:06:44.334Z"
       }
     ],
     "shiyu-coder/Kronos": [
@@ -1615,6 +1738,10 @@
       {
         "stars": 32784,
         "at": "2026-07-23T10:25:13.820Z"
+      },
+      {
+        "stars": 32871,
+        "at": "2026-07-23T14:06:43.313Z"
       }
     ],
     "ComposioHQ/awesome-claude-skills": [
@@ -1641,6 +1768,10 @@
       {
         "stars": 69074,
         "at": "2026-07-23T10:25:13.890Z"
+      },
+      {
+        "stars": 69182,
+        "at": "2026-07-23T14:06:43.296Z"
       }
     ],
     "likec4/likec4": [
@@ -1667,6 +1798,10 @@
       {
         "stars": 4507,
         "at": "2026-07-23T10:25:13.852Z"
+      },
+      {
+        "stars": 4558,
+        "at": "2026-07-23T14:06:44.365Z"
       }
     ],
     "jamiepine/voicebox": [
@@ -1771,6 +1906,10 @@
       {
         "stars": 8656,
         "at": "2026-07-23T10:25:14.604Z"
+      },
+      {
+        "stars": 8717,
+        "at": "2026-07-23T14:06:43.287Z"
       }
     ],
     "apache/ossie": [
@@ -1797,6 +1936,10 @@
       {
         "stars": 1522,
         "at": "2026-07-23T10:25:15.382Z"
+      },
+      {
+        "stars": 1529,
+        "at": "2026-07-23T14:06:45.220Z"
       }
     ],
     "chenyme/grok2api": [
@@ -1841,6 +1984,64 @@
       {
         "stars": 14988,
         "at": "2026-07-23T10:25:16.137Z"
+      },
+      {
+        "stars": 15026,
+        "at": "2026-07-23T14:06:45.222Z"
+      }
+    ],
+    "citrolabs/ego-lite": [
+      {
+        "stars": 1323,
+        "at": "2026-07-23T14:06:43.266Z"
+      }
+    ],
+    "block/buzz": [
+      {
+        "stars": 5544,
+        "at": "2026-07-23T14:06:43.566Z"
+      }
+    ],
+    "Julian-adv/OpenMMO": [
+      {
+        "stars": 1238,
+        "at": "2026-07-23T14:06:44.363Z"
+      }
+    ],
+    "Automattic/harper": [
+      {
+        "stars": 11932,
+        "at": "2026-07-23T14:06:44.382Z"
+      }
+    ],
+    "alibaba/open-code-review": [
+      {
+        "stars": 11155,
+        "at": "2026-07-23T14:06:44.387Z"
+      }
+    ],
+    "jellyfin/jellyfin": [
+      {
+        "stars": 54619,
+        "at": "2026-07-23T14:06:44.402Z"
+      }
+    ],
+    "kvcache-ai/ktransformers": [
+      {
+        "stars": 18938,
+        "at": "2026-07-23T14:06:45.200Z"
+      }
+    ],
+    "PrismML-Eng/Bonsai-demo": [
+      {
+        "stars": 1960,
+        "at": "2026-07-23T14:06:45.228Z"
+      }
+    ],
+    "codecrafters-io/build-your-own-x": [
+      {
+        "stars": 530542,
+        "at": "2026-07-23T14:06:45.260Z"
       }
     ]
   },
@@ -1851,6 +2052,7 @@
     "oblien/openship|24h": "2026-07-23T06:32:10.646Z",
     "mattpocock/skills|24h": "2026-07-23T06:32:10.646Z",
     "schollz/croc|24h": "2026-07-23T10:25:16.635Z",
-    "earendil-works/pi|24h": "2026-07-23T10:25:16.635Z"
+    "earendil-works/pi|24h": "2026-07-23T10:25:16.635Z",
+    "ruvnet/RuView|24h": "2026-07-23T14:06:45.674Z"
   }
 }
