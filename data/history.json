@@ -345,7 +345,7 @@
     },
     "citrolabs/ego-lite": {
       "fullName": "citrolabs/ego-lite",
-      "description": "The best browser for both you and your AI agents work in parallel.",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "url": "https://github.com/citrolabs/ego-lite",
       "firstSeenAt": "2026-07-23T14:06:43.266Z"
@@ -405,6 +405,34 @@
       "language": "Markdown",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "firstSeenAt": "2026-07-23T14:06:45.260Z"
+    },
+    "yorukot/superfile": {
+      "fullName": "yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "url": "https://github.com/yorukot/superfile",
+      "firstSeenAt": "2026-07-24T13:49:25.297Z"
+    },
+    "Lordog/dive-into-llms": {
+      "fullName": "Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "firstSeenAt": "2026-07-24T13:49:26.040Z"
+    },
+    "CoreBunch/Instatic": {
+      "fullName": "CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. ",
+      "language": "TypeScript",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "firstSeenAt": "2026-07-24T13:49:26.100Z"
+    },
+    "OtterMind/Chat2DB": {
+      "fullName": "OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "firstSeenAt": "2026-07-24T13:49:26.111Z"
     }
   },
   "snapshots": {
@@ -510,6 +538,10 @@
       {
         "stars": 26062,
         "at": "2026-07-24T10:21:23.729Z"
+      },
+      {
+        "stars": 26112,
+        "at": "2026-07-24T13:49:26.119Z"
       }
     ],
     "1jehuang/jcode": [
@@ -576,6 +608,10 @@
       {
         "stars": 11095,
         "at": "2026-07-24T10:21:23.744Z"
+      },
+      {
+        "stars": 11121,
+        "at": "2026-07-24T13:49:26.146Z"
       }
     ],
     "bojieli/ai-agent-book": [
@@ -594,6 +630,10 @@
       {
         "stars": 16816,
         "at": "2026-07-22T10:27:50.444Z"
+      },
+      {
+        "stars": 18892,
+        "at": "2026-07-24T13:49:26.079Z"
       }
     ],
     "koala73/worldmonitor": [
@@ -660,6 +700,10 @@
       {
         "stars": 72576,
         "at": "2026-07-24T10:21:22.956Z"
+      },
+      {
+        "stars": 72813,
+        "at": "2026-07-24T13:49:25.327Z"
       }
     ],
     "oblien/openship": [
@@ -864,6 +908,10 @@
       {
         "stars": 71247,
         "at": "2026-07-24T10:21:22.980Z"
+      },
+      {
+        "stars": 71295,
+        "at": "2026-07-24T13:49:26.071Z"
       }
     ],
     "schollz/croc": [
@@ -906,6 +954,10 @@
       {
         "stars": 38017,
         "at": "2026-07-23T10:25:13.837Z"
+      },
+      {
+        "stars": 38215,
+        "at": "2026-07-24T13:49:27.669Z"
       }
     ],
     "agegr/pi-web": [
@@ -972,6 +1024,10 @@
       {
         "stars": 2535,
         "at": "2026-07-24T10:21:22.956Z"
+      },
+      {
+        "stars": 2561,
+        "at": "2026-07-24T13:49:26.874Z"
       }
     ],
     "DioxusLabs/dioxus": [
@@ -1080,6 +1136,10 @@
       {
         "stars": 27952,
         "at": "2026-07-24T10:21:22.945Z"
+      },
+      {
+        "stars": 28190,
+        "at": "2026-07-24T13:49:26.097Z"
       }
     ],
     "hyprwm/Hyprland": [
@@ -1260,6 +1320,10 @@
       {
         "stars": 183523,
         "at": "2026-07-23T10:25:15.403Z"
+      },
+      {
+        "stars": 186045,
+        "at": "2026-07-24T13:49:26.070Z"
       }
     ],
     "kangarooking/cangjie-skill": [
@@ -1344,6 +1408,10 @@
       {
         "stars": 6235,
         "at": "2026-07-24T10:21:24.558Z"
+      },
+      {
+        "stars": 6253,
+        "at": "2026-07-24T13:49:26.872Z"
       }
     ],
     "HKUDS/Vibe-Trading": [
@@ -1554,6 +1622,10 @@
       {
         "stars": 16514,
         "at": "2026-07-24T10:21:23.713Z"
+      },
+      {
+        "stars": 16632,
+        "at": "2026-07-24T13:49:26.918Z"
       }
     ],
     "MoonshotAI/kimi-cli": [
@@ -1620,6 +1692,10 @@
       {
         "stars": 10739,
         "at": "2026-07-24T10:21:24.619Z"
+      },
+      {
+        "stars": 10756,
+        "at": "2026-07-24T13:49:26.891Z"
       }
     ],
     "HKUDS/DeepTutor": [
@@ -1686,6 +1762,10 @@
       {
         "stars": 29490,
         "at": "2026-07-24T10:21:23.720Z"
+      },
+      {
+        "stars": 29511,
+        "at": "2026-07-24T13:49:26.850Z"
       }
     ],
     "HKUDS/nanobot": [
@@ -1890,6 +1970,10 @@
       {
         "stars": 76771,
         "at": "2026-07-24T10:21:24.619Z"
+      },
+      {
+        "stars": 76872,
+        "at": "2026-07-24T13:49:26.840Z"
       }
     ],
     "openai/codex": [
@@ -1962,6 +2046,10 @@
       {
         "stars": 4875,
         "at": "2026-07-24T10:21:23.741Z"
+      },
+      {
+        "stars": 4894,
+        "at": "2026-07-24T13:49:26.089Z"
       }
     ],
     "ruvnet/RuView": [
@@ -2012,6 +2100,10 @@
       {
         "stars": 85542,
         "at": "2026-07-24T10:21:23.765Z"
+      },
+      {
+        "stars": 85667,
+        "at": "2026-07-24T13:49:25.324Z"
       }
     ],
     "shiyu-coder/Kronos": [
@@ -2062,6 +2154,10 @@
       {
         "stars": 33288,
         "at": "2026-07-24T10:21:22.960Z"
+      },
+      {
+        "stars": 33359,
+        "at": "2026-07-24T13:49:25.367Z"
       }
     ],
     "ComposioHQ/awesome-claude-skills": [
@@ -2112,6 +2208,10 @@
       {
         "stars": 69720,
         "at": "2026-07-24T10:21:22.973Z"
+      },
+      {
+        "stars": 69815,
+        "at": "2026-07-24T13:49:25.319Z"
       }
     ],
     "likec4/likec4": [
@@ -2162,6 +2262,10 @@
       {
         "stars": 4843,
         "at": "2026-07-24T10:21:23.749Z"
+      },
+      {
+        "stars": 4897,
+        "at": "2026-07-24T13:49:25.314Z"
       }
     ],
     "jamiepine/voicebox": [
@@ -2214,6 +2318,10 @@
       {
         "stars": 42671,
         "at": "2026-07-23T10:25:14.636Z"
+      },
+      {
+        "stars": 43023,
+        "at": "2026-07-24T13:49:26.820Z"
       }
     ],
     "dreamhunter2333/cloudflare_temp_email": [
@@ -2290,6 +2398,10 @@
       {
         "stars": 9113,
         "at": "2026-07-24T10:21:22.963Z"
+      },
+      {
+        "stars": 9181,
+        "at": "2026-07-24T13:49:25.297Z"
       }
     ],
     "apache/ossie": [
@@ -2340,6 +2452,10 @@
       {
         "stars": 1580,
         "at": "2026-07-24T10:21:24.626Z"
+      },
+      {
+        "stars": 1592,
+        "at": "2026-07-24T13:49:26.896Z"
       }
     ],
     "chenyme/grok2api": [
@@ -2408,6 +2524,10 @@
       {
         "stars": 15201,
         "at": "2026-07-24T10:21:24.602Z"
+      },
+      {
+        "stars": 15233,
+        "at": "2026-07-24T13:49:26.861Z"
       }
     ],
     "citrolabs/ego-lite": [
@@ -2434,6 +2554,10 @@
       {
         "stars": 2064,
         "at": "2026-07-24T10:21:23.013Z"
+      },
+      {
+        "stars": 2190,
+        "at": "2026-07-24T13:49:25.312Z"
       }
     ],
     "block/buzz": [
@@ -2460,6 +2584,10 @@
       {
         "stars": 8177,
         "at": "2026-07-24T10:21:23.002Z"
+      },
+      {
+        "stars": 8682,
+        "at": "2026-07-24T13:49:25.361Z"
       }
     ],
     "Julian-adv/OpenMMO": [
@@ -2500,6 +2628,10 @@
       {
         "stars": 12640,
         "at": "2026-07-24T10:21:23.862Z"
+      },
+      {
+        "stars": 12762,
+        "at": "2026-07-24T13:49:25.320Z"
       }
     ],
     "alibaba/open-code-review": [
@@ -2578,6 +2710,10 @@
       {
         "stars": 18976,
         "at": "2026-07-24T10:21:24.580Z"
+      },
+      {
+        "stars": 18981,
+        "at": "2026-07-24T13:49:27.686Z"
       }
     ],
     "PrismML-Eng/Bonsai-demo": [
@@ -2604,6 +2740,10 @@
       {
         "stars": 2005,
         "at": "2026-07-24T10:21:24.592Z"
+      },
+      {
+        "stars": 2012,
+        "at": "2026-07-24T13:49:26.871Z"
       }
     ],
     "codecrafters-io/build-your-own-x": [
@@ -2631,6 +2771,30 @@
         "stars": 531072,
         "at": "2026-07-24T10:21:24.597Z"
       }
+    ],
+    "yorukot/superfile": [
+      {
+        "stars": 19206,
+        "at": "2026-07-24T13:49:25.297Z"
+      }
+    ],
+    "Lordog/dive-into-llms": [
+      {
+        "stars": 44880,
+        "at": "2026-07-24T13:49:26.040Z"
+      }
+    ],
+    "CoreBunch/Instatic": [
+      {
+        "stars": 4083,
+        "at": "2026-07-24T13:49:26.100Z"
+      }
+    ],
+    "OtterMind/Chat2DB": [
+      {
+        "stars": 26174,
+        "at": "2026-07-24T13:49:26.111Z"
+      }
     ]
   },
   "sentAlerts": {
@@ -2641,6 +2805,7 @@
     "mattpocock/skills|24h": "2026-07-23T06:32:10.646Z",
     "schollz/croc|24h": "2026-07-23T10:25:16.635Z",
     "earendil-works/pi|24h": "2026-07-23T10:25:16.635Z",
-    "ruvnet/RuView|24h": "2026-07-23T14:06:45.674Z"
+    "ruvnet/RuView|24h": "2026-07-23T14:06:45.674Z",
+    "bojieli/ai-agent-book|24h": "2026-07-24T13:49:28.368Z"
   }
 }
