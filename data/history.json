@@ -433,6 +433,55 @@
       "language": "Java",
       "url": "https://github.com/OtterMind/Chat2DB",
       "firstSeenAt": "2026-07-24T13:49:26.111Z"
+    },
+    "obra/superpowers": {
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers",
+      "firstSeenAt": "2026-07-25T13:39:34.770Z"
+    },
+    "permissionlesstech/bitchat": {
+      "fullName": "permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "firstSeenAt": "2026-07-25T13:39:34.783Z"
+    },
+    "anthropics/claude-cookbooks": {
+      "fullName": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "firstSeenAt": "2026-07-25T13:39:34.797Z"
+    },
+    "RyanCodrai/turbovec": {
+      "fullName": "RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "firstSeenAt": "2026-07-25T13:39:35.545Z"
+    },
+    "affaan-m/ECC": {
+      "fullName": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC",
+      "firstSeenAt": "2026-07-25T13:39:35.561Z"
+    },
+    "andrewyng/aisuite": {
+      "fullName": "andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers ",
+      "language": "Python",
+      "url": "https://github.com/andrewyng/aisuite",
+      "firstSeenAt": "2026-07-25T13:39:35.568Z"
+    },
+    "palmier-io/palmier-pro": {
+      "fullName": "palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "firstSeenAt": "2026-07-25T13:39:35.572Z"
     }
   },
   "snapshots": {
@@ -562,6 +611,10 @@
       {
         "stars": 26306,
         "at": "2026-07-25T09:50:45.076Z"
+      },
+      {
+        "stars": 26329,
+        "at": "2026-07-25T13:39:36.239Z"
       }
     ],
     "1jehuang/jcode": [
@@ -652,6 +705,10 @@
       {
         "stars": 11303,
         "at": "2026-07-25T09:50:45.076Z"
+      },
+      {
+        "stars": 11344,
+        "at": "2026-07-25T13:39:36.281Z"
       }
     ],
     "bojieli/ai-agent-book": [
@@ -694,6 +751,10 @@
       {
         "stars": 19457,
         "at": "2026-07-25T09:50:45.080Z"
+      },
+      {
+        "stars": 19555,
+        "at": "2026-07-25T13:39:35.544Z"
       }
     ],
     "koala73/worldmonitor": [
@@ -784,6 +845,10 @@
       {
         "stars": 73734,
         "at": "2026-07-25T09:50:44.316Z"
+      },
+      {
+        "stars": 73889,
+        "at": "2026-07-25T13:39:35.519Z"
       }
     ],
     "oblien/openship": [
@@ -844,6 +909,10 @@
       {
         "stars": 6804,
         "at": "2026-07-22T10:27:50.472Z"
+      },
+      {
+        "stars": 7835,
+        "at": "2026-07-25T13:39:36.985Z"
       }
     ],
     "tradesdontlie/tradingview-mcp": [
@@ -1078,6 +1147,10 @@
       {
         "stars": 38378,
         "at": "2026-07-25T09:50:46.542Z"
+      },
+      {
+        "stars": 38406,
+        "at": "2026-07-25T13:39:36.999Z"
       }
     ],
     "agegr/pi-web": [
@@ -1168,6 +1241,10 @@
       {
         "stars": 2670,
         "at": "2026-07-25T09:50:45.793Z"
+      },
+      {
+        "stars": 2696,
+        "at": "2026-07-25T13:39:36.266Z"
       }
     ],
     "DioxusLabs/dioxus": [
@@ -1300,6 +1377,10 @@
       {
         "stars": 29384,
         "at": "2026-07-25T09:50:45.056Z"
+      },
+      {
+        "stars": 29577,
+        "at": "2026-07-25T13:39:36.274Z"
       }
     ],
     "hyprwm/Hyprland": [
@@ -1342,6 +1423,10 @@
       {
         "stars": 37394,
         "at": "2026-07-23T10:25:14.618Z"
+      },
+      {
+        "stars": 37444,
+        "at": "2026-07-25T13:39:37.033Z"
       }
     ],
     "langchain-ai/open_deep_research": [
@@ -1504,6 +1589,10 @@
       {
         "stars": 187447,
         "at": "2026-07-25T09:50:45.068Z"
+      },
+      {
+        "stars": 187689,
+        "at": "2026-07-25T13:39:35.517Z"
       }
     ],
     "kangarooking/cangjie-skill": [
@@ -1612,6 +1701,10 @@
       {
         "stars": 6348,
         "at": "2026-07-25T09:50:45.784Z"
+      },
+      {
+        "stars": 6372,
+        "at": "2026-07-25T13:39:36.977Z"
       }
     ],
     "HKUDS/Vibe-Trading": [
@@ -1846,6 +1939,10 @@
       {
         "stars": 17319,
         "at": "2026-07-25T09:50:45.831Z"
+      },
+      {
+        "stars": 17410,
+        "at": "2026-07-25T13:39:36.992Z"
       }
     ],
     "MoonshotAI/kimi-cli": [
@@ -1936,6 +2033,10 @@
       {
         "stars": 10809,
         "at": "2026-07-25T09:50:45.850Z"
+      },
+      {
+        "stars": 10815,
+        "at": "2026-07-25T13:39:36.311Z"
       }
     ],
     "HKUDS/DeepTutor": [
@@ -2026,6 +2127,10 @@
       {
         "stars": 29633,
         "at": "2026-07-25T09:50:45.818Z"
+      },
+      {
+        "stars": 29678,
+        "at": "2026-07-25T13:39:36.270Z"
       }
     ],
     "HKUDS/nanobot": [
@@ -2062,6 +2167,10 @@
       {
         "stars": 25527,
         "at": "2026-07-22T10:27:52.628Z"
+      },
+      {
+        "stars": 28756,
+        "at": "2026-07-25T13:39:37.016Z"
       }
     ],
     "openinterpreter/openinterpreter": [
@@ -2254,6 +2363,10 @@
       {
         "stars": 77284,
         "at": "2026-07-25T09:50:45.846Z"
+      },
+      {
+        "stars": 77371,
+        "at": "2026-07-25T13:39:36.292Z"
       }
     ],
     "openai/codex": [
@@ -2350,6 +2463,10 @@
       {
         "stars": 4991,
         "at": "2026-07-25T09:50:45.136Z"
+      },
+      {
+        "stars": 5008,
+        "at": "2026-07-25T13:39:36.251Z"
       }
     ],
     "ruvnet/RuView": [
@@ -2424,6 +2541,10 @@
       {
         "stars": 86149,
         "at": "2026-07-25T09:50:44.332Z"
+      },
+      {
+        "stars": 86203,
+        "at": "2026-07-25T13:39:36.282Z"
       }
     ],
     "shiyu-coder/Kronos": [
@@ -2498,6 +2619,10 @@
       {
         "stars": 33623,
         "at": "2026-07-25T09:50:44.317Z"
+      },
+      {
+        "stars": 33664,
+        "at": "2026-07-25T13:39:34.763Z"
       }
     ],
     "ComposioHQ/awesome-claude-skills": [
@@ -2572,6 +2697,10 @@
       {
         "stars": 70292,
         "at": "2026-07-25T09:50:44.343Z"
+      },
+      {
+        "stars": 70369,
+        "at": "2026-07-25T13:39:34.785Z"
       }
     ],
     "likec4/likec4": [
@@ -2672,6 +2801,10 @@
       {
         "stars": 46106,
         "at": "2026-07-23T10:25:13.833Z"
+      },
+      {
+        "stars": 46623,
+        "at": "2026-07-25T13:39:37.021Z"
       }
     ],
     "rohitg00/ai-engineering-from-scratch": [
@@ -2722,6 +2855,10 @@
       {
         "stars": 43297,
         "at": "2026-07-25T09:50:45.828Z"
+      },
+      {
+        "stars": 43350,
+        "at": "2026-07-25T13:39:36.257Z"
       }
     ],
     "dreamhunter2333/cloudflare_temp_email": [
@@ -2822,6 +2959,10 @@
       {
         "stars": 9468,
         "at": "2026-07-25T09:50:44.371Z"
+      },
+      {
+        "stars": 9527,
+        "at": "2026-07-25T13:39:34.777Z"
       }
     ],
     "apache/ossie": [
@@ -3038,6 +3179,10 @@
       {
         "stars": 3025,
         "at": "2026-07-25T09:50:44.379Z"
+      },
+      {
+        "stars": 3174,
+        "at": "2026-07-25T13:39:34.795Z"
       }
     ],
     "block/buzz": [
@@ -3088,6 +3233,10 @@
       {
         "stars": 10713,
         "at": "2026-07-25T09:50:44.369Z"
+      },
+      {
+        "stars": 11047,
+        "at": "2026-07-25T13:39:34.844Z"
       }
     ],
     "Julian-adv/OpenMMO": [
@@ -3152,6 +3301,10 @@
       {
         "stars": 13179,
         "at": "2026-07-25T09:50:44.341Z"
+      },
+      {
+        "stars": 13238,
+        "at": "2026-07-25T13:39:34.788Z"
       }
     ],
     "alibaba/open-code-review": [
@@ -3178,6 +3331,10 @@
       {
         "stars": 12073,
         "at": "2026-07-24T10:21:23.698Z"
+      },
+      {
+        "stars": 12638,
+        "at": "2026-07-25T13:39:34.772Z"
       }
     ],
     "jellyfin/jellyfin": [
@@ -3382,6 +3539,10 @@
       {
         "stars": 45198,
         "at": "2026-07-25T09:50:45.076Z"
+      },
+      {
+        "stars": 45256,
+        "at": "2026-07-25T13:39:35.550Z"
       }
     ],
     "CoreBunch/Instatic": [
@@ -3408,6 +3569,10 @@
       {
         "stars": 4428,
         "at": "2026-07-25T09:50:45.041Z"
+      },
+      {
+        "stars": 4540,
+        "at": "2026-07-25T13:39:35.526Z"
       }
     ],
     "OtterMind/Chat2DB": [
@@ -3434,6 +3599,52 @@
       {
         "stars": 26468,
         "at": "2026-07-25T09:50:45.095Z"
+      },
+      {
+        "stars": 26509,
+        "at": "2026-07-25T13:39:35.576Z"
+      }
+    ],
+    "obra/superpowers": [
+      {
+        "stars": 260836,
+        "at": "2026-07-25T13:39:34.770Z"
+      }
+    ],
+    "permissionlesstech/bitchat": [
+      {
+        "stars": 28152,
+        "at": "2026-07-25T13:39:34.783Z"
+      }
+    ],
+    "anthropics/claude-cookbooks": [
+      {
+        "stars": 49713,
+        "at": "2026-07-25T13:39:34.797Z"
+      }
+    ],
+    "RyanCodrai/turbovec": [
+      {
+        "stars": 14168,
+        "at": "2026-07-25T13:39:35.545Z"
+      }
+    ],
+    "affaan-m/ECC": [
+      {
+        "stars": 233107,
+        "at": "2026-07-25T13:39:35.561Z"
+      }
+    ],
+    "andrewyng/aisuite": [
+      {
+        "stars": 15137,
+        "at": "2026-07-25T13:39:35.568Z"
+      }
+    ],
+    "palmier-io/palmier-pro": [
+      {
+        "stars": 12028,
+        "at": "2026-07-25T13:39:35.572Z"
       }
     ]
   },
@@ -3452,6 +3663,9 @@
     "koala73/worldmonitor|72h": "2026-07-25T06:20:01.414Z",
     "mattpocock/skills|72h": "2026-07-25T06:20:01.414Z",
     "diegosouzapw/OmniRoute|72h": "2026-07-25T06:20:01.414Z",
-    "bojieli/ai-agent-book|72h": "2026-07-25T06:20:01.414Z"
+    "bojieli/ai-agent-book|72h": "2026-07-25T06:20:01.414Z",
+    "stablyai/orca|24h": "2026-07-25T13:39:38.034Z",
+    "stablyai/orca|72h": "2026-07-25T13:39:38.034Z",
+    "every-app/open-seo|24h": "2026-07-25T13:39:38.034Z"
   }
 }
