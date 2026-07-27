@@ -524,6 +524,55 @@
       "language": "Java",
       "url": "https://github.com/jenkinsci/jenkins",
       "firstSeenAt": "2026-07-26T13:27:40.016Z"
+    },
+    "NanmiCoder/MediaCrawler": {
+      "fullName": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "firstSeenAt": "2026-07-27T11:26:44.189Z"
+    },
+    "bradautomates/claude-video": {
+      "fullName": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "url": "https://github.com/bradautomates/claude-video",
+      "firstSeenAt": "2026-07-27T11:26:44.203Z"
+    },
+    "moeru-ai/airi": {
+      "fullName": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "url": "https://github.com/moeru-ai/airi",
+      "firstSeenAt": "2026-07-27T11:26:44.213Z"
+    },
+    "vudovn/ag-kit": {
+      "fullName": "vudovn/ag-kit",
+      "description": "",
+      "language": "TypeScript",
+      "url": "https://github.com/vudovn/ag-kit",
+      "firstSeenAt": "2026-07-27T11:26:44.921Z"
+    },
+    "ocornut/imgui": {
+      "fullName": "ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "url": "https://github.com/ocornut/imgui",
+      "firstSeenAt": "2026-07-27T11:26:44.948Z"
+    },
+    "apache/cassandra": {
+      "fullName": "apache/cassandra",
+      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "language": "Java",
+      "url": "https://github.com/apache/cassandra",
+      "firstSeenAt": "2026-07-27T11:26:44.959Z"
+    },
+    "mvanhorn/last30days-skill": {
+      "fullName": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "firstSeenAt": "2026-07-27T11:26:44.970Z"
     }
   },
   "snapshots": {
@@ -563,6 +612,10 @@
       {
         "stars": 8841,
         "at": "2026-07-23T10:25:13.857Z"
+      },
+      {
+        "stars": 10987,
+        "at": "2026-07-27T11:26:44.985Z"
       }
     ],
     "tirth8205/code-review-graph": [
@@ -697,6 +750,10 @@
       {
         "stars": 26739,
         "at": "2026-07-27T07:35:10.140Z"
+      },
+      {
+        "stars": 26804,
+        "at": "2026-07-27T11:26:44.997Z"
       }
     ],
     "1jehuang/jcode": [
@@ -831,6 +888,10 @@
       {
         "stars": 11728,
         "at": "2026-07-27T07:35:10.870Z"
+      },
+      {
+        "stars": 11758,
+        "at": "2026-07-27T11:26:45.807Z"
       }
     ],
     "bojieli/ai-agent-book": [
@@ -917,6 +978,10 @@
       {
         "stars": 21781,
         "at": "2026-07-27T07:35:10.139Z"
+      },
+      {
+        "stars": 22174,
+        "at": "2026-07-27T11:26:44.932Z"
       }
     ],
     "koala73/worldmonitor": [
@@ -1051,6 +1116,10 @@
       {
         "stars": 74983,
         "at": "2026-07-27T07:35:10.112Z"
+      },
+      {
+        "stars": 75101,
+        "at": "2026-07-27T11:26:44.912Z"
       }
     ],
     "oblien/openship": [
@@ -1093,6 +1162,10 @@
       {
         "stars": 7634,
         "at": "2026-07-23T10:25:14.624Z"
+      },
+      {
+        "stars": 8815,
+        "at": "2026-07-27T11:26:44.949Z"
       }
     ],
     "every-app/open-seo": [
@@ -1155,6 +1228,10 @@
       {
         "stars": 8323,
         "at": "2026-07-27T07:35:11.606Z"
+      },
+      {
+        "stars": 8387,
+        "at": "2026-07-27T11:26:46.545Z"
       }
     ],
     "tradesdontlie/tradingview-mcp": [
@@ -1253,6 +1330,10 @@
       {
         "stars": 10663,
         "at": "2026-07-27T07:35:11.587Z"
+      },
+      {
+        "stars": 10723,
+        "at": "2026-07-27T11:26:46.522Z"
       }
     ],
     "chrislgarry/Apollo-11": [
@@ -1453,6 +1534,10 @@
       {
         "stars": 38746,
         "at": "2026-07-27T07:35:10.839Z"
+      },
+      {
+        "stars": 38774,
+        "at": "2026-07-27T11:26:45.693Z"
       }
     ],
     "agegr/pi-web": [
@@ -1587,6 +1672,10 @@
       {
         "stars": 2937,
         "at": "2026-07-27T07:35:10.859Z"
+      },
+      {
+        "stars": 2968,
+        "at": "2026-07-27T11:26:44.898Z"
       }
     ],
     "DioxusLabs/dioxus": [
@@ -1763,6 +1852,10 @@
       {
         "stars": 31394,
         "at": "2026-07-27T07:35:10.879Z"
+      },
+      {
+        "stars": 31614,
+        "at": "2026-07-27T11:26:45.691Z"
       }
     ],
     "hyprwm/Hyprland": [
@@ -1829,6 +1922,10 @@
       {
         "stars": 37500,
         "at": "2026-07-26T10:02:57.748Z"
+      },
+      {
+        "stars": 37515,
+        "at": "2026-07-27T11:26:46.501Z"
       }
     ],
     "langchain-ai/open_deep_research": [
@@ -2035,6 +2132,10 @@
       {
         "stars": 190260,
         "at": "2026-07-27T07:35:10.841Z"
+      },
+      {
+        "stars": 190701,
+        "at": "2026-07-27T11:26:45.704Z"
       }
     ],
     "kangarooking/cangjie-skill": [
@@ -2203,6 +2304,10 @@
       {
         "stars": 3365,
         "at": "2026-07-22T10:27:51.887Z"
+      },
+      {
+        "stars": 3671,
+        "at": "2026-07-27T11:26:46.511Z"
       }
     ],
     "OpenCut-app/OpenCut": [
@@ -2445,6 +2550,10 @@
       {
         "stars": 18435,
         "at": "2026-07-27T07:35:11.587Z"
+      },
+      {
+        "stars": 18521,
+        "at": "2026-07-27T11:26:46.527Z"
       }
     ],
     "MoonshotAI/kimi-cli": [
@@ -2713,6 +2822,10 @@
       {
         "stars": 30244,
         "at": "2026-07-27T07:35:10.880Z"
+      },
+      {
+        "stars": 30334,
+        "at": "2026-07-27T11:26:45.651Z"
       }
     ],
     "HKUDS/nanobot": [
@@ -2793,6 +2906,10 @@
       {
         "stars": 30130,
         "at": "2026-07-27T07:35:11.600Z"
+      },
+      {
+        "stars": 30327,
+        "at": "2026-07-27T11:26:46.543Z"
       }
     ],
     "openinterpreter/openinterpreter": [
@@ -3029,6 +3146,10 @@
       {
         "stars": 78494,
         "at": "2026-07-27T07:35:10.871Z"
+      },
+      {
+        "stars": 78711,
+        "at": "2026-07-27T11:26:45.713Z"
       }
     ],
     "openai/codex": [
@@ -3169,6 +3290,10 @@
       {
         "stars": 5252,
         "at": "2026-07-27T07:35:10.846Z"
+      },
+      {
+        "stars": 5285,
+        "at": "2026-07-27T11:26:45.728Z"
       }
     ],
     "ruvnet/RuView": [
@@ -3287,6 +3412,10 @@
       {
         "stars": 86738,
         "at": "2026-07-27T07:35:10.855Z"
+      },
+      {
+        "stars": 86788,
+        "at": "2026-07-27T11:26:45.704Z"
       }
     ],
     "shiyu-coder/Kronos": [
@@ -3405,6 +3534,10 @@
       {
         "stars": 34297,
         "at": "2026-07-27T07:35:09.356Z"
+      },
+      {
+        "stars": 34373,
+        "at": "2026-07-27T11:26:44.184Z"
       }
     ],
     "ComposioHQ/awesome-claude-skills": [
@@ -3741,6 +3874,10 @@
       {
         "stars": 43947,
         "at": "2026-07-27T07:35:10.848Z"
+      },
+      {
+        "stars": 44031,
+        "at": "2026-07-27T11:26:45.693Z"
       }
     ],
     "dreamhunter2333/cloudflare_temp_email": [
@@ -3885,6 +4022,10 @@
       {
         "stars": 10123,
         "at": "2026-07-27T07:35:10.135Z"
+      },
+      {
+        "stars": 10161,
+        "at": "2026-07-27T11:26:45.714Z"
       }
     ],
     "apache/ossie": [
@@ -4397,6 +4538,10 @@
       {
         "stars": 14181,
         "at": "2026-07-27T07:35:10.140Z"
+      },
+      {
+        "stars": 14346,
+        "at": "2026-07-27T11:26:44.182Z"
       }
     ],
     "jellyfin/jellyfin": [
@@ -4595,6 +4740,10 @@
       {
         "stars": 20424,
         "at": "2026-07-27T07:35:09.353Z"
+      },
+      {
+        "stars": 20524,
+        "at": "2026-07-27T11:26:44.175Z"
       }
     ],
     "Lordog/dive-into-llms": [
@@ -4715,6 +4864,10 @@
       {
         "stars": 5883,
         "at": "2026-07-27T07:35:09.381Z"
+      },
+      {
+        "stars": 6018,
+        "at": "2026-07-27T11:26:46.473Z"
       }
     ],
     "OtterMind/Chat2DB": [
@@ -4857,6 +5010,10 @@
       {
         "stars": 31037,
         "at": "2026-07-27T07:35:09.379Z"
+      },
+      {
+        "stars": 31460,
+        "at": "2026-07-27T11:26:44.229Z"
       }
     ],
     "anthropics/claude-cookbooks": [
@@ -5049,6 +5206,10 @@
       {
         "stars": 15155,
         "at": "2026-07-27T07:35:09.404Z"
+      },
+      {
+        "stars": 15203,
+        "at": "2026-07-27T11:26:46.515Z"
       }
     ],
     "nodejs/node": [
@@ -5093,6 +5254,10 @@
       {
         "stars": 50931,
         "at": "2026-07-27T07:35:09.407Z"
+      },
+      {
+        "stars": 51081,
+        "at": "2026-07-27T11:26:44.179Z"
       }
     ],
     "amnezia-vpn/amnezia-client": [
@@ -5115,6 +5280,10 @@
       {
         "stars": 13471,
         "at": "2026-07-27T07:35:10.159Z"
+      },
+      {
+        "stars": 13556,
+        "at": "2026-07-27T11:26:44.179Z"
       }
     ],
     "permissionlesstech/bitchat-android": [
@@ -5159,6 +5328,52 @@
       {
         "stars": 25768,
         "at": "2026-07-27T07:35:10.132Z"
+      },
+      {
+        "stars": 25800,
+        "at": "2026-07-27T11:26:44.179Z"
+      }
+    ],
+    "NanmiCoder/MediaCrawler": [
+      {
+        "stars": 57924,
+        "at": "2026-07-27T11:26:44.189Z"
+      }
+    ],
+    "bradautomates/claude-video": [
+      {
+        "stars": 10611,
+        "at": "2026-07-27T11:26:44.203Z"
+      }
+    ],
+    "moeru-ai/airi": [
+      {
+        "stars": 43693,
+        "at": "2026-07-27T11:26:44.213Z"
+      }
+    ],
+    "vudovn/ag-kit": [
+      {
+        "stars": 7839,
+        "at": "2026-07-27T11:26:44.921Z"
+      }
+    ],
+    "ocornut/imgui": [
+      {
+        "stars": 75109,
+        "at": "2026-07-27T11:26:44.948Z"
+      }
+    ],
+    "apache/cassandra": [
+      {
+        "stars": 9886,
+        "at": "2026-07-27T11:26:44.959Z"
+      }
+    ],
+    "mvanhorn/last30days-skill": [
+      {
+        "stars": 53932,
+        "at": "2026-07-27T11:26:44.970Z"
       }
     ]
   },
