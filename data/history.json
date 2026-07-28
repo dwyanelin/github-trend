@@ -580,6 +580,48 @@
       "language": "TypeScript",
       "url": "https://github.com/opengeos/GeoLibre",
       "firstSeenAt": "2026-07-27T21:13:39.655Z"
+    },
+    "virgiliojr94/book-to-skill": {
+      "fullName": "virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "firstSeenAt": "2026-07-28T14:12:20.584Z"
+    },
+    "microsoft/agent-governance-toolkit": {
+      "fullName": "microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "firstSeenAt": "2026-07-28T14:12:20.586Z"
+    },
+    "huggingface/speech-to-speech": {
+      "fullName": "huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "firstSeenAt": "2026-07-28T14:12:20.599Z"
+    },
+    "pascalorg/editor": {
+      "fullName": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "url": "https://github.com/pascalorg/editor",
+      "firstSeenAt": "2026-07-28T14:12:20.616Z"
+    },
+    "paperswithbacktest/awesome-systematic-trading": {
+      "fullName": "paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "firstSeenAt": "2026-07-28T14:12:20.640Z"
+    },
+    "UditAkhourii/adhd": {
+      "fullName": "UditAkhourii/adhd",
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+      "language": "TypeScript",
+      "url": "https://github.com/UditAkhourii/adhd",
+      "firstSeenAt": "2026-07-28T14:12:21.572Z"
     }
   },
   "snapshots": {
@@ -647,6 +689,10 @@
       {
         "stars": 11990,
         "at": "2026-07-28T10:37:48.414Z"
+      },
+      {
+        "stars": 12254,
+        "at": "2026-07-28T14:12:21.562Z"
       }
     ],
     "tirth8205/code-review-graph": [
@@ -809,6 +855,10 @@
       {
         "stars": 27171,
         "at": "2026-07-28T10:37:49.167Z"
+      },
+      {
+        "stars": 27220,
+        "at": "2026-07-28T14:12:22.581Z"
       }
     ],
     "1jehuang/jcode": [
@@ -971,6 +1021,10 @@
       {
         "stars": 12425,
         "at": "2026-07-28T10:37:49.146Z"
+      },
+      {
+        "stars": 12535,
+        "at": "2026-07-28T14:12:22.399Z"
       }
     ],
     "bojieli/ai-agent-book": [
@@ -1085,6 +1139,10 @@
       {
         "stars": 23835,
         "at": "2026-07-28T10:37:48.415Z"
+      },
+      {
+        "stars": 24057,
+        "at": "2026-07-28T14:12:21.528Z"
       }
     ],
     "koala73/worldmonitor": [
@@ -1247,6 +1305,10 @@
       {
         "stars": 75624,
         "at": "2026-07-28T10:37:48.408Z"
+      },
+      {
+        "stars": 75717,
+        "at": "2026-07-28T14:12:21.564Z"
       }
     ],
     "oblien/openship": [
@@ -1317,6 +1379,10 @@
       {
         "stars": 9115,
         "at": "2026-07-28T10:37:48.414Z"
+      },
+      {
+        "stars": 9204,
+        "at": "2026-07-28T14:12:21.607Z"
       }
     ],
     "every-app/open-seo": [
@@ -1407,6 +1473,10 @@
       {
         "stars": 8842,
         "at": "2026-07-28T10:37:49.918Z"
+      },
+      {
+        "stars": 8895,
+        "at": "2026-07-28T14:12:22.400Z"
       }
     ],
     "tradesdontlie/tradingview-mcp": [
@@ -1761,6 +1831,10 @@
       {
         "stars": 38916,
         "at": "2026-07-28T10:37:49.952Z"
+      },
+      {
+        "stars": 38941,
+        "at": "2026-07-28T14:12:23.408Z"
       }
     ],
     "agegr/pi-web": [
@@ -1923,6 +1997,10 @@
       {
         "stars": 3070,
         "at": "2026-07-28T10:37:48.442Z"
+      },
+      {
+        "stars": 3082,
+        "at": "2026-07-28T14:12:21.595Z"
       }
     ],
     "DioxusLabs/dioxus": [
@@ -2127,6 +2205,10 @@
       {
         "stars": 32594,
         "at": "2026-07-28T10:37:49.162Z"
+      },
+      {
+        "stars": 32751,
+        "at": "2026-07-28T14:12:21.558Z"
       }
     ],
     "hyprwm/Hyprland": [
@@ -2221,6 +2303,10 @@
       {
         "stars": 37575,
         "at": "2026-07-28T10:37:49.932Z"
+      },
+      {
+        "stars": 37583,
+        "at": "2026-07-28T14:12:23.319Z"
       }
     ],
     "langchain-ai/open_deep_research": [
@@ -2455,6 +2541,10 @@
       {
         "stars": 192208,
         "at": "2026-07-28T10:37:49.182Z"
+      },
+      {
+        "stars": 192441,
+        "at": "2026-07-28T14:12:21.542Z"
       }
     ],
     "kangarooking/cangjie-skill": [
@@ -3217,6 +3307,10 @@
       {
         "stars": 30732,
         "at": "2026-07-28T10:37:49.160Z"
+      },
+      {
+        "stars": 30793,
+        "at": "2026-07-28T14:12:23.351Z"
       }
     ],
     "HKUDS/nanobot": [
@@ -3589,6 +3683,10 @@
       {
         "stars": 79458,
         "at": "2026-07-28T10:37:49.172Z"
+      },
+      {
+        "stars": 79522,
+        "at": "2026-07-28T14:12:22.445Z"
       }
     ],
     "openai/codex": [
@@ -3903,6 +4001,10 @@
       {
         "stars": 87095,
         "at": "2026-07-28T10:37:49.142Z"
+      },
+      {
+        "stars": 87141,
+        "at": "2026-07-28T14:12:22.411Z"
       }
     ],
     "shiyu-coder/Kronos": [
@@ -4049,6 +4151,10 @@
       {
         "stars": 34735,
         "at": "2026-07-28T10:37:47.669Z"
+      },
+      {
+        "stars": 34774,
+        "at": "2026-07-28T14:12:22.432Z"
       }
     ],
     "ComposioHQ/awesome-claude-skills": [
@@ -4241,6 +4347,10 @@
       {
         "stars": 5119,
         "at": "2026-07-25T09:50:44.352Z"
+      },
+      {
+        "stars": 5207,
+        "at": "2026-07-28T14:12:22.456Z"
       }
     ],
     "jamiepine/voicebox": [
@@ -4413,6 +4523,10 @@
       {
         "stars": 44423,
         "at": "2026-07-28T10:37:49.170Z"
+      },
+      {
+        "stars": 44490,
+        "at": "2026-07-28T14:12:22.381Z"
       }
     ],
     "dreamhunter2333/cloudflare_temp_email": [
@@ -4585,6 +4699,10 @@
       {
         "stars": 10241,
         "at": "2026-07-28T10:37:49.203Z"
+      },
+      {
+        "stars": 10255,
+        "at": "2026-07-28T14:12:22.444Z"
       }
     ],
     "apache/ossie": [
@@ -5351,6 +5469,10 @@
       {
         "stars": 21148,
         "at": "2026-07-28T10:37:47.664Z"
+      },
+      {
+        "stars": 21236,
+        "at": "2026-07-28T14:12:21.598Z"
       }
     ],
     "Lordog/dive-into-llms": [
@@ -5499,6 +5621,10 @@
       {
         "stars": 6331,
         "at": "2026-07-28T10:37:49.929Z"
+      },
+      {
+        "stars": 6371,
+        "at": "2026-07-28T14:12:22.456Z"
       }
     ],
     "OtterMind/Chat2DB": [
@@ -5767,6 +5893,10 @@
       {
         "stars": 233459,
         "at": "2026-07-26T10:02:56.114Z"
+      },
+      {
+        "stars": 234519,
+        "at": "2026-07-28T14:12:20.600Z"
       }
     ],
     "andrewyng/aisuite": [
@@ -5813,6 +5943,10 @@
       {
         "stars": 15472,
         "at": "2026-07-27T07:35:10.129Z"
+      },
+      {
+        "stars": 15590,
+        "at": "2026-07-28T14:12:20.680Z"
       }
     ],
     "palmier-io/palmier-pro": [
@@ -5889,6 +6023,10 @@
       {
         "stars": 15360,
         "at": "2026-07-28T10:37:49.944Z"
+      },
+      {
+        "stars": 15391,
+        "at": "2026-07-28T14:12:23.375Z"
       }
     ],
     "nodejs/node": [
@@ -6083,6 +6221,10 @@
       {
         "stars": 25960,
         "at": "2026-07-28T10:37:47.668Z"
+      },
+      {
+        "stars": 25997,
+        "at": "2026-07-28T14:12:20.600Z"
       }
     ],
     "NanmiCoder/MediaCrawler": [
@@ -6143,6 +6285,10 @@
       {
         "stars": 11554,
         "at": "2026-07-28T10:37:48.410Z"
+      },
+      {
+        "stars": 11723,
+        "at": "2026-07-28T14:12:21.573Z"
       }
     ],
     "moeru-ai/airi": [
@@ -6173,6 +6319,10 @@
       {
         "stars": 44429,
         "at": "2026-07-28T10:37:47.678Z"
+      },
+      {
+        "stars": 44550,
+        "at": "2026-07-28T14:12:20.792Z"
       }
     ],
     "vudovn/ag-kit": [
@@ -6311,6 +6461,46 @@
       {
         "stars": 3012,
         "at": "2026-07-28T10:37:47.664Z"
+      },
+      {
+        "stars": 3111,
+        "at": "2026-07-28T14:12:20.728Z"
+      }
+    ],
+    "virgiliojr94/book-to-skill": [
+      {
+        "stars": 10865,
+        "at": "2026-07-28T14:12:20.584Z"
+      }
+    ],
+    "microsoft/agent-governance-toolkit": [
+      {
+        "stars": 5025,
+        "at": "2026-07-28T14:12:20.586Z"
+      }
+    ],
+    "huggingface/speech-to-speech": [
+      {
+        "stars": 6879,
+        "at": "2026-07-28T14:12:20.599Z"
+      }
+    ],
+    "pascalorg/editor": [
+      {
+        "stars": 18352,
+        "at": "2026-07-28T14:12:20.616Z"
+      }
+    ],
+    "paperswithbacktest/awesome-systematic-trading": [
+      {
+        "stars": 9263,
+        "at": "2026-07-28T14:12:20.640Z"
+      }
+    ],
+    "UditAkhourii/adhd": [
+      {
+        "stars": 2508,
+        "at": "2026-07-28T14:12:21.572Z"
       }
     ]
   },
@@ -6340,6 +6530,8 @@
     "citrolabs/ego-lite|72h": "2026-07-27T03:25:05.946Z",
     "pbakaus/impeccable|24h": "2026-07-28T02:42:28.829Z",
     "alibaba/open-code-review|72h": "2026-07-28T06:29:05.083Z",
-    "ayghri/i-have-adhd|72h": "2026-07-28T10:37:51.575Z"
+    "ayghri/i-have-adhd|72h": "2026-07-28T10:37:51.575Z",
+    "affaan-m/ECC|24h": "2026-07-28T14:12:24.099Z",
+    "bradautomates/claude-video|24h": "2026-07-28T14:12:24.099Z"
   }
 }
