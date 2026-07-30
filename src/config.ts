@@ -9,7 +9,7 @@ export const config = {
     channelAccessToken: process.env.LINE_CHANNEL_ACCESS_TOKEN || '',
   },
   thresholds: {
-    stars24h: parseInt(process.env.STAR_THRESHOLD_24H || '1000', 10),
-    stars72h: parseInt(process.env.STAR_THRESHOLD_72H || '3000', 10),
+    stars24h: parseInt(process.env.STAR_THRESHOLD_24H || '1500', 10),
+    stars72h: parseInt(process.env.STAR_THRESHOLD_72H || '4000', 10),
   },
 };
