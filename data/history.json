@@ -580,6 +580,62 @@
       "language": "Ruby",
       "url": "https://github.com/chatwoot/chatwoot",
       "firstSeenAt": "2026-07-31T14:12:54.105Z"
+    },
+    "microsoft/generative-ai-for-beginners": {
+      "fullName": "microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI ",
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "firstSeenAt": "2026-08-01T13:26:05.098Z"
+    },
+    "abus-aikorea/voice-pro": {
+      "fullName": "abus-aikorea/voice-pro",
+      "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
+      "language": "Python",
+      "url": "https://github.com/abus-aikorea/voice-pro",
+      "firstSeenAt": "2026-08-01T13:26:05.107Z"
+    },
+    "github/gh-stack": {
+      "fullName": "github/gh-stack",
+      "description": "GitHub Stacked PRs",
+      "language": "Go",
+      "url": "https://github.com/github/gh-stack",
+      "firstSeenAt": "2026-08-01T13:26:05.121Z"
+    },
+    "iv-org/invidious": {
+      "fullName": "iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "url": "https://github.com/iv-org/invidious",
+      "firstSeenAt": "2026-08-01T13:26:05.134Z"
+    },
+    "NomaDamas/k-skill": {
+      "fullName": "NomaDamas/k-skill",
+      "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+      "language": "JavaScript",
+      "url": "https://github.com/NomaDamas/k-skill",
+      "firstSeenAt": "2026-08-01T13:26:05.837Z"
+    },
+    "TencentCloud/TencentDB-Agent-Memory": {
+      "fullName": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "firstSeenAt": "2026-08-01T13:26:05.849Z"
+    },
+    "bytedance/deer-flow": {
+      "fullName": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "url": "https://github.com/bytedance/deer-flow",
+      "firstSeenAt": "2026-08-01T13:26:05.853Z"
+    },
+    "microsoft/TRELLIS.2": {
+      "fullName": "microsoft/TRELLIS.2",
+      "description": "Native and Compact Structured Latents for 3D Generation",
+      "language": "Python",
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "firstSeenAt": "2026-08-01T13:26:05.893Z"
     }
   },
   "snapshots": {
@@ -707,6 +763,10 @@
       {
         "stars": 14934,
         "at": "2026-08-01T10:01:44.301Z"
+      },
+      {
+        "stars": 15001,
+        "at": "2026-08-01T13:26:05.848Z"
       }
     ],
     "tirth8205/code-review-graph": [
@@ -975,6 +1035,10 @@
       {
         "stars": 14777,
         "at": "2026-08-01T10:01:44.343Z"
+      },
+      {
+        "stars": 14825,
+        "at": "2026-08-01T13:26:06.557Z"
       }
     ],
     "bojieli/ai-agent-book": [
@@ -1589,6 +1653,10 @@
       {
         "stars": 12305,
         "at": "2026-08-01T10:01:45.222Z"
+      },
+      {
+        "stars": 12326,
+        "at": "2026-08-01T13:26:07.335Z"
       }
     ],
     "schollz/croc": [
@@ -1979,6 +2047,10 @@
       {
         "stars": 36478,
         "at": "2026-08-01T10:01:45.199Z"
+      },
+      {
+        "stars": 36645,
+        "at": "2026-08-01T13:26:06.570Z"
       }
     ],
     "hyprwm/Hyprland": [
@@ -3111,6 +3183,10 @@
       {
         "stars": 35310,
         "at": "2026-08-01T10:01:45.180Z"
+      },
+      {
+        "stars": 35328,
+        "at": "2026-08-01T13:26:06.616Z"
       }
     ],
     "ComposioHQ/awesome-claude-skills": [
@@ -3595,6 +3671,10 @@
       {
         "stars": 7180,
         "at": "2026-08-01T10:01:44.336Z"
+      },
+      {
+        "stars": 7229,
+        "at": "2026-08-01T13:26:05.852Z"
       }
     ],
     "block/buzz": [
@@ -3713,6 +3793,10 @@
       {
         "stars": 19881,
         "at": "2026-08-01T10:01:44.399Z"
+      },
+      {
+        "stars": 19996,
+        "at": "2026-08-01T13:26:05.892Z"
       }
     ],
     "Automattic/harper": [
@@ -3909,6 +3993,10 @@
       {
         "stars": 17217,
         "at": "2026-08-01T10:01:44.534Z"
+      },
+      {
+        "stars": 17290,
+        "at": "2026-08-01T13:26:05.821Z"
       }
     ],
     "yorukot/superfile": [
@@ -4179,6 +4267,10 @@
       {
         "stars": 7034,
         "at": "2026-08-01T10:01:45.192Z"
+      },
+      {
+        "stars": 7051,
+        "at": "2026-08-01T13:26:06.618Z"
       }
     ],
     "OtterMind/Chat2DB": [
@@ -4349,6 +4441,10 @@
       {
         "stars": 32887,
         "at": "2026-07-28T10:37:47.695Z"
+      },
+      {
+        "stars": 33839,
+        "at": "2026-08-01T13:26:05.815Z"
       }
     ],
     "anthropics/claude-cookbooks": [
@@ -4761,6 +4857,10 @@
       {
         "stars": 16144,
         "at": "2026-08-01T10:01:45.230Z"
+      },
+      {
+        "stars": 16160,
+        "at": "2026-08-01T13:26:06.596Z"
       }
     ],
     "nodejs/node": [
@@ -5237,6 +5337,10 @@
       {
         "stars": 46296,
         "at": "2026-08-01T10:01:45.263Z"
+      },
+      {
+        "stars": 46313,
+        "at": "2026-08-01T13:26:06.582Z"
       }
     ],
     "vudovn/ag-kit": [
@@ -5519,6 +5623,10 @@
       {
         "stars": 4765,
         "at": "2026-08-01T10:01:45.226Z"
+      },
+      {
+        "stars": 4793,
+        "at": "2026-08-01T13:26:06.578Z"
       }
     ],
     "virgiliojr94/book-to-skill": [
@@ -5617,6 +5725,10 @@
       {
         "stars": 14498,
         "at": "2026-08-01T10:01:44.347Z"
+      },
+      {
+        "stars": 14601,
+        "at": "2026-08-01T13:26:06.605Z"
       }
     ],
     "microsoft/agent-governance-toolkit": [
@@ -5717,6 +5829,10 @@
       {
         "stars": 9519,
         "at": "2026-07-31T10:41:53.193Z"
+      },
+      {
+        "stars": 10013,
+        "at": "2026-08-01T13:26:05.106Z"
       }
     ],
     "pascalorg/editor": [
@@ -5815,6 +5931,10 @@
       {
         "stars": 20504,
         "at": "2026-08-01T10:01:44.342Z"
+      },
+      {
+        "stars": 20531,
+        "at": "2026-08-01T13:26:06.605Z"
       }
     ],
     "paperswithbacktest/awesome-systematic-trading": [
@@ -5913,6 +6033,10 @@
       {
         "stars": 11949,
         "at": "2026-08-01T10:01:43.627Z"
+      },
+      {
+        "stars": 12022,
+        "at": "2026-08-01T13:26:05.134Z"
       }
     ],
     "UditAkhourii/adhd": [
@@ -6121,6 +6245,10 @@
       {
         "stars": 19762,
         "at": "2026-08-01T10:01:43.627Z"
+      },
+      {
+        "stars": 19820,
+        "at": "2026-08-01T13:26:07.332Z"
       }
     ],
     "microsoft/VibeVoice": [
@@ -6171,6 +6299,10 @@
       {
         "stars": 51750,
         "at": "2026-08-01T10:01:45.226Z"
+      },
+      {
+        "stars": 51763,
+        "at": "2026-08-01T13:26:06.641Z"
       }
     ],
     "grokability/snipe-it": [
@@ -6325,6 +6457,10 @@
       {
         "stars": 55654,
         "at": "2026-08-01T10:01:43.613Z"
+      },
+      {
+        "stars": 55967,
+        "at": "2026-08-01T13:26:05.116Z"
       }
     ],
     "microsoft/PowerToys": [
@@ -6377,6 +6513,10 @@
       {
         "stars": 69991,
         "at": "2026-07-31T10:41:53.200Z"
+      },
+      {
+        "stars": 70030,
+        "at": "2026-08-01T13:26:05.846Z"
       }
     ],
     "WhiskeySockets/Baileys": [
@@ -6557,6 +6697,10 @@
       {
         "stars": 11241,
         "at": "2026-08-01T10:01:43.612Z"
+      },
+      {
+        "stars": 11427,
+        "at": "2026-08-01T13:26:05.087Z"
       }
     ],
     "usekaneo/kaneo": [
@@ -6583,6 +6727,10 @@
       {
         "stars": 5346,
         "at": "2026-08-01T10:01:43.638Z"
+      },
+      {
+        "stars": 5436,
+        "at": "2026-08-01T13:26:05.112Z"
       }
     ],
     "github/copilot-sdk": [
@@ -6609,6 +6757,10 @@
       {
         "stars": 10195,
         "at": "2026-08-01T10:01:43.620Z"
+      },
+      {
+        "stars": 10212,
+        "at": "2026-08-01T13:26:05.128Z"
       }
     ],
     "chatwoot/chatwoot": [
@@ -6635,6 +6787,54 @@
       {
         "stars": 35259,
         "at": "2026-08-01T10:01:43.644Z"
+      }
+    ],
+    "microsoft/generative-ai-for-beginners": [
+      {
+        "stars": 113922,
+        "at": "2026-08-01T13:26:05.098Z"
+      }
+    ],
+    "abus-aikorea/voice-pro": [
+      {
+        "stars": 11564,
+        "at": "2026-08-01T13:26:05.108Z"
+      }
+    ],
+    "github/gh-stack": [
+      {
+        "stars": 702,
+        "at": "2026-08-01T13:26:05.121Z"
+      }
+    ],
+    "iv-org/invidious": [
+      {
+        "stars": 21470,
+        "at": "2026-08-01T13:26:05.134Z"
+      }
+    ],
+    "NomaDamas/k-skill": [
+      {
+        "stars": 6656,
+        "at": "2026-08-01T13:26:05.837Z"
+      }
+    ],
+    "TencentCloud/TencentDB-Agent-Memory": [
+      {
+        "stars": 10013,
+        "at": "2026-08-01T13:26:05.849Z"
+      }
+    ],
+    "bytedance/deer-flow": [
+      {
+        "stars": 78556,
+        "at": "2026-08-01T13:26:05.853Z"
+      }
+    ],
+    "microsoft/TRELLIS.2": [
+      {
+        "stars": 9795,
+        "at": "2026-08-01T13:26:05.893Z"
       }
     ]
   },
