@@ -91,20 +91,6 @@
       "url": "https://github.com/mattpocock/skills",
       "firstSeenAt": "2026-07-22T05:27:32.817Z"
     },
-    "KnockOutEZ/wigolo": {
-      "fullName": "KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "language": "TypeScript",
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "firstSeenAt": "2026-07-22T05:27:32.821Z"
-    },
-    "Nutlope/hallmark": {
-      "fullName": "Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "url": "https://github.com/Nutlope/hallmark",
-      "firstSeenAt": "2026-07-22T05:27:32.824Z"
-    },
     "HKUDS/DeepTutor": {
       "fullName": "HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
@@ -112,26 +98,12 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "firstSeenAt": "2026-07-22T05:27:32.848Z"
     },
-    "stablyai/orca": {
-      "fullName": "stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "language": "TypeScript",
-      "url": "https://github.com/stablyai/orca",
-      "firstSeenAt": "2026-07-22T05:27:33.713Z"
-    },
     "earendil-works/pi": {
       "fullName": "earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "url": "https://github.com/earendil-works/pi",
       "firstSeenAt": "2026-07-22T05:27:33.724Z"
-    },
-    "MoonshotAI/kimi-code": {
-      "fullName": "MoonshotAI/kimi-code",
-      "description": "Kimi Code CLI  —  The Starting Point for Next-Gen Agents",
-      "language": "TypeScript",
-      "url": "https://github.com/MoonshotAI/kimi-code",
-      "firstSeenAt": "2026-07-22T10:27:51.897Z"
     },
     "ruvnet/RuView": {
       "fullName": "ruvnet/RuView",
@@ -245,20 +217,6 @@
       "url": "https://github.com/pingdotgg/t3code",
       "firstSeenAt": "2026-07-26T13:27:39.251Z"
     },
-    "pbakaus/impeccable": {
-      "fullName": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "url": "https://github.com/pbakaus/impeccable",
-      "firstSeenAt": "2026-07-26T13:27:39.281Z"
-    },
-    "amnezia-vpn/amnezia-client": {
-      "fullName": "amnezia-vpn/amnezia-client",
-      "description": "Amnezia VPN Client (Desktop+Mobile)",
-      "language": "C++",
-      "url": "https://github.com/amnezia-vpn/amnezia-client",
-      "firstSeenAt": "2026-07-26T13:27:39.966Z"
-    },
     "permissionlesstech/bitchat-android": {
       "fullName": "permissionlesstech/bitchat-android",
       "description": "decentralized mesh chat",
@@ -293,27 +251,6 @@
       "language": "TypeScript",
       "url": "https://github.com/moeru-ai/airi",
       "firstSeenAt": "2026-07-27T11:26:44.213Z"
-    },
-    "vudovn/ag-kit": {
-      "fullName": "vudovn/ag-kit",
-      "description": "",
-      "language": "TypeScript",
-      "url": "https://github.com/vudovn/ag-kit",
-      "firstSeenAt": "2026-07-27T11:26:44.921Z"
-    },
-    "ocornut/imgui": {
-      "fullName": "ocornut/imgui",
-      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "C++",
-      "url": "https://github.com/ocornut/imgui",
-      "firstSeenAt": "2026-07-27T11:26:44.948Z"
-    },
-    "apache/cassandra": {
-      "fullName": "apache/cassandra",
-      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
-      "language": "Java",
-      "url": "https://github.com/apache/cassandra",
-      "firstSeenAt": "2026-07-27T11:26:44.959Z"
     },
     "mvanhorn/last30days-skill": {
       "fullName": "mvanhorn/last30days-skill",
@@ -648,10 +585,6 @@
   "snapshots": {
     "ayghri/i-have-adhd": [
       {
-        "stars": 11990,
-        "at": "2026-07-28T10:37:48.414Z"
-      },
-      {
         "stars": 12254,
         "at": "2026-07-28T14:12:21.562Z"
       },
@@ -814,13 +747,13 @@
       {
         "stars": 16402,
         "at": "2026-08-04T06:29:51.833Z"
+      },
+      {
+        "stars": 16509,
+        "at": "2026-08-04T10:42:16.091Z"
       }
     ],
     "tirth8205/code-review-graph": [
-      {
-        "stars": 27171,
-        "at": "2026-07-28T10:37:49.167Z"
-      },
       {
         "stars": 27220,
         "at": "2026-07-28T14:12:22.581Z"
@@ -847,10 +780,6 @@
       }
     ],
     "1jehuang/jcode": [
-      {
-        "stars": 12425,
-        "at": "2026-07-28T10:37:49.146Z"
-      },
       {
         "stars": 12535,
         "at": "2026-07-28T14:12:22.399Z"
@@ -1014,13 +943,13 @@
       {
         "stars": 15647,
         "at": "2026-08-04T06:29:50.861Z"
+      },
+      {
+        "stars": 15720,
+        "at": "2026-08-04T10:42:16.025Z"
       }
     ],
     "bojieli/ai-agent-book": [
-      {
-        "stars": 23835,
-        "at": "2026-07-28T10:37:48.415Z"
-      },
       {
         "stars": 24057,
         "at": "2026-07-28T14:12:21.528Z"
@@ -1099,10 +1028,6 @@
       }
     ],
     "koala73/worldmonitor": [
-      {
-        "stars": 75624,
-        "at": "2026-07-28T10:37:48.408Z"
-      },
       {
         "stars": 75717,
         "at": "2026-07-28T14:12:21.564Z"
@@ -1202,10 +1127,6 @@
     ],
     "oblien/openship": [
       {
-        "stars": 9115,
-        "at": "2026-07-28T10:37:48.414Z"
-      },
-      {
         "stars": 9204,
         "at": "2026-07-28T14:12:21.607Z"
       },
@@ -1256,10 +1177,6 @@
     ],
     "every-app/open-seo": [
       {
-        "stars": 8842,
-        "at": "2026-07-28T10:37:49.918Z"
-      },
-      {
         "stars": 8895,
         "at": "2026-07-28T14:12:22.400Z"
       },
@@ -1309,10 +1226,6 @@
       }
     ],
     "earthtojake/text-to-cad": [
-      {
-        "stars": 11191,
-        "at": "2026-07-28T10:37:49.916Z"
-      },
       {
         "stars": 11733,
         "at": "2026-07-29T14:14:56.496Z"
@@ -1428,13 +1341,13 @@
       {
         "stars": 12732,
         "at": "2026-08-04T06:29:52.543Z"
+      },
+      {
+        "stars": 12769,
+        "at": "2026-08-04T10:42:16.843Z"
       }
     ],
     "schollz/croc": [
-      {
-        "stars": 38916,
-        "at": "2026-07-28T10:37:49.952Z"
-      },
       {
         "stars": 38941,
         "at": "2026-07-28T14:12:23.408Z"
@@ -1461,10 +1374,6 @@
       }
     ],
     "agegr/pi-web": [
-      {
-        "stars": 3070,
-        "at": "2026-07-28T10:37:48.442Z"
-      },
       {
         "stars": 3082,
         "at": "2026-07-28T14:12:21.595Z"
@@ -1515,10 +1424,6 @@
       }
     ],
     "diegosouzapw/OmniRoute": [
-      {
-        "stars": 32594,
-        "at": "2026-07-28T10:37:49.162Z"
-      },
       {
         "stars": 32751,
         "at": "2026-07-28T14:12:21.558Z"
@@ -1662,10 +1567,6 @@
     ],
     "hyprwm/Hyprland": [
       {
-        "stars": 37575,
-        "at": "2026-07-28T10:37:49.932Z"
-      },
-      {
         "stars": 37583,
         "at": "2026-07-28T14:12:23.319Z"
       },
@@ -1691,10 +1592,6 @@
       }
     ],
     "mattpocock/skills": [
-      {
-        "stars": 192208,
-        "at": "2026-07-28T10:37:49.182Z"
-      },
       {
         "stars": 192441,
         "at": "2026-07-28T14:12:21.542Z"
@@ -1792,23 +1689,7 @@
         "at": "2026-08-01T10:01:44.309Z"
       }
     ],
-    "KnockOutEZ/wigolo": [
-      {
-        "stars": 3791,
-        "at": "2026-07-28T10:37:50.004Z"
-      }
-    ],
-    "Nutlope/hallmark": [
-      {
-        "stars": 19104,
-        "at": "2026-07-28T10:37:49.917Z"
-      }
-    ],
     "HKUDS/DeepTutor": [
-      {
-        "stars": 30732,
-        "at": "2026-07-28T10:37:49.160Z"
-      },
       {
         "stars": 30793,
         "at": "2026-07-28T14:12:23.351Z"
@@ -1834,17 +1715,7 @@
         "at": "2026-07-29T10:41:28.832Z"
       }
     ],
-    "stablyai/orca": [
-      {
-        "stars": 31325,
-        "at": "2026-07-28T10:37:49.930Z"
-      }
-    ],
     "earendil-works/pi": [
-      {
-        "stars": 79458,
-        "at": "2026-07-28T10:37:49.172Z"
-      },
       {
         "stars": 79522,
         "at": "2026-07-28T14:12:22.445Z"
@@ -1942,17 +1813,7 @@
         "at": "2026-08-01T10:01:45.236Z"
       }
     ],
-    "MoonshotAI/kimi-code": [
-      {
-        "stars": 5473,
-        "at": "2026-07-28T10:37:49.167Z"
-      }
-    ],
     "ruvnet/RuView": [
-      {
-        "stars": 87095,
-        "at": "2026-07-28T10:37:49.142Z"
-      },
       {
         "stars": 87141,
         "at": "2026-07-28T14:12:22.411Z"
@@ -2003,10 +1864,6 @@
       }
     ],
     "shiyu-coder/Kronos": [
-      {
-        "stars": 34735,
-        "at": "2026-07-28T10:37:47.669Z"
-      },
       {
         "stars": 34774,
         "at": "2026-07-28T14:12:22.432Z"
@@ -2150,6 +2007,10 @@
       {
         "stars": 35882,
         "at": "2026-08-04T06:29:50.067Z"
+      },
+      {
+        "stars": 35941,
+        "at": "2026-08-04T10:42:15.233Z"
       }
     ],
     "likec4/likec4": [
@@ -2179,10 +2040,6 @@
       }
     ],
     "rohitg00/ai-engineering-from-scratch": [
-      {
-        "stars": 44423,
-        "at": "2026-07-28T10:37:49.170Z"
-      },
       {
         "stars": 44490,
         "at": "2026-07-28T14:12:22.381Z"
@@ -2233,10 +2090,6 @@
       }
     ],
     "Pumpkin-MC/Pumpkin": [
-      {
-        "stars": 10241,
-        "at": "2026-07-28T10:37:49.203Z"
-      },
       {
         "stars": 10255,
         "at": "2026-07-28T14:12:22.444Z"
@@ -2450,6 +2303,10 @@
       {
         "stars": 8129,
         "at": "2026-08-04T06:29:52.529Z"
+      },
+      {
+        "stars": 8200,
+        "at": "2026-08-04T10:42:16.839Z"
       }
     ],
     "block/buzz": [
@@ -2592,6 +2449,10 @@
       {
         "stars": 22004,
         "at": "2026-08-04T06:29:50.916Z"
+      },
+      {
+        "stars": 22153,
+        "at": "2026-08-04T10:42:16.082Z"
       }
     ],
     "Automattic/harper": [
@@ -2621,10 +2482,6 @@
       }
     ],
     "alibaba/open-code-review": [
-      {
-        "stars": 15320,
-        "at": "2026-07-28T10:37:47.671Z"
-      },
       {
         "stars": 15752,
         "at": "2026-07-29T14:14:54.575Z"
@@ -2764,13 +2621,13 @@
       {
         "stars": 18549,
         "at": "2026-08-04T06:29:52.499Z"
+      },
+      {
+        "stars": 18634,
+        "at": "2026-08-04T10:42:16.841Z"
       }
     ],
     "yorukot/superfile": [
-      {
-        "stars": 21148,
-        "at": "2026-07-28T10:37:47.664Z"
-      },
       {
         "stars": 21236,
         "at": "2026-07-28T14:12:21.598Z"
@@ -2797,10 +2654,6 @@
       }
     ],
     "CoreBunch/Instatic": [
-      {
-        "stars": 6331,
-        "at": "2026-07-28T10:37:49.929Z"
-      },
       {
         "stars": 6371,
         "at": "2026-07-28T14:12:22.456Z"
@@ -2949,10 +2802,6 @@
       }
     ],
     "permissionlesstech/bitchat": [
-      {
-        "stars": 32887,
-        "at": "2026-07-28T10:37:47.695Z"
-      },
       {
         "stars": 33839,
         "at": "2026-08-01T13:26:05.815Z"
@@ -3140,13 +2989,13 @@
       {
         "stars": 15989,
         "at": "2026-08-04T06:29:52.515Z"
+      },
+      {
+        "stars": 16006,
+        "at": "2026-08-04T10:42:16.836Z"
       }
     ],
     "pingdotgg/t3code": [
-      {
-        "stars": 15360,
-        "at": "2026-07-28T10:37:49.944Z"
-      },
       {
         "stars": 15391,
         "at": "2026-07-28T14:12:23.375Z"
@@ -3310,18 +3159,10 @@
       {
         "stars": 16544,
         "at": "2026-08-04T06:29:52.583Z"
-      }
-    ],
-    "pbakaus/impeccable": [
+      },
       {
-        "stars": 51983,
-        "at": "2026-07-28T10:37:47.696Z"
-      }
-    ],
-    "amnezia-vpn/amnezia-client": [
-      {
-        "stars": 14093,
-        "at": "2026-07-28T10:37:47.670Z"
+        "stars": 16578,
+        "at": "2026-08-04T10:42:16.839Z"
       }
     ],
     "permissionlesstech/bitchat-android": [
@@ -3347,10 +3188,6 @@
       }
     ],
     "jenkinsci/jenkins": [
-      {
-        "stars": 25960,
-        "at": "2026-07-28T10:37:47.668Z"
-      },
       {
         "stars": 25997,
         "at": "2026-07-28T14:12:20.600Z"
@@ -3402,10 +3239,6 @@
     ],
     "NanmiCoder/MediaCrawler": [
       {
-        "stars": 58769,
-        "at": "2026-07-28T10:37:47.677Z"
-      },
-      {
         "stars": 58959,
         "at": "2026-07-29T14:14:54.594Z"
       },
@@ -3432,10 +3265,6 @@
     ],
     "bradautomates/claude-video": [
       {
-        "stars": 11554,
-        "at": "2026-07-28T10:37:48.410Z"
-      },
-      {
         "stars": 11723,
         "at": "2026-07-28T14:12:21.573Z"
       },
@@ -3461,10 +3290,6 @@
       }
     ],
     "moeru-ai/airi": [
-      {
-        "stars": 44429,
-        "at": "2026-07-28T10:37:47.678Z"
-      },
       {
         "stars": 44550,
         "at": "2026-07-28T14:12:20.792Z"
@@ -3628,31 +3453,13 @@
       {
         "stars": 46759,
         "at": "2026-08-04T06:29:52.540Z"
-      }
-    ],
-    "vudovn/ag-kit": [
+      },
       {
-        "stars": 8052,
-        "at": "2026-07-28T10:37:48.404Z"
-      }
-    ],
-    "ocornut/imgui": [
-      {
-        "stars": 75298,
-        "at": "2026-07-28T10:37:48.396Z"
-      }
-    ],
-    "apache/cassandra": [
-      {
-        "stars": 10026,
-        "at": "2026-07-28T10:37:48.415Z"
+        "stars": 46801,
+        "at": "2026-08-04T10:42:16.866Z"
       }
     ],
     "mvanhorn/last30days-skill": [
-      {
-        "stars": 54446,
-        "at": "2026-07-28T10:37:48.385Z"
-      },
       {
         "stars": 55294,
         "at": "2026-07-30T14:08:01.465Z"
@@ -3723,10 +3530,6 @@
       }
     ],
     "opengeos/GeoLibre": [
-      {
-        "stars": 3012,
-        "at": "2026-07-28T10:37:47.664Z"
-      },
       {
         "stars": 3111,
         "at": "2026-07-28T14:12:20.728Z"
@@ -3890,6 +3693,10 @@
       {
         "stars": 5256,
         "at": "2026-08-04T06:29:52.568Z"
+      },
+      {
+        "stars": 5291,
+        "at": "2026-08-04T10:42:16.860Z"
       }
     ],
     "virgiliojr94/book-to-skill": [
@@ -4056,6 +3863,10 @@
       {
         "stars": 16055,
         "at": "2026-08-04T06:29:50.838Z"
+      },
+      {
+        "stars": 16168,
+        "at": "2026-08-04T10:42:16.042Z"
       }
     ],
     "microsoft/agent-governance-toolkit": [
@@ -4346,6 +4157,10 @@
       {
         "stars": 20962,
         "at": "2026-08-04T06:29:52.540Z"
+      },
+      {
+        "stars": 20989,
+        "at": "2026-08-04T10:42:16.879Z"
       }
     ],
     "paperswithbacktest/awesome-systematic-trading": [
@@ -4744,6 +4559,10 @@
       {
         "stars": 20740,
         "at": "2026-08-04T06:29:52.584Z"
+      },
+      {
+        "stars": 20791,
+        "at": "2026-08-04T10:42:16.834Z"
       }
     ],
     "microsoft/VibeVoice": [
@@ -5040,6 +4859,10 @@
       {
         "stars": 61110,
         "at": "2026-08-04T06:29:50.143Z"
+      },
+      {
+        "stars": 61419,
+        "at": "2026-08-04T10:42:15.243Z"
       }
     ],
     "microsoft/PowerToys": [
@@ -5364,6 +5187,10 @@
       {
         "stars": 16404,
         "at": "2026-08-04T06:29:50.064Z"
+      },
+      {
+        "stars": 16939,
+        "at": "2026-08-04T10:42:15.203Z"
       }
     ],
     "usekaneo/kaneo": [
@@ -5458,6 +5285,10 @@
       {
         "stars": 6991,
         "at": "2026-08-04T06:29:50.804Z"
+      },
+      {
+        "stars": 7080,
+        "at": "2026-08-04T10:42:16.076Z"
       }
     ],
     "github/copilot-sdk": [
@@ -5604,6 +5435,10 @@
       {
         "stars": 115803,
         "at": "2026-08-04T06:29:50.097Z"
+      },
+      {
+        "stars": 115966,
+        "at": "2026-08-04T10:42:15.243Z"
       }
     ],
     "abus-aikorea/voice-pro": [
@@ -5726,6 +5561,10 @@
       {
         "stars": 22316,
         "at": "2026-08-04T06:29:50.865Z"
+      },
+      {
+        "stars": 22348,
+        "at": "2026-08-04T10:42:16.066Z"
       }
     ],
     "NomaDamas/k-skill": [
@@ -5842,6 +5681,10 @@
       {
         "stars": 12421,
         "at": "2026-08-04T06:29:50.093Z"
+      },
+      {
+        "stars": 12647,
+        "at": "2026-08-04T10:42:15.329Z"
       }
     ],
     "bytedance/deer-flow": [
@@ -5938,6 +5781,10 @@
       {
         "stars": 10336,
         "at": "2026-08-04T06:29:52.586Z"
+      },
+      {
+        "stars": 10356,
+        "at": "2026-08-04T10:42:16.862Z"
       }
     ],
     "Panniantong/Agent-Reach": [
@@ -5984,6 +5831,10 @@
       {
         "stars": 65987,
         "at": "2026-08-04T06:29:50.817Z"
+      },
+      {
+        "stars": 66223,
+        "at": "2026-08-04T10:42:16.115Z"
       }
     ],
     "codecrafters-io/build-your-own-x": [
@@ -6052,6 +5903,10 @@
       {
         "stars": 27525,
         "at": "2026-08-04T06:29:50.063Z"
+      },
+      {
+        "stars": 27879,
+        "at": "2026-08-04T10:42:15.200Z"
       }
     ],
     "antirez/ds4": [
@@ -6098,6 +5953,10 @@
       {
         "stars": 20440,
         "at": "2026-08-04T06:29:50.052Z"
+      },
+      {
+        "stars": 20496,
+        "at": "2026-08-04T10:42:15.228Z"
       }
     ],
     "HarbourMasters/Lighthouse": [
@@ -6166,6 +6025,10 @@
       {
         "stars": 30218,
         "at": "2026-08-04T06:29:50.072Z"
+      },
+      {
+        "stars": 30421,
+        "at": "2026-08-04T10:42:15.201Z"
       }
     ],
     "firecrawl/pdf-inspector": [
@@ -6192,6 +6055,10 @@
       {
         "stars": 8777,
         "at": "2026-08-04T06:29:50.047Z"
+      },
+      {
+        "stars": 9134,
+        "at": "2026-08-04T10:42:15.243Z"
       }
     ],
     "donnemartin/system-design-primer": [
@@ -6218,6 +6085,10 @@
       {
         "stars": 360713,
         "at": "2026-08-04T06:29:50.052Z"
+      },
+      {
+        "stars": 360855,
+        "at": "2026-08-04T10:42:15.203Z"
       }
     ],
     "Alishahryar1/free-claude-code": [
@@ -6244,6 +6115,10 @@
       {
         "stars": 44153,
         "at": "2026-08-04T06:29:50.855Z"
+      },
+      {
+        "stars": 44234,
+        "at": "2026-08-04T10:42:16.033Z"
       }
     ],
     "livekit/agents": [
@@ -6270,6 +6145,10 @@
       {
         "stars": 12126,
         "at": "2026-08-04T06:29:50.843Z"
+      },
+      {
+        "stars": 12209,
+        "at": "2026-08-04T10:42:16.080Z"
       }
     ],
     "jamiepine/voicebox": [
@@ -6296,11 +6175,14 @@
       {
         "stars": 48852,
         "at": "2026-08-04T06:29:50.831Z"
+      },
+      {
+        "stars": 49008,
+        "at": "2026-08-04T10:42:16.066Z"
       }
     ]
   },
   "sentAlerts": {
-    "ayghri/i-have-adhd|72h": "2026-07-28T10:37:51.575Z",
     "affaan-m/ECC|24h": "2026-07-28T14:12:24.099Z",
     "bradautomates/claude-video|24h": "2026-07-28T14:12:24.099Z",
     "obra/superpowers|24h": "2026-07-29T14:14:57.016Z",
