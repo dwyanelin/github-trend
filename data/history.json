@@ -14,26 +14,12 @@
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "firstSeenAt": "2026-07-28T14:12:20.584Z"
     },
-    "microsoft/AI-For-Beginners": {
-      "fullName": "microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "firstSeenAt": "2026-07-30T14:08:01.439Z"
-    },
     "zhaoxuya520/reverse-skill": {
       "fullName": "zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "firstSeenAt": "2026-07-31T14:12:54.063Z"
-    },
-    "usekaneo/kaneo": {
-      "fullName": "usekaneo/kaneo",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "language": "TypeScript",
-      "url": "https://github.com/usekaneo/kaneo",
-      "firstSeenAt": "2026-07-31T14:12:54.073Z"
     },
     "TencentCloud/TencentDB-Agent-Memory": {
       "fullName": "TencentCloud/TencentDB-Agent-Memory",
@@ -90,13 +76,6 @@
       "language": "Python",
       "url": "https://github.com/huangruiteng/loopx",
       "firstSeenAt": "2026-08-05T14:13:29.996Z"
-    },
-    "DataExpert-io/data-engineer-handbook": {
-      "fullName": "DataExpert-io/data-engineer-handbook",
-      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
-      "firstSeenAt": "2026-08-05T14:13:31.580Z"
     },
     "TapXWorld/ChinaTextbook": {
       "fullName": "TapXWorld/ChinaTextbook",
@@ -161,13 +140,6 @@
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "firstSeenAt": "2026-08-08T12:52:40.031Z"
     },
-    "TauricResearch/TradingAgents": {
-      "fullName": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "firstSeenAt": "2026-08-08T12:52:40.033Z"
-    },
     "Comfy-Org/ComfyUI": {
       "fullName": "Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
@@ -217,20 +189,6 @@
       "url": "https://github.com/drawdb-io/drawdb",
       "firstSeenAt": "2026-08-09T12:55:06.214Z"
     },
-    "ruvnet/RuView": {
-      "fullName": "ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "url": "https://github.com/ruvnet/RuView",
-      "firstSeenAt": "2026-08-10T13:13:39.128Z"
-    },
-    "firecrawl/firecrawl": {
-      "fullName": "firecrawl/firecrawl",
-      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "language": "TypeScript",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "firstSeenAt": "2026-08-10T13:13:39.141Z"
-    },
     "paperclipai/paperclip": {
       "fullName": "paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
@@ -244,20 +202,6 @@
       "language": "Python",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "firstSeenAt": "2026-08-10T13:13:39.160Z"
-    },
-    "danielmiessler/LifeOS": {
-      "fullName": "danielmiessler/LifeOS",
-      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-      "language": "TypeScript",
-      "url": "https://github.com/danielmiessler/LifeOS",
-      "firstSeenAt": "2026-08-10T13:13:39.316Z"
-    },
-    "opa334/Dopamine": {
-      "fullName": "opa334/Dopamine",
-      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
-      "language": "C",
-      "url": "https://github.com/opa334/Dopamine",
-      "firstSeenAt": "2026-08-10T13:13:40.100Z"
     },
     "3b1b/manim": {
       "fullName": "3b1b/manim",
@@ -594,14 +538,52 @@
       "language": "Python",
       "url": "https://github.com/jundot/omlx",
       "firstSeenAt": "2026-08-17T12:48:11.358Z"
+    },
+    "chaitanyagiri/munder-difflin": {
+      "fullName": "chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "firstSeenAt": "2026-08-18T12:50:45.564Z"
+    },
+    "volcengine/OpenViking": {
+      "fullName": "volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "url": "https://github.com/volcengine/OpenViking",
+      "firstSeenAt": "2026-08-18T12:50:45.606Z"
+    },
+    "NawfalMotii79/PLFM_RADAR": {
+      "fullName": "NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "firstSeenAt": "2026-08-18T12:50:45.617Z"
+    },
+    "bojieli/ai-agent-book": {
+      "fullName": "bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "firstSeenAt": "2026-08-18T12:50:46.339Z"
+    },
+    "genlayerlabs/genlayer-project-boilerplate": {
+      "fullName": "genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "language": "TypeScript",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "firstSeenAt": "2026-08-18T12:50:46.362Z"
+    },
+    "superradcompany/microsandbox": {
+      "fullName": "superradcompany/microsandbox",
+      "description": "🧱 easy fast local-first microVM runtime and library",
+      "language": "Rust",
+      "url": "https://github.com/superradcompany/microsandbox",
+      "firstSeenAt": "2026-08-18T12:50:47.108Z"
     }
   },
   "snapshots": {
     "pingdotgg/t3code": [
-      {
-        "stars": 18132,
-        "at": "2026-08-11T09:00:05.725Z"
-      },
       {
         "stars": 18674,
         "at": "2026-08-14T13:11:14.031Z"
@@ -628,10 +610,6 @@
       }
     ],
     "virgiliojr94/book-to-skill": [
-      {
-        "stars": 20242,
-        "at": "2026-08-11T09:00:06.448Z"
-      },
       {
         "stars": 20331,
         "at": "2026-08-11T13:10:45.541Z"
@@ -701,17 +679,7 @@
         "at": "2026-08-14T09:09:30.490Z"
       }
     ],
-    "microsoft/AI-For-Beginners": [
-      {
-        "stars": 64523,
-        "at": "2026-08-11T09:00:06.508Z"
-      }
-    ],
     "zhaoxuya520/reverse-skill": [
-      {
-        "stars": 23619,
-        "at": "2026-08-11T09:00:05.706Z"
-      },
       {
         "stars": 23762,
         "at": "2026-08-11T13:10:45.562Z"
@@ -781,17 +749,7 @@
         "at": "2026-08-14T09:09:29.663Z"
       }
     ],
-    "usekaneo/kaneo": [
-      {
-        "stars": 8090,
-        "at": "2026-08-11T09:00:06.471Z"
-      }
-    ],
     "TencentCloud/TencentDB-Agent-Memory": [
-      {
-        "stars": 19629,
-        "at": "2026-08-11T09:00:05.690Z"
-      },
       {
         "stars": 19721,
         "at": "2026-08-11T13:10:45.538Z"
@@ -959,10 +917,6 @@
     ],
     "lyogavin/airllm": [
       {
-        "stars": 30659,
-        "at": "2026-08-11T09:00:06.508Z"
-      },
-      {
         "stars": 30700,
         "at": "2026-08-11T13:10:45.579Z"
       },
@@ -988,10 +942,6 @@
       }
     ],
     "esengine/DeepSeek-Reasonix": [
-      {
-        "stars": 33852,
-        "at": "2026-08-11T09:00:06.508Z"
-      },
       {
         "stars": 33898,
         "at": "2026-08-11T13:10:45.562Z"
@@ -1062,10 +1012,6 @@
       }
     ],
     "firecrawl/pdf-inspector": [
-      {
-        "stars": 14504,
-        "at": "2026-08-11T09:00:05.724Z"
-      },
       {
         "stars": 14571,
         "at": "2026-08-11T13:10:44.820Z"
@@ -1146,10 +1092,6 @@
       }
     ],
     "addyosmani/agent-skills": [
-      {
-        "stars": 85966,
-        "at": "2026-08-11T09:00:04.949Z"
-      },
       {
         "stars": 86049,
         "at": "2026-08-11T13:10:44.064Z"
@@ -1435,10 +1377,6 @@
     ],
     "huangruiteng/loopx": [
       {
-        "stars": 4054,
-        "at": "2026-08-11T09:00:05.732Z"
-      },
-      {
         "stars": 4091,
         "at": "2026-08-11T13:10:44.840Z"
       },
@@ -1531,12 +1469,6 @@
         "at": "2026-08-15T08:31:22.727Z"
       }
     ],
-    "DataExpert-io/data-engineer-handbook": [
-      {
-        "stars": 43642,
-        "at": "2026-08-11T09:00:06.543Z"
-      }
-    ],
     "TapXWorld/ChinaTextbook": [
       {
         "stars": 79218,
@@ -1588,10 +1520,6 @@
       }
     ],
     "goauthentik/authentik": [
-      {
-        "stars": 24555,
-        "at": "2026-08-11T09:00:06.529Z"
-      },
       {
         "stars": 24575,
         "at": "2026-08-11T13:10:46.580Z"
@@ -1660,10 +1588,6 @@
       }
     ],
     "semantica-agi/semantica": [
-      {
-        "stars": 4469,
-        "at": "2026-08-11T09:00:04.948Z"
-      },
       {
         "stars": 4586,
         "at": "2026-08-11T13:10:44.077Z"
@@ -1827,13 +1751,13 @@
       {
         "stars": 8758,
         "at": "2026-08-18T08:39:19.953Z"
+      },
+      {
+        "stars": 8841,
+        "at": "2026-08-18T12:50:46.342Z"
       }
     ],
     "PrimeIntellect-ai/prime-agent": [
-      {
-        "stars": 13489,
-        "at": "2026-08-11T09:00:04.942Z"
-      },
       {
         "stars": 13694,
         "at": "2026-08-11T13:10:44.844Z"
@@ -1977,13 +1901,13 @@
       {
         "stars": 17024,
         "at": "2026-08-18T08:39:19.999Z"
+      },
+      {
+        "stars": 17063,
+        "at": "2026-08-18T12:50:47.101Z"
       }
     ],
     "unclebob/swarm-forge": [
-      {
-        "stars": 2138,
-        "at": "2026-08-11T09:00:06.522Z"
-      },
       {
         "stars": 2145,
         "at": "2026-08-11T13:10:45.562Z"
@@ -2036,10 +1960,6 @@
       }
     ],
     "google/skills": [
-      {
-        "stars": 17691,
-        "at": "2026-08-11T09:00:06.495Z"
-      },
       {
         "stars": 17713,
         "at": "2026-08-11T13:10:45.578Z"
@@ -2159,10 +2079,6 @@
     ],
     "LadybirdBrowser/ladybird": [
       {
-        "stars": 65344,
-        "at": "2026-08-11T09:00:04.994Z"
-      },
-      {
         "stars": 65367,
         "at": "2026-08-11T13:10:45.588Z"
       },
@@ -2255,17 +2171,7 @@
         "at": "2026-08-15T08:31:22.710Z"
       }
     ],
-    "TauricResearch/TradingAgents": [
-      {
-        "stars": 97460,
-        "at": "2026-08-11T09:00:05.740Z"
-      }
-    ],
     "Comfy-Org/ComfyUI": [
-      {
-        "stars": 126600,
-        "at": "2026-08-11T09:00:05.741Z"
-      },
       {
         "stars": 126709,
         "at": "2026-08-11T13:10:45.583Z"
@@ -2336,10 +2242,6 @@
       }
     ],
     "vitali87/code-graph-rag": [
-      {
-        "stars": 3650,
-        "at": "2026-08-11T09:00:05.689Z"
-      },
       {
         "stars": 3699,
         "at": "2026-08-11T13:10:44.064Z"
@@ -2499,13 +2401,13 @@
       {
         "stars": 4574,
         "at": "2026-08-18T08:39:19.987Z"
+      },
+      {
+        "stars": 4593,
+        "at": "2026-08-18T12:50:47.118Z"
       }
     ],
     "msitarzewski/agency-agents": [
-      {
-        "stars": 142148,
-        "at": "2026-08-11T09:00:04.946Z"
-      },
       {
         "stars": 142400,
         "at": "2026-08-11T13:10:44.018Z"
@@ -2603,10 +2505,6 @@
     ],
     "google-deepmind/weathernext": [
       {
-        "stars": 7431,
-        "at": "2026-08-11T09:00:05.757Z"
-      },
-      {
         "stars": 7496,
         "at": "2026-08-15T12:41:04.342Z"
       },
@@ -2658,10 +2556,6 @@
       }
     ],
     "drawdb-io/drawdb": [
-      {
-        "stars": 38795,
-        "at": "2026-08-11T09:00:06.487Z"
-      },
       {
         "stars": 38814,
         "at": "2026-08-11T13:10:45.549Z"
@@ -2731,23 +2625,7 @@
         "at": "2026-08-14T09:09:29.653Z"
       }
     ],
-    "ruvnet/RuView": [
-      {
-        "stars": 89505,
-        "at": "2026-08-11T09:00:04.973Z"
-      }
-    ],
-    "firecrawl/firecrawl": [
-      {
-        "stars": 165449,
-        "at": "2026-08-11T09:00:05.014Z"
-      }
-    ],
     "paperclipai/paperclip": [
-      {
-        "stars": 76813,
-        "at": "2026-08-11T09:00:04.946Z"
-      },
       {
         "stars": 76935,
         "at": "2026-08-11T13:10:44.830Z"
@@ -2843,10 +2721,6 @@
     ],
     "NanmiCoder/MediaCrawler": [
       {
-        "stars": 61526,
-        "at": "2026-08-11T09:00:04.915Z"
-      },
-      {
         "stars": 61848,
         "at": "2026-08-12T13:14:41.351Z"
       },
@@ -2865,18 +2739,6 @@
       {
         "stars": 62241,
         "at": "2026-08-13T09:14:57.184Z"
-      }
-    ],
-    "danielmiessler/LifeOS": [
-      {
-        "stars": 18160,
-        "at": "2026-08-11T09:00:04.957Z"
-      }
-    ],
-    "opa334/Dopamine": [
-      {
-        "stars": 6139,
-        "at": "2026-08-11T09:00:05.767Z"
       }
     ],
     "3b1b/manim": [
@@ -3019,6 +2881,10 @@
       {
         "stars": 91545,
         "at": "2026-08-18T08:39:19.985Z"
+      },
+      {
+        "stars": 91566,
+        "at": "2026-08-18T12:50:47.109Z"
       }
     ],
     "nvm-sh/nvm": [
@@ -3449,6 +3315,10 @@
       {
         "stars": 21127,
         "at": "2026-08-18T08:39:19.980Z"
+      },
+      {
+        "stars": 21325,
+        "at": "2026-08-18T12:50:46.333Z"
       }
     ],
     "shiyu-coder/Kronos": [
@@ -3613,6 +3483,10 @@
       {
         "stars": 3605,
         "at": "2026-08-18T08:39:19.990Z"
+      },
+      {
+        "stars": 3619,
+        "at": "2026-08-18T12:50:46.394Z"
       }
     ],
     "hugohe3/ppt-master": [
@@ -3775,6 +3649,10 @@
       {
         "stars": 9075,
         "at": "2026-08-17T08:45:46.149Z"
+      },
+      {
+        "stars": 9103,
+        "at": "2026-08-18T12:50:47.136Z"
       }
     ],
     "cactus-compute/needle": [
@@ -3917,6 +3795,10 @@
       {
         "stars": 7275,
         "at": "2026-08-18T08:39:20.016Z"
+      },
+      {
+        "stars": 7348,
+        "at": "2026-08-18T12:50:46.394Z"
       }
     ],
     "localsend/localsend": [
@@ -4321,6 +4203,10 @@
       {
         "stars": 13500,
         "at": "2026-08-18T08:39:19.974Z"
+      },
+      {
+        "stars": 13530,
+        "at": "2026-08-18T12:50:46.332Z"
       }
     ],
     "unslothai/unsloth": [
@@ -4443,6 +4329,10 @@
       {
         "stars": 73375,
         "at": "2026-08-18T08:39:20.029Z"
+      },
+      {
+        "stars": 73447,
+        "at": "2026-08-18T12:50:46.357Z"
       }
     ],
     "kepano/obsidian-skills": [
@@ -4593,6 +4483,10 @@
       {
         "stars": 6488,
         "at": "2026-08-18T08:39:20.735Z"
+      },
+      {
+        "stars": 6553,
+        "at": "2026-08-18T12:50:46.362Z"
       }
     ],
     "github/spec-kit": [
@@ -4743,6 +4637,10 @@
       {
         "stars": 84224,
         "at": "2026-08-17T08:45:45.378Z"
+      },
+      {
+        "stars": 84499,
+        "at": "2026-08-18T12:50:46.343Z"
       }
     ],
     "deepseek-ai/awesome-deepseek-agent": [
@@ -5069,6 +4967,10 @@
       {
         "stars": 462512,
         "at": "2026-08-17T08:45:45.376Z"
+      },
+      {
+        "stars": 463758,
+        "at": "2026-08-18T12:50:45.630Z"
       }
     ],
     "HKUDS/CLI-Anything": [
@@ -5145,6 +5047,10 @@
       {
         "stars": 26119,
         "at": "2026-08-18T08:39:20.745Z"
+      },
+      {
+        "stars": 26187,
+        "at": "2026-08-18T12:50:45.592Z"
       }
     ],
     "akitaonrails/ai-memory": [
@@ -5175,6 +5081,10 @@
       {
         "stars": 2353,
         "at": "2026-08-18T08:39:19.205Z"
+      },
+      {
+        "stars": 2463,
+        "at": "2026-08-18T12:50:45.573Z"
       }
     ],
     "harry0703/MoneyPrinterTurbo": [
@@ -5201,6 +5111,10 @@
       {
         "stars": 107058,
         "at": "2026-08-18T08:39:19.228Z"
+      },
+      {
+        "stars": 107553,
+        "at": "2026-08-18T12:50:45.563Z"
       }
     ],
     "mukul975/Anthropic-Cybersecurity-Skills": [
@@ -5227,6 +5141,10 @@
       {
         "stars": 28689,
         "at": "2026-08-18T08:39:19.219Z"
+      },
+      {
+        "stars": 28815,
+        "at": "2026-08-18T12:50:45.610Z"
       }
     ],
     "santifer/career-ops": [
@@ -5305,6 +5223,10 @@
       {
         "stars": 53327,
         "at": "2026-08-18T08:39:19.980Z"
+      },
+      {
+        "stars": 53425,
+        "at": "2026-08-18T12:50:45.571Z"
       }
     ],
     "AlexsJones/llmfit": [
@@ -5331,6 +5253,10 @@
       {
         "stars": 32532,
         "at": "2026-08-18T08:39:19.189Z"
+      },
+      {
+        "stars": 32610,
+        "at": "2026-08-18T12:50:47.102Z"
       }
     ],
     "usestrix/strix": [
@@ -5409,6 +5335,46 @@
       {
         "stars": 19136,
         "at": "2026-08-18T08:39:19.201Z"
+      },
+      {
+        "stars": 19199,
+        "at": "2026-08-18T12:50:45.577Z"
+      }
+    ],
+    "chaitanyagiri/munder-difflin": [
+      {
+        "stars": 1676,
+        "at": "2026-08-18T12:50:45.564Z"
+      }
+    ],
+    "volcengine/OpenViking": [
+      {
+        "stars": 29062,
+        "at": "2026-08-18T12:50:45.606Z"
+      }
+    ],
+    "NawfalMotii79/PLFM_RADAR": [
+      {
+        "stars": 24167,
+        "at": "2026-08-18T12:50:45.617Z"
+      }
+    ],
+    "bojieli/ai-agent-book": [
+      {
+        "stars": 38901,
+        "at": "2026-08-18T12:50:46.339Z"
+      }
+    ],
+    "genlayerlabs/genlayer-project-boilerplate": [
+      {
+        "stars": 15744,
+        "at": "2026-08-18T12:50:46.362Z"
+      }
+    ],
+    "superradcompany/microsandbox": [
+      {
+        "stars": 7599,
+        "at": "2026-08-18T12:50:47.108Z"
       }
     ]
   },
@@ -5417,6 +5383,8 @@
     "msitarzewski/agency-agents|72h": "2026-08-12T13:14:44.309Z",
     "cathrynlavery/diagram-design|24h": "2026-08-13T02:09:13.367Z",
     "cathrynlavery/diagram-design|72h": "2026-08-14T20:33:15.445Z",
-    "public-apis/public-apis|24h": "2026-08-16T12:42:52.053Z"
+    "public-apis/public-apis|24h": "2026-08-16T12:42:52.053Z",
+    "harry0703/MoneyPrinterTurbo|24h": "2026-08-18T12:50:47.690Z",
+    "public-apis/public-apis|72h": "2026-08-18T12:50:47.690Z"
   }
 }
