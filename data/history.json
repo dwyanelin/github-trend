@@ -191,7 +191,7 @@
     },
     "cathrynlavery/diagram-design": {
       "fullName": "cathrynlavery/diagram-design",
-      "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "firstSeenAt": "2026-08-11T16:59:01.658Z"
@@ -1381,6 +1381,10 @@
       {
         "stars": 9472,
         "at": "2026-08-19T20:30:27.155Z"
+      },
+      {
+        "stars": 9526,
+        "at": "2026-08-20T01:21:25.623Z"
       }
     ],
     "PrimeIntellect-ai/prime-agent": [
@@ -2467,6 +2471,10 @@
       {
         "stars": 23196,
         "at": "2026-08-19T20:30:27.170Z"
+      },
+      {
+        "stars": 23376,
+        "at": "2026-08-20T01:21:25.580Z"
       }
     ],
     "shiyu-coder/Kronos": [
@@ -2651,6 +2659,10 @@
       {
         "stars": 3766,
         "at": "2026-08-19T20:30:27.162Z"
+      },
+      {
+        "stars": 3781,
+        "at": "2026-08-20T01:21:25.616Z"
       }
     ],
     "hugohe3/ppt-master": [
@@ -2987,6 +2999,10 @@
       {
         "stars": 7774,
         "at": "2026-08-19T20:30:27.140Z"
+      },
+      {
+        "stars": 7824,
+        "at": "2026-08-20T01:21:25.622Z"
       }
     ],
     "localsend/localsend": [
@@ -3395,6 +3411,10 @@
       {
         "stars": 13713,
         "at": "2026-08-19T20:30:27.127Z"
+      },
+      {
+        "stars": 13742,
+        "at": "2026-08-20T01:21:25.587Z"
       }
     ],
     "unslothai/unsloth": [
@@ -3553,6 +3573,10 @@
       {
         "stars": 73819,
         "at": "2026-08-19T20:30:27.135Z"
+      },
+      {
+        "stars": 73872,
+        "at": "2026-08-20T01:21:25.595Z"
       }
     ],
     "kepano/obsidian-skills": [
@@ -3739,6 +3763,10 @@
       {
         "stars": 6879,
         "at": "2026-08-19T20:30:28.016Z"
+      },
+      {
+        "stars": 6914,
+        "at": "2026-08-20T01:21:26.414Z"
       }
     ],
     "github/spec-kit": [
@@ -4279,6 +4307,10 @@
       {
         "stars": 465878,
         "at": "2026-08-19T20:30:27.953Z"
+      },
+      {
+        "stars": 466081,
+        "at": "2026-08-20T01:21:26.443Z"
       }
     ],
     "HKUDS/CLI-Anything": [
@@ -4391,6 +4423,10 @@
       {
         "stars": 26748,
         "at": "2026-08-19T20:30:27.149Z"
+      },
+      {
+        "stars": 26786,
+        "at": "2026-08-20T01:21:25.600Z"
       }
     ],
     "akitaonrails/ai-memory": [
@@ -4515,6 +4551,10 @@
       {
         "stars": 110389,
         "at": "2026-08-19T20:30:26.304Z"
+      },
+      {
+        "stars": 110733,
+        "at": "2026-08-20T01:21:24.645Z"
       }
     ],
     "mukul975/Anthropic-Cybersecurity-Skills": [
@@ -4577,6 +4617,10 @@
       {
         "stars": 29747,
         "at": "2026-08-19T20:30:26.290Z"
+      },
+      {
+        "stars": 29850,
+        "at": "2026-08-20T01:21:24.645Z"
       }
     ],
     "santifer/career-ops": [
@@ -4611,6 +4655,10 @@
       {
         "stars": 65670,
         "at": "2026-08-19T20:30:26.295Z"
+      },
+      {
+        "stars": 65804,
+        "at": "2026-08-20T01:21:24.654Z"
       }
     ],
     "immich-app/immich": [
@@ -4645,6 +4693,10 @@
       {
         "stars": 111774,
         "at": "2026-08-19T20:30:26.336Z"
+      },
+      {
+        "stars": 111885,
+        "at": "2026-08-20T01:21:24.650Z"
       }
     ],
     "agalwood/Motrix": [
@@ -4761,6 +4813,10 @@
       {
         "stars": 32991,
         "at": "2026-08-19T20:30:27.950Z"
+      },
+      {
+        "stars": 33064,
+        "at": "2026-08-20T01:21:26.403Z"
       }
     ],
     "usestrix/strix": [
@@ -4821,6 +4877,10 @@
       {
         "stars": 26389,
         "at": "2026-08-19T20:30:26.300Z"
+      },
+      {
+        "stars": 26447,
+        "at": "2026-08-20T01:21:24.645Z"
       }
     ],
     "jundot/omlx": [
@@ -4883,6 +4943,10 @@
       {
         "stars": 19785,
         "at": "2026-08-19T20:30:26.282Z"
+      },
+      {
+        "stars": 19844,
+        "at": "2026-08-20T01:21:24.669Z"
       }
     ],
     "chaitanyagiri/munder-difflin": [
@@ -4921,6 +4985,10 @@
       {
         "stars": 2620,
         "at": "2026-08-19T20:30:26.283Z"
+      },
+      {
+        "stars": 2697,
+        "at": "2026-08-20T01:21:24.657Z"
       }
     ],
     "volcengine/OpenViking": [
@@ -4959,6 +5027,10 @@
       {
         "stars": 30080,
         "at": "2026-08-19T20:30:26.373Z"
+      },
+      {
+        "stars": 30202,
+        "at": "2026-08-20T01:21:24.674Z"
       }
     ],
     "NawfalMotii79/PLFM_RADAR": [
@@ -5041,6 +5113,10 @@
       {
         "stars": 16208,
         "at": "2026-08-19T20:30:27.173Z"
+      },
+      {
+        "stars": 16225,
+        "at": "2026-08-20T01:21:25.625Z"
       }
     ],
     "superradcompany/microsandbox": [
@@ -5079,6 +5155,10 @@
       {
         "stars": 7771,
         "at": "2026-08-19T20:30:27.962Z"
+      },
+      {
+        "stars": 7781,
+        "at": "2026-08-20T01:21:26.441Z"
       }
     ],
     "obra/superpowers": [
@@ -5089,6 +5169,10 @@
       {
         "stars": 274191,
         "at": "2026-08-19T20:30:26.291Z"
+      },
+      {
+        "stars": 274283,
+        "at": "2026-08-20T01:21:24.632Z"
       }
     ],
     "mattpocock/skills": [
@@ -5099,6 +5183,10 @@
       {
         "stars": 223571,
         "at": "2026-08-19T20:30:26.308Z"
+      },
+      {
+        "stars": 223844,
+        "at": "2026-08-20T01:21:24.808Z"
       }
     ],
     "marceloprates/prettymaps": [
@@ -5109,6 +5197,10 @@
       {
         "stars": 13012,
         "at": "2026-08-19T20:30:27.149Z"
+      },
+      {
+        "stars": 13133,
+        "at": "2026-08-20T01:21:25.604Z"
       }
     ],
     "amadeusprotocol/node": [
@@ -5119,6 +5211,10 @@
       {
         "stars": 4447,
         "at": "2026-08-19T20:30:27.197Z"
+      },
+      {
+        "stars": 4561,
+        "at": "2026-08-20T01:21:25.620Z"
       }
     ],
     "CodebuffAI/freebuff": [
@@ -5129,6 +5225,10 @@
       {
         "stars": 10064,
         "at": "2026-08-19T20:30:27.991Z"
+      },
+      {
+        "stars": 10108,
+        "at": "2026-08-20T01:21:26.407Z"
       }
     ]
   },
