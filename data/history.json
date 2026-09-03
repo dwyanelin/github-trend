@@ -629,6 +629,48 @@
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "firstSeenAt": "2026-09-02T16:11:35.966Z"
+    },
+    "anthropics/skills": {
+      "fullName": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "url": "https://github.com/anthropics/skills",
+      "firstSeenAt": "2026-09-03T16:00:47.286Z"
+    },
+    "f/prompts.chat": {
+      "fullName": "f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "url": "https://github.com/f/prompts.chat",
+      "firstSeenAt": "2026-09-03T16:00:48.060Z"
+    },
+    "bannedbook/fanqiang": {
+      "fullName": "bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "firstSeenAt": "2026-09-03T16:00:48.065Z"
+    },
+    "magnitudedev/magnitude": {
+      "fullName": "magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "firstSeenAt": "2026-09-03T16:00:48.074Z"
+    },
+    "ByteByteGoHq/system-design-101": {
+      "fullName": "ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "language": "",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "firstSeenAt": "2026-09-03T16:00:48.097Z"
+    },
+    "obra/superpowers": {
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers",
+      "firstSeenAt": "2026-09-03T16:00:48.107Z"
     }
   },
   "snapshots": {
@@ -728,6 +770,10 @@
       {
         "stars": 6697,
         "at": "2026-09-03T08:41:15.085Z"
+      },
+      {
+        "stars": 6739,
+        "at": "2026-09-03T16:00:48.828Z"
       }
     ],
     "basecamp/omarchy": [
@@ -990,6 +1036,10 @@
       {
         "stars": 246609,
         "at": "2026-09-03T08:41:13.507Z"
+      },
+      {
+        "stars": 246858,
+        "at": "2026-09-03T16:00:47.258Z"
       }
     ],
     "apache/maka": [
@@ -1270,6 +1320,10 @@
       {
         "stars": 27584,
         "at": "2026-09-03T08:41:14.279Z"
+      },
+      {
+        "stars": 27693,
+        "at": "2026-09-03T16:00:48.775Z"
       }
     ],
     "tinyhumansai/openhuman": [
@@ -1644,6 +1698,10 @@
       {
         "stars": 23982,
         "at": "2026-09-03T08:41:14.293Z"
+      },
+      {
+        "stars": 24054,
+        "at": "2026-09-03T16:00:49.627Z"
       }
     ],
     "AgriciDaniel/claude-obsidian": [
@@ -1752,6 +1810,10 @@
       {
         "stars": 52149,
         "at": "2026-09-03T08:41:15.041Z"
+      },
+      {
+        "stars": 52234,
+        "at": "2026-09-03T16:00:49.572Z"
       }
     ],
     "TauricResearch/TradingAgents": [
@@ -1880,6 +1942,10 @@
       {
         "stars": 122445,
         "at": "2026-09-03T08:41:12.731Z"
+      },
+      {
+        "stars": 123025,
+        "at": "2026-09-03T16:00:47.258Z"
       }
     ],
     "marin-community/marin": [
@@ -2004,6 +2070,10 @@
       {
         "stars": 44626,
         "at": "2026-09-03T08:41:14.284Z"
+      },
+      {
+        "stars": 45300,
+        "at": "2026-09-03T16:00:48.057Z"
       }
     ],
     "K-Dense-AI/scientific-agent-skills": [
@@ -2102,6 +2172,10 @@
       {
         "stars": 42217,
         "at": "2026-09-03T08:41:14.290Z"
+      },
+      {
+        "stars": 42327,
+        "at": "2026-09-03T16:00:48.859Z"
       }
     ],
     "ConardLi/garden-skills": [
@@ -2220,6 +2294,10 @@
       {
         "stars": 14084,
         "at": "2026-09-03T08:41:14.327Z"
+      },
+      {
+        "stars": 14089,
+        "at": "2026-09-03T16:00:49.605Z"
       }
     ],
     "calesthio/OpenMontage": [
@@ -2304,6 +2382,10 @@
       {
         "stars": 2900,
         "at": "2026-08-30T04:22:08.808Z"
+      },
+      {
+        "stars": 3086,
+        "at": "2026-09-03T16:00:48.848Z"
       }
     ],
     "bilawalsidhu/gods-eye-view": [
@@ -2354,6 +2436,10 @@
       {
         "stars": 16476,
         "at": "2026-09-03T08:41:13.537Z"
+      },
+      {
+        "stars": 16752,
+        "at": "2026-09-03T16:00:48.809Z"
       }
     ],
     "google/googletest": [
@@ -2648,6 +2734,10 @@
       {
         "stars": 77257,
         "at": "2026-09-03T08:41:15.022Z"
+      },
+      {
+        "stars": 77344,
+        "at": "2026-09-03T16:00:49.698Z"
       }
     ],
     "abhigyanpatwari/GitNexus": [
@@ -2906,6 +2996,10 @@
       {
         "stars": 37468,
         "at": "2026-09-03T08:41:14.285Z"
+      },
+      {
+        "stars": 37609,
+        "at": "2026-09-03T16:00:48.897Z"
       }
     ],
     "p-e-w/heretic": [
@@ -2980,6 +3074,10 @@
       {
         "stars": 30231,
         "at": "2026-09-03T08:41:15.065Z"
+      },
+      {
+        "stars": 30269,
+        "at": "2026-09-03T16:00:48.843Z"
       }
     ],
     "THU-MAIC/OpenMAIC": [
@@ -3054,6 +3152,10 @@
       {
         "stars": 30773,
         "at": "2026-09-03T08:41:14.306Z"
+      },
+      {
+        "stars": 30962,
+        "at": "2026-09-03T16:00:48.842Z"
       }
     ],
     "bigskysoftware/htmx": [
@@ -3096,6 +3198,10 @@
       {
         "stars": 90772,
         "at": "2026-08-30T04:22:09.567Z"
+      },
+      {
+        "stars": 91911,
+        "at": "2026-09-03T16:00:48.050Z"
       }
     ],
     "every-app/open-seo": [
@@ -3170,6 +3276,10 @@
       {
         "stars": 16488,
         "at": "2026-09-03T08:41:14.276Z"
+      },
+      {
+        "stars": 16596,
+        "at": "2026-09-03T16:00:48.823Z"
       }
     ],
     "workweave/router": [
@@ -3274,6 +3384,10 @@
       {
         "stars": 93912,
         "at": "2026-09-03T08:41:15.016Z"
+      },
+      {
+        "stars": 93963,
+        "at": "2026-09-03T16:00:49.625Z"
       }
     ],
     "majd/ipatool": [
@@ -3304,6 +3418,10 @@
       {
         "stars": 10599,
         "at": "2026-09-01T04:10:16.775Z"
+      },
+      {
+        "stars": 10782,
+        "at": "2026-09-03T16:00:49.639Z"
       }
     ],
     "unclecode/crawl4ai": [
@@ -3424,6 +3542,10 @@
       {
         "stars": 43789,
         "at": "2026-09-03T08:41:15.040Z"
+      },
+      {
+        "stars": 43803,
+        "at": "2026-09-03T16:00:49.638Z"
       }
     ],
     "pollen-robotics/microduck_rl": [
@@ -3504,6 +3626,10 @@
       {
         "stars": 6956,
         "at": "2026-09-02T08:32:59.831Z"
+      },
+      {
+        "stars": 7188,
+        "at": "2026-09-03T16:00:49.613Z"
       }
     ],
     "corsairdev/corsair": [
@@ -3600,6 +3726,10 @@
       {
         "stars": 58029,
         "at": "2026-09-03T08:41:14.275Z"
+      },
+      {
+        "stars": 58180,
+        "at": "2026-09-03T16:00:48.827Z"
       }
     ],
     "firecrawl/pdf-inspector": [
@@ -3698,6 +3828,10 @@
       {
         "stars": 15405,
         "at": "2026-09-03T08:41:12.730Z"
+      },
+      {
+        "stars": 15864,
+        "at": "2026-09-03T16:00:48.005Z"
       }
     ],
     "Imbad0202/academic-research-skills": [
@@ -3736,6 +3870,10 @@
       {
         "stars": 45762,
         "at": "2026-09-03T08:41:13.531Z"
+      },
+      {
+        "stars": 45912,
+        "at": "2026-09-03T16:00:48.049Z"
       }
     ],
     "browser-use/video-use": [
@@ -3818,6 +3956,10 @@
       {
         "stars": 32134,
         "at": "2026-09-03T08:41:13.537Z"
+      },
+      {
+        "stars": 32251,
+        "at": "2026-09-03T16:00:48.106Z"
       }
     ],
     "averygan/reclip": [
@@ -3840,6 +3982,10 @@
       {
         "stars": 7956,
         "at": "2026-09-02T08:33:00.569Z"
+      },
+      {
+        "stars": 8242,
+        "at": "2026-09-03T16:00:47.259Z"
       }
     ],
     "VoltAgent/awesome-design-md": [
@@ -3898,6 +4044,10 @@
       {
         "stars": 24575,
         "at": "2026-09-03T08:41:12.749Z"
+      },
+      {
+        "stars": 24868,
+        "at": "2026-09-03T16:00:47.274Z"
       }
     ],
     "google-research/timesfm": [
@@ -3916,6 +4066,10 @@
       {
         "stars": 30356,
         "at": "2026-09-03T08:41:12.736Z"
+      },
+      {
+        "stars": 30602,
+        "at": "2026-09-03T16:00:47.286Z"
       }
     ],
     "superlinked/sie": [
@@ -3988,6 +4142,10 @@
       {
         "stars": 240385,
         "at": "2026-09-03T08:41:12.782Z"
+      },
+      {
+        "stars": 240642,
+        "at": "2026-09-03T16:00:47.338Z"
       }
     ],
     "JuliusBrussee/caveman": [
@@ -4006,6 +4164,10 @@
       {
         "stars": 102817,
         "at": "2026-09-03T08:41:13.507Z"
+      },
+      {
+        "stars": 102963,
+        "at": "2026-09-03T16:00:47.255Z"
       }
     ],
     "blader/humanizer": [
@@ -4024,6 +4186,10 @@
       {
         "stars": 40842,
         "at": "2026-09-03T08:41:13.535Z"
+      },
+      {
+        "stars": 41216,
+        "at": "2026-09-03T16:00:47.280Z"
       }
     ],
     "mattpocock/skills": [
@@ -4042,6 +4208,10 @@
       {
         "stars": 245767,
         "at": "2026-09-03T08:41:13.516Z"
+      },
+      {
+        "stars": 246650,
+        "at": "2026-09-03T16:00:47.286Z"
       }
     ],
     "protocolbuffers/protobuf": [
@@ -4078,6 +4248,42 @@
       {
         "stars": 11948,
         "at": "2026-09-03T08:41:13.525Z"
+      }
+    ],
+    "anthropics/skills": [
+      {
+        "stars": 173505,
+        "at": "2026-09-03T16:00:47.286Z"
+      }
+    ],
+    "f/prompts.chat": [
+      {
+        "stars": 168813,
+        "at": "2026-09-03T16:00:48.060Z"
+      }
+    ],
+    "bannedbook/fanqiang": [
+      {
+        "stars": 52023,
+        "at": "2026-09-03T16:00:48.065Z"
+      }
+    ],
+    "magnitudedev/magnitude": [
+      {
+        "stars": 1828,
+        "at": "2026-09-03T16:00:48.074Z"
+      }
+    ],
+    "ByteByteGoHq/system-design-101": [
+      {
+        "stars": 88192,
+        "at": "2026-09-03T16:00:48.097Z"
+      }
+    ],
+    "obra/superpowers": [
+      {
+        "stars": 281194,
+        "at": "2026-09-03T16:00:48.107Z"
       }
     ]
   },
