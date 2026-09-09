@@ -629,6 +629,41 @@
       "language": "",
       "url": "https://github.com/liquidslr/system-design-notes",
       "firstSeenAt": "2026-09-09T08:47:41.528Z"
+    },
+    "TauricResearch/TradingAgents": {
+      "fullName": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "firstSeenAt": "2026-09-09T16:09:15.623Z"
+    },
+    "earthtojake/text-to-cad": {
+      "fullName": "earthtojake/text-to-cad",
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "language": "Python",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "firstSeenAt": "2026-09-09T16:09:15.671Z"
+    },
+    "Tencent/teamai-cli": {
+      "fullName": "Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "firstSeenAt": "2026-09-09T16:09:15.672Z"
+    },
+    "vastsa/PI-Desktop": {
+      "fullName": "vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "firstSeenAt": "2026-09-09T16:09:16.571Z"
+    },
+    "petergyang/no-ai-slop": {
+      "fullName": "petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "language": "Python",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "firstSeenAt": "2026-09-09T16:09:17.307Z"
     }
   },
   "snapshots": {
@@ -790,6 +825,10 @@
       {
         "stars": 254644,
         "at": "2026-09-09T08:47:40.728Z"
+      },
+      {
+        "stars": 254901,
+        "at": "2026-09-09T16:09:16.536Z"
       }
     ],
     "freestylefly/awesome-gpt-image-2": [
@@ -824,6 +863,10 @@
       {
         "stars": 27890,
         "at": "2026-09-04T08:36:28.729Z"
+      },
+      {
+        "stars": 29859,
+        "at": "2026-09-09T16:09:15.748Z"
       }
     ],
     "anthropics/claude-plugins-community": [
@@ -928,6 +971,10 @@
       {
         "stars": 52356,
         "at": "2026-09-04T08:36:29.602Z"
+      },
+      {
+        "stars": 53489,
+        "at": "2026-09-09T16:09:16.535Z"
       }
     ],
     "DietrichGebert/ponytail": [
@@ -1054,6 +1101,10 @@
       {
         "stars": 132682,
         "at": "2026-09-09T08:47:41.543Z"
+      },
+      {
+        "stars": 133133,
+        "at": "2026-09-09T16:09:16.564Z"
       }
     ],
     "tt-a1i/archify": [
@@ -1180,6 +1231,10 @@
       {
         "stars": 55343,
         "at": "2026-09-09T08:47:41.573Z"
+      },
+      {
+        "stars": 55778,
+        "at": "2026-09-09T16:09:16.443Z"
       }
     ],
     "K-Dense-AI/scientific-agent-skills": [
@@ -1620,6 +1675,10 @@
       {
         "stars": 51414,
         "at": "2026-09-09T08:47:42.355Z"
+      },
+      {
+        "stars": 51447,
+        "at": "2026-09-09T16:09:16.470Z"
       }
     ],
     "tailscale/tailcat": [
@@ -1896,6 +1955,10 @@
       {
         "stars": 33317,
         "at": "2026-09-08T08:42:07.926Z"
+      },
+      {
+        "stars": 34234,
+        "at": "2026-09-09T16:09:17.379Z"
       }
     ],
     "addyosmani/agent-skills": [
@@ -2040,6 +2103,10 @@
       {
         "stars": 18006,
         "at": "2026-09-09T08:47:42.404Z"
+      },
+      {
+        "stars": 18061,
+        "at": "2026-09-09T16:09:17.300Z"
       }
     ],
     "punkpeye/awesome-mcp-servers": [
@@ -2842,6 +2909,10 @@
       {
         "stars": 47157,
         "at": "2026-09-09T08:47:42.368Z"
+      },
+      {
+        "stars": 47228,
+        "at": "2026-09-09T16:09:17.371Z"
       }
     ],
     "Gitlawb/openclaude": [
@@ -3114,6 +3185,10 @@
       {
         "stars": 25688,
         "at": "2026-09-09T08:47:41.517Z"
+      },
+      {
+        "stars": 25694,
+        "at": "2026-09-09T16:09:16.543Z"
       }
     ],
     "google-research/timesfm": [
@@ -3404,6 +3479,10 @@
       {
         "stars": 243609,
         "at": "2026-09-09T08:47:42.388Z"
+      },
+      {
+        "stars": 243742,
+        "at": "2026-09-09T16:09:16.535Z"
       }
     ],
     "JuliusBrussee/caveman": [
@@ -3568,6 +3647,10 @@
       {
         "stars": 45642,
         "at": "2026-09-09T08:47:42.339Z"
+      },
+      {
+        "stars": 45864,
+        "at": "2026-09-09T16:09:16.512Z"
       }
     ],
     "mattpocock/skills": [
@@ -3678,6 +3761,10 @@
       {
         "stars": 257298,
         "at": "2026-09-09T08:47:42.370Z"
+      },
+      {
+        "stars": 257659,
+        "at": "2026-09-09T16:09:16.489Z"
       }
     ],
     "protocolbuffers/protobuf": [
@@ -3974,6 +4061,10 @@
       {
         "stars": 283606,
         "at": "2026-09-09T08:47:40.732Z"
+      },
+      {
+        "stars": 283853,
+        "at": "2026-09-09T16:09:15.621Z"
       }
     ],
     "bikini/exploitarium": [
@@ -4094,6 +4185,10 @@
       {
         "stars": 35727,
         "at": "2026-09-09T08:47:40.792Z"
+      },
+      {
+        "stars": 36258,
+        "at": "2026-09-09T16:09:15.619Z"
       }
     ],
     "radixark/miles": [
@@ -4338,6 +4433,10 @@
       {
         "stars": 71723,
         "at": "2026-09-09T08:47:43.088Z"
+      },
+      {
+        "stars": 71770,
+        "at": "2026-09-09T16:09:17.402Z"
       }
     ],
     "humanlayer/skills": [
@@ -4536,6 +4635,10 @@
       {
         "stars": 40353,
         "at": "2026-09-09T08:47:42.389Z"
+      },
+      {
+        "stars": 40365,
+        "at": "2026-09-09T16:09:17.371Z"
       }
     ],
     "openai/skills": [
@@ -4590,6 +4693,10 @@
       {
         "stars": 26694,
         "at": "2026-09-09T08:47:40.772Z"
+      },
+      {
+        "stars": 26750,
+        "at": "2026-09-09T16:09:17.281Z"
       }
     ],
     "coreyhaines31/marketingskills": [
@@ -4644,6 +4751,10 @@
       {
         "stars": 49062,
         "at": "2026-09-09T08:47:40.725Z"
+      },
+      {
+        "stars": 49179,
+        "at": "2026-09-09T16:09:17.325Z"
       }
     ],
     "Stremio/stremio-web": [
@@ -4844,6 +4955,10 @@
       {
         "stars": 48112,
         "at": "2026-09-09T08:47:40.770Z"
+      },
+      {
+        "stars": 48295,
+        "at": "2026-09-09T16:09:17.469Z"
       }
     ],
     "bytedance/deer-flow": [
@@ -4930,6 +5045,10 @@
       {
         "stars": 21548,
         "at": "2026-09-09T08:47:41.535Z"
+      },
+      {
+        "stars": 21637,
+        "at": "2026-09-09T16:09:17.423Z"
       }
     ],
     "pascalorg/editor": [
@@ -4948,6 +5067,10 @@
       {
         "stars": 22542,
         "at": "2026-09-08T08:42:07.977Z"
+      },
+      {
+        "stars": 22773,
+        "at": "2026-09-09T16:09:15.612Z"
       }
     ],
     "lightpanda-io/browser": [
@@ -5056,6 +5179,10 @@
       {
         "stars": 32055,
         "at": "2026-09-09T08:47:40.735Z"
+      },
+      {
+        "stars": 33565,
+        "at": "2026-09-09T16:09:15.611Z"
       }
     ],
     "openai/plugins": [
@@ -5074,6 +5201,10 @@
       {
         "stars": 5997,
         "at": "2026-09-09T08:47:41.575Z"
+      },
+      {
+        "stars": 6107,
+        "at": "2026-09-09T16:09:15.678Z"
       }
     ],
     "browser-use/browser-use": [
@@ -5134,6 +5265,40 @@
       {
         "stars": 17288,
         "at": "2026-09-09T08:47:41.528Z"
+      },
+      {
+        "stars": 17742,
+        "at": "2026-09-09T16:09:15.626Z"
+      }
+    ],
+    "TauricResearch/TradingAgents": [
+      {
+        "stars": 103713,
+        "at": "2026-09-09T16:09:15.623Z"
+      }
+    ],
+    "earthtojake/text-to-cad": [
+      {
+        "stars": 14919,
+        "at": "2026-09-09T16:09:15.671Z"
+      }
+    ],
+    "Tencent/teamai-cli": [
+      {
+        "stars": 2806,
+        "at": "2026-09-09T16:09:15.672Z"
+      }
+    ],
+    "vastsa/PI-Desktop": [
+      {
+        "stars": 1533,
+        "at": "2026-09-09T16:09:16.571Z"
+      }
+    ],
+    "petergyang/no-ai-slop": [
+      {
+        "stars": 7754,
+        "at": "2026-09-09T16:09:17.307Z"
       }
     ]
   },
@@ -5156,6 +5321,8 @@
     "cathrynlavery/diagram-design|24h": "2026-09-08T22:26:54.988Z",
     "heygen-com/hyperframes|24h": "2026-09-08T22:26:54.988Z",
     "microsoft/markitdown|24h": "2026-09-08T22:26:54.988Z",
-    "bilawalsidhu/gods-eye-view|24h": "2026-09-09T08:47:43.786Z"
+    "bilawalsidhu/gods-eye-view|24h": "2026-09-09T08:47:43.786Z",
+    "cathrynlavery/diagram-design|72h": "2026-09-09T16:09:17.938Z",
+    "freestylefly/awesome-gpt-image-2|24h": "2026-09-09T16:09:17.938Z"
   }
 }
