@@ -401,7 +401,7 @@
     },
     "alibaba/open-code-review": {
       "fullName": "alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "url": "https://github.com/alibaba/open-code-review",
       "firstSeenAt": "2026-09-13T15:48:50.376Z"
@@ -657,6 +657,48 @@
       "language": "TypeScript",
       "url": "https://github.com/stablyai/orca",
       "firstSeenAt": "2026-09-17T13:09:38.612Z"
+    },
+    "Fission-AI/OpenSpec": {
+      "fullName": "Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "firstSeenAt": "2026-09-18T16:02:00.890Z"
+    },
+    "supermemoryai/supermemory": {
+      "fullName": "supermemoryai/supermemory",
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "firstSeenAt": "2026-09-18T16:02:01.664Z"
+    },
+    "tradesdontlie/tradingview-mcp": {
+      "fullName": "tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "firstSeenAt": "2026-09-18T16:02:01.680Z"
+    },
+    "asciimoo/hister": {
+      "fullName": "asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "url": "https://github.com/asciimoo/hister",
+      "firstSeenAt": "2026-09-18T16:02:01.682Z"
+    },
+    "rustfs/rustfs": {
+      "fullName": "rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "url": "https://github.com/rustfs/rustfs",
+      "firstSeenAt": "2026-09-18T16:02:01.688Z"
+    },
+    "ahmedkhaleel2004/gitdiagram": {
+      "fullName": "ahmedkhaleel2004/gitdiagram",
+      "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "language": "TypeScript",
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "firstSeenAt": "2026-09-18T16:02:01.692Z"
     }
   },
   "snapshots": {
@@ -780,6 +822,10 @@
       {
         "stars": 261439,
         "at": "2026-09-18T08:52:44.351Z"
+      },
+      {
+        "stars": 261713,
+        "at": "2026-09-18T16:02:00.938Z"
       }
     ],
     "DietrichGebert/ponytail": [
@@ -1094,6 +1140,10 @@
       {
         "stars": 37341,
         "at": "2026-09-18T08:52:45.137Z"
+      },
+      {
+        "stars": 37553,
+        "at": "2026-09-18T16:02:01.611Z"
       }
     ],
     "ChromeDevTools/chrome-devtools-mcp": [
@@ -1500,6 +1550,10 @@
       {
         "stars": 49734,
         "at": "2026-09-18T08:52:45.142Z"
+      },
+      {
+        "stars": 49847,
+        "at": "2026-09-18T16:02:02.414Z"
       }
     ],
     "mattpocock/skills": [
@@ -1660,6 +1714,10 @@
       {
         "stars": 288279,
         "at": "2026-09-18T08:52:45.138Z"
+      },
+      {
+        "stars": 288428,
+        "at": "2026-09-18T16:02:03.187Z"
       }
     ],
     "cathrynlavery/diagram-design": [
@@ -2088,6 +2146,10 @@
       {
         "stars": 50777,
         "at": "2026-09-17T04:01:12.143Z"
+      },
+      {
+        "stars": 51310,
+        "at": "2026-09-18T16:02:02.446Z"
       }
     ],
     "microsoft/markitdown": [
@@ -2210,6 +2272,10 @@
       {
         "stars": 185253,
         "at": "2026-09-18T08:52:45.160Z"
+      },
+      {
+        "stars": 185353,
+        "at": "2026-09-18T16:02:02.438Z"
       }
     ],
     "mksglu/context-mode": [
@@ -2332,6 +2398,10 @@
       {
         "stars": 23448,
         "at": "2026-09-18T08:52:45.128Z"
+      },
+      {
+        "stars": 23491,
+        "at": "2026-09-18T16:02:02.414Z"
       }
     ],
     "pascalorg/editor": [
@@ -2472,6 +2542,10 @@
       {
         "stars": 47688,
         "at": "2026-09-18T08:52:45.112Z"
+      },
+      {
+        "stars": 47873,
+        "at": "2026-09-18T16:02:01.651Z"
       }
     ],
     "openai/plugins": [
@@ -2594,6 +2668,10 @@
       {
         "stars": 6937,
         "at": "2026-09-18T08:52:45.141Z"
+      },
+      {
+        "stars": 6957,
+        "at": "2026-09-18T16:02:02.428Z"
       }
     ],
     "TauricResearch/TradingAgents": [
@@ -2838,6 +2916,10 @@
       {
         "stars": 10452,
         "at": "2026-09-18T08:52:45.874Z"
+      },
+      {
+        "stars": 10513,
+        "at": "2026-09-18T16:02:03.170Z"
       }
     ],
     "alsk1992/CloddsBot": [
@@ -3590,6 +3672,10 @@
       {
         "stars": 26672,
         "at": "2026-09-18T08:52:43.596Z"
+      },
+      {
+        "stars": 26866,
+        "at": "2026-09-18T16:02:01.683Z"
       }
     ],
     "asgeirtj/system_prompts_leaks": [
@@ -3980,6 +4066,10 @@
       {
         "stars": 7968,
         "at": "2026-09-18T08:52:45.129Z"
+      },
+      {
+        "stars": 7988,
+        "at": "2026-09-18T16:02:02.423Z"
       }
     ],
     "vxcontrol/pentagi": [
@@ -4374,6 +4464,10 @@
       {
         "stars": 35868,
         "at": "2026-09-18T08:52:43.546Z"
+      },
+      {
+        "stars": 36365,
+        "at": "2026-09-18T16:02:00.884Z"
       }
     ],
     "kunchenguid/firstmate": [
@@ -4444,6 +4538,10 @@
       {
         "stars": 6459,
         "at": "2026-09-18T08:52:45.141Z"
+      },
+      {
+        "stars": 6502,
+        "at": "2026-09-18T16:02:02.429Z"
       }
     ],
     "Panniantong/Agent-Reach": [
@@ -4482,6 +4580,10 @@
       {
         "stars": 82952,
         "at": "2026-09-18T08:52:45.880Z"
+      },
+      {
+        "stars": 83048,
+        "at": "2026-09-18T16:02:02.388Z"
       }
     ],
     "666ghj/MiroFish": [
@@ -4724,6 +4826,10 @@
       {
         "stars": 44273,
         "at": "2026-09-18T08:52:45.884Z"
+      },
+      {
+        "stars": 44299,
+        "at": "2026-09-18T16:02:03.161Z"
       }
     ],
     "NationalSecurityAgency/ghidra": [
@@ -4878,6 +4984,10 @@
       {
         "stars": 96080,
         "at": "2026-09-18T08:52:43.535Z"
+      },
+      {
+        "stars": 96220,
+        "at": "2026-09-18T16:02:00.907Z"
       }
     ],
     "decolua/9router": [
@@ -4978,6 +5088,10 @@
       {
         "stars": 30930,
         "at": "2026-09-17T04:01:09.484Z"
+      },
+      {
+        "stars": 31119,
+        "at": "2026-09-18T16:02:00.882Z"
       }
     ],
     "abue-ammar/tinycast": [
@@ -5046,6 +5160,10 @@
       {
         "stars": 11482,
         "at": "2026-09-18T08:52:43.535Z"
+      },
+      {
+        "stars": 12600,
+        "at": "2026-09-18T16:02:00.897Z"
       }
     ],
     "anthropics/knowledge-work-plugins": [
@@ -5080,6 +5198,10 @@
       {
         "stars": 24689,
         "at": "2026-09-18T08:52:43.638Z"
+      },
+      {
+        "stars": 24774,
+        "at": "2026-09-18T16:02:00.907Z"
       }
     ],
     "supabase/supabase": [
@@ -5094,6 +5216,10 @@
       {
         "stars": 109808,
         "at": "2026-09-17T04:01:10.371Z"
+      },
+      {
+        "stars": 110028,
+        "at": "2026-09-18T16:02:01.703Z"
       }
     ],
     "cline/cline": [
@@ -5162,6 +5288,10 @@
       {
         "stars": 146006,
         "at": "2026-09-18T08:52:43.559Z"
+      },
+      {
+        "stars": 146146,
+        "at": "2026-09-18T16:02:00.907Z"
       }
     ],
     "roboflow/supervision": [
@@ -5230,6 +5360,10 @@
       {
         "stars": 90692,
         "at": "2026-09-18T08:52:45.137Z"
+      },
+      {
+        "stars": 90710,
+        "at": "2026-09-18T16:02:02.422Z"
       }
     ],
     "Tencent/BrowserSkill": [
@@ -5252,6 +5386,10 @@
       {
         "stars": 4727,
         "at": "2026-09-18T08:52:43.538Z"
+      },
+      {
+        "stars": 5051,
+        "at": "2026-09-18T16:02:00.936Z"
       }
     ],
     "cilium/cilium": [
@@ -5318,6 +5456,10 @@
       {
         "stars": 14999,
         "at": "2026-09-18T08:52:44.395Z"
+      },
+      {
+        "stars": 15125,
+        "at": "2026-09-18T16:02:01.649Z"
       }
     ],
     "TencentCloud/Octop": [
@@ -5340,6 +5482,10 @@
       {
         "stars": 3708,
         "at": "2026-09-18T08:52:44.375Z"
+      },
+      {
+        "stars": 3851,
+        "at": "2026-09-18T16:02:00.906Z"
       }
     ],
     "stablyai/orca": [
@@ -5362,6 +5508,46 @@
       {
         "stars": 71421,
         "at": "2026-09-18T08:52:45.874Z"
+      },
+      {
+        "stars": 71707,
+        "at": "2026-09-18T16:02:02.440Z"
+      }
+    ],
+    "Fission-AI/OpenSpec": [
+      {
+        "stars": 69179,
+        "at": "2026-09-18T16:02:00.890Z"
+      }
+    ],
+    "supermemoryai/supermemory": [
+      {
+        "stars": 30123,
+        "at": "2026-09-18T16:02:01.664Z"
+      }
+    ],
+    "tradesdontlie/tradingview-mcp": [
+      {
+        "stars": 6382,
+        "at": "2026-09-18T16:02:01.680Z"
+      }
+    ],
+    "asciimoo/hister": [
+      {
+        "stars": 4803,
+        "at": "2026-09-18T16:02:01.682Z"
+      }
+    ],
+    "rustfs/rustfs": [
+      {
+        "stars": 33031,
+        "at": "2026-09-18T16:02:01.688Z"
+      }
+    ],
+    "ahmedkhaleel2004/gitdiagram": [
+      {
+        "stars": 16332,
+        "at": "2026-09-18T16:02:01.692Z"
       }
     ]
   },
