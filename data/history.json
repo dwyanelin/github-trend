@@ -608,6 +608,13 @@
       "language": "Python",
       "url": "https://github.com/pytorch/pytorch",
       "firstSeenAt": "2026-09-23T16:22:03.072Z"
+    },
+    "LibreChat-AI/LibreChat": {
+      "fullName": "LibreChat-AI/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "url": "https://github.com/LibreChat-AI/LibreChat",
+      "firstSeenAt": "2026-09-24T03:46:09.728Z"
     }
   },
   "snapshots": {
@@ -727,6 +734,10 @@
       {
         "stars": 266163,
         "at": "2026-09-23T22:48:20.759Z"
+      },
+      {
+        "stars": 266249,
+        "at": "2026-09-24T03:46:09.695Z"
       }
     ],
     "DietrichGebert/ponytail": [
@@ -977,6 +988,10 @@
       {
         "stars": 290654,
         "at": "2026-09-23T22:48:19.119Z"
+      },
+      {
+        "stars": 290769,
+        "at": "2026-09-24T03:46:08.049Z"
       }
     ],
     "openai/skills": [
@@ -1483,6 +1498,10 @@
       {
         "stars": 37343,
         "at": "2026-09-23T22:48:20.764Z"
+      },
+      {
+        "stars": 37376,
+        "at": "2026-09-24T03:46:09.664Z"
       }
     ],
     "alphaXiv/OpenResearch": [
@@ -1633,6 +1652,10 @@
       {
         "stars": 29333,
         "at": "2026-09-23T22:48:19.968Z"
+      },
+      {
+        "stars": 29429,
+        "at": "2026-09-24T03:46:08.961Z"
       }
     ],
     "SnailSploit/Claude-Red": [
@@ -1901,6 +1924,10 @@
       {
         "stars": 40179,
         "at": "2026-09-23T22:48:19.963Z"
+      },
+      {
+        "stars": 40290,
+        "at": "2026-09-24T03:46:08.844Z"
       }
     ],
     "kunchenguid/firstmate": [
@@ -2351,6 +2378,10 @@
       {
         "stars": 98698,
         "at": "2026-09-23T22:48:20.770Z"
+      },
+      {
+        "stars": 98740,
+        "at": "2026-09-24T03:46:09.691Z"
       }
     ],
     "decolua/9router": [
@@ -2571,6 +2602,10 @@
       {
         "stars": 20868,
         "at": "2026-09-23T22:48:21.538Z"
+      },
+      {
+        "stars": 20966,
+        "at": "2026-09-24T03:46:10.460Z"
       }
     ],
     "anthropics/knowledge-work-plugins": [
@@ -2689,6 +2724,10 @@
       {
         "stars": 25494,
         "at": "2026-09-23T22:48:20.770Z"
+      },
+      {
+        "stars": 25509,
+        "at": "2026-09-24T03:46:09.703Z"
       }
     ],
     "supabase/supabase": [
@@ -2865,6 +2904,10 @@
       {
         "stars": 69171,
         "at": "2026-09-23T22:48:20.765Z"
+      },
+      {
+        "stars": 69188,
+        "at": "2026-09-24T03:46:09.691Z"
       }
     ],
     "anthropics/claude-code": [
@@ -2983,6 +3026,10 @@
       {
         "stars": 147802,
         "at": "2026-09-23T22:48:19.965Z"
+      },
+      {
+        "stars": 147830,
+        "at": "2026-09-24T03:46:08.856Z"
       }
     ],
     "roboflow/supervision": [
@@ -3255,6 +3302,10 @@
       {
         "stars": 25492,
         "at": "2026-09-23T22:48:21.542Z"
+      },
+      {
+        "stars": 25498,
+        "at": "2026-09-24T03:46:10.436Z"
       }
     ],
     "n8n-io/n8n": [
@@ -3429,6 +3480,10 @@
       {
         "stars": 4753,
         "at": "2026-09-23T22:48:20.743Z"
+      },
+      {
+        "stars": 4786,
+        "at": "2026-09-24T03:46:09.700Z"
       }
     ],
     "stablyai/orca": [
@@ -3543,6 +3598,10 @@
       {
         "stars": 76541,
         "at": "2026-09-23T22:48:20.760Z"
+      },
+      {
+        "stars": 76718,
+        "at": "2026-09-24T03:46:09.686Z"
       }
     ],
     "Fission-AI/OpenSpec": [
@@ -3569,6 +3628,10 @@
       {
         "stars": 70039,
         "at": "2026-09-23T22:48:21.556Z"
+      },
+      {
+        "stars": 70081,
+        "at": "2026-09-24T03:46:10.446Z"
       }
     ],
     "supermemoryai/supermemory": [
@@ -3753,6 +3816,10 @@
       {
         "stars": 18785,
         "at": "2026-09-23T22:48:19.156Z"
+      },
+      {
+        "stars": 18908,
+        "at": "2026-09-24T03:46:08.067Z"
       }
     ],
     "higgsfield-ai/higgsfield": [
@@ -3849,6 +3916,10 @@
       {
         "stars": 12533,
         "at": "2026-09-23T22:48:20.776Z"
+      },
+      {
+        "stars": 12540,
+        "at": "2026-09-24T03:46:09.692Z"
       }
     ],
     "docling-project/docling": [
@@ -4071,6 +4142,10 @@
       {
         "stars": 6511,
         "at": "2026-09-23T22:48:19.139Z"
+      },
+      {
+        "stars": 6609,
+        "at": "2026-09-24T03:46:08.083Z"
       }
     ],
     "anthropics/financial-services": [
@@ -4133,6 +4208,10 @@
       {
         "stars": 36908,
         "at": "2026-09-23T22:48:19.112Z"
+      },
+      {
+        "stars": 37025,
+        "at": "2026-09-24T03:46:08.082Z"
       }
     ],
     "mihail911/modern-software-dev-assignments": [
@@ -4277,6 +4356,10 @@
       {
         "stars": 14458,
         "at": "2026-09-23T22:48:19.978Z"
+      },
+      {
+        "stars": 14509,
+        "at": "2026-09-24T03:46:08.851Z"
       }
     ],
     "vastsa/PI-Desktop": [
@@ -4321,6 +4404,10 @@
       {
         "stars": 8984,
         "at": "2026-09-23T22:48:19.161Z"
+      },
+      {
+        "stars": 9261,
+        "at": "2026-09-24T03:46:08.110Z"
       }
     ],
     "davila7/claude-code-templates": [
@@ -4347,6 +4434,10 @@
       {
         "stars": 31472,
         "at": "2026-09-23T22:48:19.132Z"
+      },
+      {
+        "stars": 31553,
+        "at": "2026-09-24T03:46:08.046Z"
       }
     ],
     "dream-num/univer": [
@@ -4373,6 +4464,10 @@
       {
         "stars": 16287,
         "at": "2026-09-23T22:48:19.134Z"
+      },
+      {
+        "stars": 16439,
+        "at": "2026-09-24T03:46:08.056Z"
       }
     ],
     "agent-substrate/substrate": [
@@ -4399,6 +4494,10 @@
       {
         "stars": 3466,
         "at": "2026-09-23T22:48:19.174Z"
+      },
+      {
+        "stars": 3551,
+        "at": "2026-09-24T03:46:08.048Z"
       }
     ],
     "superdesigndev/treg": [
@@ -4425,6 +4524,10 @@
       {
         "stars": 2679,
         "at": "2026-09-23T22:48:19.947Z"
+      },
+      {
+        "stars": 2782,
+        "at": "2026-09-24T03:46:08.838Z"
       }
     ],
     "browser-use/video-use": [
@@ -4451,6 +4554,10 @@
       {
         "stars": 26468,
         "at": "2026-09-23T22:48:20.012Z"
+      },
+      {
+        "stars": 26569,
+        "at": "2026-09-24T03:46:08.851Z"
       }
     ],
     "sergebulaev/linkedin-skills": [
@@ -4471,6 +4578,10 @@
       {
         "stars": 49889,
         "at": "2026-09-23T22:48:19.144Z"
+      },
+      {
+        "stars": 50003,
+        "at": "2026-09-24T03:46:08.080Z"
       }
     ],
     "strands-agents/harness-sdk": [
@@ -4481,6 +4592,10 @@
       {
         "stars": 7821,
         "at": "2026-09-23T22:48:19.198Z"
+      },
+      {
+        "stars": 7916,
+        "at": "2026-09-24T03:46:08.098Z"
       }
     ],
     "TNT-Likely/PanWatch": [
@@ -4491,6 +4606,10 @@
       {
         "stars": 1470,
         "at": "2026-09-23T22:48:19.976Z"
+      },
+      {
+        "stars": 1594,
+        "at": "2026-09-24T03:46:08.831Z"
       }
     ],
     "harry7557558/spirula-studio": [
@@ -4501,6 +4620,10 @@
       {
         "stars": 716,
         "at": "2026-09-23T22:48:19.937Z"
+      },
+      {
+        "stars": 776,
+        "at": "2026-09-24T03:46:08.835Z"
       }
     ],
     "DeusData/codebase-memory-mcp": [
@@ -4511,6 +4634,10 @@
       {
         "stars": 44532,
         "at": "2026-09-23T22:48:19.959Z"
+      },
+      {
+        "stars": 44637,
+        "at": "2026-09-24T03:46:08.836Z"
       }
     ],
     "pbakaus/impeccable": [
@@ -4521,6 +4648,10 @@
       {
         "stars": 70298,
         "at": "2026-09-23T22:48:19.911Z"
+      },
+      {
+        "stars": 70423,
+        "at": "2026-09-24T03:46:08.809Z"
       }
     ],
     "pytorch/pytorch": [
@@ -4531,12 +4662,23 @@
       {
         "stars": 103213,
         "at": "2026-09-23T22:48:20.786Z"
+      },
+      {
+        "stars": 103222,
+        "at": "2026-09-24T03:46:09.668Z"
+      }
+    ],
+    "LibreChat-AI/LibreChat": [
+      {
+        "stars": 44811,
+        "at": "2026-09-24T03:46:09.728Z"
       }
     ]
   },
   "sentAlerts": {
     "cloudflare/security-audit-skill|24h": "2026-09-17T19:36:06.552Z",
     "cloudflare/security-audit-skill|72h": "2026-09-19T18:28:38.020Z",
-    "obra/superpowers|24h": "2026-09-23T16:22:04.516Z"
+    "obra/superpowers|24h": "2026-09-23T16:22:04.516Z",
+    "google/ax|24h": "2026-09-24T03:46:11.304Z"
   }
 }
