@@ -28,40 +28,12 @@
       "url": "https://github.com/obra/superpowers",
       "firstSeenAt": "2026-09-03T16:00:48.107Z"
     },
-    "heygen-com/hyperframes": {
-      "fullName": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "firstSeenAt": "2026-09-07T17:30:27.318Z"
-    },
-    "microsoft/markitdown": {
-      "fullName": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "url": "https://github.com/microsoft/markitdown",
-      "firstSeenAt": "2026-09-07T17:30:27.343Z"
-    },
     "mksglu/context-mode": {
       "fullName": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "url": "https://github.com/mksglu/context-mode",
       "firstSeenAt": "2026-09-07T17:30:27.355Z"
-    },
-    "ayghri/i-have-adhd": {
-      "fullName": "ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "firstSeenAt": "2026-09-08T16:14:57.247Z"
-    },
-    "petergyang/no-ai-slop": {
-      "fullName": "petergyang/no-ai-slop",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
-      "language": "Python",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "firstSeenAt": "2026-09-09T16:09:17.307Z"
     },
     "JustVugg/colibri": {
       "fullName": "JustVugg/colibri",
@@ -210,13 +182,6 @@
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "firstSeenAt": "2026-09-19T15:34:42.432Z"
     },
-    "higgsfield-ai/higgsfield": {
-      "fullName": "higgsfield-ai/higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "firstSeenAt": "2026-09-19T15:34:42.434Z"
-    },
     "cloudflare/quiche": {
       "fullName": "cloudflare/quiche",
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
@@ -258,27 +223,6 @@
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services",
       "firstSeenAt": "2026-09-20T12:55:35.841Z"
-    },
-    "mihail911/modern-software-dev-assignments": {
-      "fullName": "mihail911/modern-software-dev-assignments",
-      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-      "language": "Python",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments",
-      "firstSeenAt": "2026-09-20T12:55:35.859Z"
-    },
-    "paperless-ngx/paperless-ngx": {
-      "fullName": "paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "language": "Python",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "firstSeenAt": "2026-09-20T12:55:35.867Z"
-    },
-    "vercel-labs/json-render": {
-      "fullName": "vercel-labs/json-render",
-      "description": "The Generative UI framework",
-      "language": "TypeScript",
-      "url": "https://github.com/vercel-labs/json-render",
-      "firstSeenAt": "2026-09-20T12:55:36.591Z"
     },
     "zhouxiaoka/autoclip": {
       "fullName": "zhouxiaoka/autoclip",
@@ -629,14 +573,38 @@
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/scriptc",
       "firstSeenAt": "2026-09-27T13:38:07.175Z"
+    },
+    "NawfalMotii79/PLFM_RADAR": {
+      "fullName": "NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "firstSeenAt": "2026-09-28T16:33:51.191Z"
+    },
+    "byoungd/up": {
+      "fullName": "byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "url": "https://github.com/byoungd/up",
+      "firstSeenAt": "2026-09-28T16:33:51.203Z"
+    },
+    "cs341-illinois/coursebook": {
+      "fullName": "cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "firstSeenAt": "2026-09-28T16:33:51.218Z"
+    },
+    "elastic/elasticsearch": {
+      "fullName": "elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "url": "https://github.com/elastic/elasticsearch",
+      "firstSeenAt": "2026-09-28T16:33:52.791Z"
     }
   },
   "snapshots": {
     "affaan-m/ECC": [
-      {
-        "stars": 264234,
-        "at": "2026-09-21T09:50:45.102Z"
-      },
       {
         "stars": 264584,
         "at": "2026-09-21T18:00:18.225Z"
@@ -748,10 +716,6 @@
     ],
     "bilawalsidhu/gods-eye-view": [
       {
-        "stars": 40043,
-        "at": "2026-09-21T09:50:45.885Z"
-      },
-      {
         "stars": 40372,
         "at": "2026-09-21T18:00:19.092Z"
       },
@@ -769,10 +733,6 @@
       }
     ],
     "blader/humanizer": [
-      {
-        "stars": 50836,
-        "at": "2026-09-21T09:50:46.621Z"
-      },
       {
         "stars": 50989,
         "at": "2026-09-21T18:00:19.123Z"
@@ -836,23 +796,7 @@
         "at": "2026-09-26T04:06:51.328Z"
       }
     ],
-    "heygen-com/hyperframes": [
-      {
-        "stars": 52063,
-        "at": "2026-09-21T09:50:46.612Z"
-      }
-    ],
-    "microsoft/markitdown": [
-      {
-        "stars": 186064,
-        "at": "2026-09-21T09:50:46.633Z"
-      }
-    ],
     "mksglu/context-mode": [
-      {
-        "stars": 23826,
-        "at": "2026-09-21T09:50:45.814Z"
-      },
       {
         "stars": 23861,
         "at": "2026-09-21T18:00:19.021Z"
@@ -868,18 +812,6 @@
       {
         "stars": 23917,
         "at": "2026-09-22T09:11:13.471Z"
-      }
-    ],
-    "ayghri/i-have-adhd": [
-      {
-        "stars": 49502,
-        "at": "2026-09-21T09:50:46.607Z"
-      }
-    ],
-    "petergyang/no-ai-slop": [
-      {
-        "stars": 10908,
-        "at": "2026-09-21T09:50:46.613Z"
       }
     ],
     "JustVugg/colibri": [
@@ -945,10 +877,6 @@
       }
     ],
     "Tencent/WeKnora": [
-      {
-        "stars": 28308,
-        "at": "2026-09-21T09:50:45.850Z"
-      },
       {
         "stars": 28436,
         "at": "2026-09-21T18:00:18.298Z"
@@ -1056,13 +984,13 @@
       {
         "stars": 30700,
         "at": "2026-09-28T04:21:55.731Z"
+      },
+      {
+        "stars": 30893,
+        "at": "2026-09-28T16:33:51.993Z"
       }
     ],
     "max-sixty/worktrunk": [
-      {
-        "stars": 8249,
-        "at": "2026-09-21T09:50:45.830Z"
-      },
       {
         "stars": 8282,
         "at": "2026-09-21T18:00:19.078Z"
@@ -1081,10 +1009,6 @@
       }
     ],
     "alibaba/open-code-review": [
-      {
-        "stars": 38823,
-        "at": "2026-09-21T09:50:45.884Z"
-      },
       {
         "stars": 39074,
         "at": "2026-09-21T18:00:18.253Z"
@@ -1196,10 +1120,6 @@
     ],
     "Panniantong/Agent-Reach": [
       {
-        "stars": 84107,
-        "at": "2026-09-21T09:50:46.607Z"
-      },
-      {
         "stars": 84290,
         "at": "2026-09-21T18:00:19.047Z"
       },
@@ -1252,10 +1172,6 @@
     ],
     "danny-avila/LibreChat": [
       {
-        "stars": 44534,
-        "at": "2026-09-21T09:50:46.561Z"
-      },
-      {
         "stars": 44561,
         "at": "2026-09-21T18:00:19.037Z"
       },
@@ -1297,10 +1213,6 @@
       }
     ],
     "addyosmani/agent-skills": [
-      {
-        "stars": 97938,
-        "at": "2026-09-21T09:50:45.828Z"
-      },
       {
         "stars": 98065,
         "at": "2026-09-21T18:00:18.270Z"
@@ -1396,10 +1308,6 @@
     ],
     "cloudflare/security-audit-skill": [
       {
-        "stars": 18503,
-        "at": "2026-09-21T09:50:45.092Z"
-      },
-      {
         "stars": 18806,
         "at": "2026-09-21T18:00:19.840Z"
       },
@@ -1494,13 +1402,13 @@
       {
         "stars": 22402,
         "at": "2026-09-28T04:21:55.764Z"
+      },
+      {
+        "stars": 22628,
+        "at": "2026-09-28T16:33:51.210Z"
       }
     ],
     "anthropics/knowledge-work-plugins": [
-      {
-        "stars": 25313,
-        "at": "2026-09-21T09:50:45.892Z"
-      },
       {
         "stars": 25335,
         "at": "2026-09-21T18:00:18.244Z"
@@ -1612,10 +1520,6 @@
     ],
     "supabase/supabase": [
       {
-        "stars": 110470,
-        "at": "2026-09-21T09:50:46.585Z"
-      },
-      {
         "stars": 110502,
         "at": "2026-09-21T18:00:19.077Z"
       },
@@ -1649,10 +1553,6 @@
       }
     ],
     "cline/cline": [
-      {
-        "stars": 68916,
-        "at": "2026-09-21T09:50:46.633Z"
-      },
       {
         "stars": 68957,
         "at": "2026-09-21T18:00:19.037Z"
@@ -1731,10 +1631,6 @@
       }
     ],
     "anthropics/claude-code": [
-      {
-        "stars": 147356,
-        "at": "2026-09-21T09:50:45.120Z"
-      },
       {
         "stars": 147437,
         "at": "2026-09-21T18:00:18.305Z"
@@ -1846,10 +1742,6 @@
     ],
     "home-assistant/core": [
       {
-        "stars": 90922,
-        "at": "2026-09-21T09:50:45.866Z"
-      },
-      {
         "stars": 90950,
         "at": "2026-09-21T18:00:19.042Z"
       },
@@ -1901,10 +1793,6 @@
       }
     ],
     "cilium/cilium": [
-      {
-        "stars": 25409,
-        "at": "2026-09-21T09:50:47.310Z"
-      },
       {
         "stars": 25422,
         "at": "2026-09-21T18:00:19.021Z"
@@ -1967,10 +1855,6 @@
       }
     ],
     "coder/coder": [
-      {
-        "stars": 16240,
-        "at": "2026-09-21T09:50:45.857Z"
-      },
       {
         "stars": 16335,
         "at": "2026-09-21T18:00:17.444Z"
@@ -2080,13 +1964,13 @@
       {
         "stars": 5326,
         "at": "2026-09-28T04:21:56.472Z"
+      },
+      {
+        "stars": 5477,
+        "at": "2026-09-28T16:33:52.809Z"
       }
     ],
     "stablyai/orca": [
-      {
-        "stars": 74103,
-        "at": "2026-09-21T09:50:46.607Z"
-      },
       {
         "stars": 74517,
         "at": "2026-09-21T18:00:18.299Z"
@@ -2194,6 +2078,10 @@
       {
         "stars": 79834,
         "at": "2026-09-28T04:21:55.701Z"
+      },
+      {
+        "stars": 80479,
+        "at": "2026-09-28T16:33:51.989Z"
       }
     ],
     "Fission-AI/OpenSpec": [
@@ -2244,10 +2132,6 @@
     ],
     "Open-Dev-Society/OpenStock": [
       {
-        "stars": 17179,
-        "at": "2026-09-21T09:50:45.110Z"
-      },
-      {
         "stars": 17510,
         "at": "2026-09-21T18:00:17.507Z"
       },
@@ -2294,12 +2178,6 @@
       {
         "stars": 19040,
         "at": "2026-09-24T09:06:10.266Z"
-      }
-    ],
-    "higgsfield-ai/higgsfield": [
-      {
-        "stars": 5542,
-        "at": "2026-09-21T09:50:45.120Z"
       }
     ],
     "cloudflare/quiche": [
@@ -2410,13 +2288,13 @@
       {
         "stars": 12666,
         "at": "2026-09-28T04:21:56.477Z"
+      },
+      {
+        "stars": 12684,
+        "at": "2026-09-28T16:33:52.820Z"
       }
     ],
     "trycua/cua": [
-      {
-        "stars": 25417,
-        "at": "2026-09-21T09:50:45.070Z"
-      },
       {
         "stars": 25597,
         "at": "2026-09-21T18:00:17.524Z"
@@ -2432,6 +2310,10 @@
       {
         "stars": 25870,
         "at": "2026-09-22T09:11:11.946Z"
+      },
+      {
+        "stars": 26789,
+        "at": "2026-09-28T16:33:52.012Z"
       }
     ],
     "yynxxxxx/Codex-X": [
@@ -2472,10 +2354,6 @@
     ],
     "BuilderIO/agent-native": [
       {
-        "stars": 5520,
-        "at": "2026-09-21T09:50:45.085Z"
-      },
-      {
         "stars": 5750,
         "at": "2026-09-21T18:00:17.415Z"
       },
@@ -2509,10 +2387,6 @@
       }
     ],
     "anthropics/financial-services": [
-      {
-        "stars": 35582,
-        "at": "2026-09-21T09:50:45.119Z"
-      },
       {
         "stars": 35715,
         "at": "2026-09-21T18:00:17.503Z"
@@ -2620,24 +2494,10 @@
       {
         "stars": 37897,
         "at": "2026-09-28T04:21:55.024Z"
-      }
-    ],
-    "mihail911/modern-software-dev-assignments": [
+      },
       {
-        "stars": 4688,
-        "at": "2026-09-21T09:50:45.073Z"
-      }
-    ],
-    "paperless-ngx/paperless-ngx": [
-      {
-        "stars": 45757,
-        "at": "2026-09-21T09:50:45.098Z"
-      }
-    ],
-    "vercel-labs/json-render": [
-      {
-        "stars": 17723,
-        "at": "2026-09-21T09:50:45.870Z"
+        "stars": 38005,
+        "at": "2026-09-28T16:33:51.214Z"
       }
     ],
     "zhouxiaoka/autoclip": [
@@ -2686,6 +2546,10 @@
       {
         "stars": 8360,
         "at": "2026-09-25T04:01:21.308Z"
+      },
+      {
+        "stars": 8530,
+        "at": "2026-09-28T16:33:52.061Z"
       }
     ],
     "mvt-project/mvt": [
@@ -2922,6 +2786,10 @@
       {
         "stars": 32000,
         "at": "2026-09-28T04:21:55.717Z"
+      },
+      {
+        "stars": 32055,
+        "at": "2026-09-28T16:33:51.962Z"
       }
     ],
     "dream-num/univer": [
@@ -3016,6 +2884,10 @@
       {
         "stars": 20709,
         "at": "2026-09-28T04:21:54.991Z"
+      },
+      {
+        "stars": 21071,
+        "at": "2026-09-28T16:33:51.216Z"
       }
     ],
     "agent-substrate/substrate": [
@@ -3250,6 +3122,10 @@
       {
         "stars": 50777,
         "at": "2026-09-28T04:21:55.723Z"
+      },
+      {
+        "stars": 50857,
+        "at": "2026-09-28T16:33:52.011Z"
       }
     ],
     "strands-agents/harness-sdk": [
@@ -3446,6 +3322,10 @@
       {
         "stars": 103427,
         "at": "2026-09-28T04:21:55.710Z"
+      },
+      {
+        "stars": 103457,
+        "at": "2026-09-28T16:33:52.032Z"
       }
     ],
     "LibreChat-AI/LibreChat": [
@@ -3530,6 +3410,10 @@
       {
         "stars": 37864,
         "at": "2026-09-28T04:21:54.997Z"
+      },
+      {
+        "stars": 40430,
+        "at": "2026-09-28T16:33:51.220Z"
       }
     ],
     "rohitg00/ai-engineering-from-scratch": [
@@ -3592,6 +3476,10 @@
       {
         "stars": 59534,
         "at": "2026-09-28T04:21:54.967Z"
+      },
+      {
+        "stars": 60151,
+        "at": "2026-09-28T16:33:51.970Z"
       }
     ],
     "FxEmbed/FxEmbed": [
@@ -3622,6 +3510,10 @@
       {
         "stars": 5512,
         "at": "2026-09-28T04:21:56.463Z"
+      },
+      {
+        "stars": 5541,
+        "at": "2026-09-28T16:33:52.002Z"
       }
     ],
     "NVIDIA/Model-Optimizer": [
@@ -3818,6 +3710,10 @@
       {
         "stars": 90415,
         "at": "2026-09-28T04:21:54.981Z"
+      },
+      {
+        "stars": 92129,
+        "at": "2026-09-28T16:33:51.278Z"
       }
     ],
     "androoAGI/starnet": [
@@ -4084,6 +3980,10 @@
       {
         "stars": 142811,
         "at": "2026-09-28T04:21:55.721Z"
+      },
+      {
+        "stars": 142847,
+        "at": "2026-09-28T16:33:51.983Z"
       }
     ],
     "llvm/llvm-project": [
@@ -4138,6 +4038,10 @@
       {
         "stars": 40577,
         "at": "2026-09-28T04:21:54.966Z"
+      },
+      {
+        "stars": 42812,
+        "at": "2026-09-28T16:33:51.187Z"
       }
     ],
     "InfinityLoop1308/PipePipe": [
@@ -4174,6 +4078,10 @@
       {
         "stars": 1104,
         "at": "2026-09-28T04:21:54.986Z"
+      },
+      {
+        "stars": 1511,
+        "at": "2026-09-28T16:33:51.210Z"
       }
     ],
     "willfaust/Madeira": [
@@ -4211,6 +4119,30 @@
         "stars": 5461,
         "at": "2026-09-28T04:21:55.027Z"
       }
+    ],
+    "NawfalMotii79/PLFM_RADAR": [
+      {
+        "stars": 25665,
+        "at": "2026-09-28T16:33:51.191Z"
+      }
+    ],
+    "byoungd/up": [
+      {
+        "stars": 64535,
+        "at": "2026-09-28T16:33:51.203Z"
+      }
+    ],
+    "cs341-illinois/coursebook": [
+      {
+        "stars": 2357,
+        "at": "2026-09-28T16:33:51.218Z"
+      }
+    ],
+    "elastic/elasticsearch": [
+      {
+        "stars": 78034,
+        "at": "2026-09-28T16:33:52.791Z"
+      }
     ]
   },
   "sentAlerts": {
@@ -4220,6 +4152,8 @@
     "vectorize-io/hindsight|24h": "2026-09-25T19:54:15.023Z",
     "google/ax|72h": "2026-09-25T19:54:15.023Z",
     "paperclipai/paperclip|24h": "2026-09-26T19:05:44.321Z",
-    "vectorize-io/hindsight|72h": "2026-09-27T19:37:40.757Z"
+    "vectorize-io/hindsight|72h": "2026-09-27T19:37:40.757Z",
+    "debpalash/VoiceStudio|24h": "2026-09-28T16:33:53.446Z",
+    "paperclipai/paperclip|72h": "2026-09-28T16:33:53.446Z"
   }
 }
