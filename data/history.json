@@ -56,13 +56,6 @@
       "url": "https://github.com/paperclipai/paperclip",
       "firstSeenAt": "2026-09-25T13:22:26.934Z"
     },
-    "vercel/next.js": {
-      "fullName": "vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "url": "https://github.com/vercel/next.js",
-      "firstSeenAt": "2026-09-26T12:45:49.838Z"
-    },
     "debpalash/VoiceStudio": {
       "fullName": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
@@ -83,13 +76,6 @@
       "language": "JavaScript",
       "url": "https://github.com/byoungd/up",
       "firstSeenAt": "2026-09-28T16:33:51.203Z"
-    },
-    "cs341-illinois/coursebook": {
-      "fullName": "cs341-illinois/coursebook",
-      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "language": "TeX",
-      "url": "https://github.com/cs341-illinois/coursebook",
-      "firstSeenAt": "2026-09-28T16:33:51.218Z"
     },
     "NVIDIA/OpenShell": {
       "fullName": "NVIDIA/OpenShell",
@@ -182,20 +168,6 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "firstSeenAt": "2026-10-02T14:32:50.228Z"
     },
-    "coreyhaines31/marketingskills": {
-      "fullName": "coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "firstSeenAt": "2026-10-02T14:32:50.235Z"
-    },
-    "getsentry/sentry": {
-      "fullName": "getsentry/sentry",
-      "description": "Developer-first error tracking and performance monitoring",
-      "language": "Python",
-      "url": "https://github.com/getsentry/sentry",
-      "firstSeenAt": "2026-10-02T14:32:51.069Z"
-    },
     "Effect-TS/effect": {
       "fullName": "Effect-TS/effect",
       "description": "Build production-ready applications in TypeScript",
@@ -223,13 +195,6 @@
       "language": "TypeScript",
       "url": "https://github.com/thedotmack/claude-mem",
       "firstSeenAt": "2026-10-03T13:08:25.614Z"
-    },
-    "OpenCut-app/OpenCut": {
-      "fullName": "OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "firstSeenAt": "2026-10-03T13:08:26.358Z"
     },
     "boykopovar/AnyPS5": {
       "fullName": "boykopovar/AnyPS5",
@@ -265,20 +230,6 @@
       "language": "Go",
       "url": "https://github.com/caddyserver/caddy",
       "firstSeenAt": "2026-10-04T13:48:18.690Z"
-    },
-    "garrytan/gstack": {
-      "fullName": "garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "url": "https://github.com/garrytan/gstack",
-      "firstSeenAt": "2026-10-04T13:48:19.431Z"
-    },
-    "antirez/ds4": {
-      "fullName": "antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "language": "C",
-      "url": "https://github.com/antirez/ds4",
-      "firstSeenAt": "2026-10-04T13:48:19.449Z"
     },
     "michael-denyer/pstack-claude": {
       "fullName": "michael-denyer/pstack-claude",
@@ -494,10 +445,6 @@
   "snapshots": {
     "addyosmani/agent-skills": [
       {
-        "stars": 101271,
-        "at": "2026-10-05T04:42:06.841Z"
-      },
-      {
         "stars": 102494,
         "at": "2026-10-07T15:19:12.816Z"
       },
@@ -524,10 +471,6 @@
     ],
     "TencentCloud/Octop": [
       {
-        "stars": 6774,
-        "at": "2026-10-05T04:42:07.556Z"
-      },
-      {
         "stars": 6944,
         "at": "2026-10-05T16:54:50.116Z"
       },
@@ -537,10 +480,6 @@
       }
     ],
     "pbakaus/impeccable": [
-      {
-        "stars": 76440,
-        "at": "2026-10-05T04:42:06.118Z"
-      },
       {
         "stars": 76913,
         "at": "2026-10-05T16:54:49.280Z"
@@ -590,13 +529,13 @@
       {
         "stars": 104468,
         "at": "2026-10-11T23:36:35.602Z"
+      },
+      {
+        "stars": 104598,
+        "at": "2026-10-12T04:59:26.163Z"
       }
     ],
     "vectorize-io/hindsight": [
-      {
-        "stars": 45566,
-        "at": "2026-10-05T04:42:06.823Z"
-      },
       {
         "stars": 45829,
         "at": "2026-10-05T16:54:49.376Z"
@@ -607,10 +546,6 @@
       }
     ],
     "rohitg00/ai-engineering-from-scratch": [
-      {
-        "stars": 64026,
-        "at": "2026-10-05T04:42:07.590Z"
-      },
       {
         "stars": 64577,
         "at": "2026-10-05T16:54:50.104Z"
@@ -696,13 +631,13 @@
       {
         "stars": 286166,
         "at": "2026-10-11T23:36:35.561Z"
+      },
+      {
+        "stars": 286561,
+        "at": "2026-10-12T04:59:26.156Z"
       }
     ],
     "paperclipai/paperclip": [
-      {
-        "stars": 97257,
-        "at": "2026-10-05T04:42:06.842Z"
-      },
       {
         "stars": 97523,
         "at": "2026-10-05T16:54:49.312Z"
@@ -712,17 +647,7 @@
         "at": "2026-10-06T01:12:09.117Z"
       }
     ],
-    "vercel/next.js": [
-      {
-        "stars": 143176,
-        "at": "2026-10-05T04:42:07.577Z"
-      }
-    ],
     "debpalash/VoiceStudio": [
-      {
-        "stars": 53261,
-        "at": "2026-10-05T04:42:06.834Z"
-      },
       {
         "stars": 53575,
         "at": "2026-10-05T16:54:49.347Z"
@@ -733,10 +658,6 @@
       }
     ],
     "mvschwarz/openrig": [
-      {
-        "stars": 5015,
-        "at": "2026-10-05T04:42:08.504Z"
-      },
       {
         "stars": 5150,
         "at": "2026-10-05T16:54:50.131Z"
@@ -820,6 +741,10 @@
       {
         "stars": 6967,
         "at": "2026-10-11T23:36:36.422Z"
+      },
+      {
+        "stars": 7022,
+        "at": "2026-10-12T04:59:26.907Z"
       }
     ],
     "byoungd/up": [
@@ -840,17 +765,7 @@
         "at": "2026-10-07T04:57:59.836Z"
       }
     ],
-    "cs341-illinois/coursebook": [
-      {
-        "stars": 3700,
-        "at": "2026-10-05T04:42:07.561Z"
-      }
-    ],
     "NVIDIA/OpenShell": [
-      {
-        "stars": 14890,
-        "at": "2026-10-05T04:42:07.577Z"
-      },
       {
         "stars": 15050,
         "at": "2026-10-06T11:05:31.430Z"
@@ -900,10 +815,6 @@
     ],
     "harry0703/MoneyPrinterTurbo": [
       {
-        "stars": 128486,
-        "at": "2026-10-05T04:42:07.515Z"
-      },
-      {
         "stars": 128592,
         "at": "2026-10-05T16:54:50.105Z"
       },
@@ -927,10 +838,6 @@
       }
     ],
     "heygen-com/hyperframes": [
-      {
-        "stars": 56844,
-        "at": "2026-10-05T04:42:06.854Z"
-      },
       {
         "stars": 57151,
         "at": "2026-10-05T16:54:49.312Z"
@@ -1014,13 +921,13 @@
       {
         "stars": 60952,
         "at": "2026-10-11T23:36:36.593Z"
+      },
+      {
+        "stars": 61126,
+        "at": "2026-10-12T04:59:26.857Z"
       }
     ],
     "DietrichGebert/ponytail": [
-      {
-        "stars": 155070,
-        "at": "2026-10-05T04:42:06.005Z"
-      },
       {
         "stars": 155757,
         "at": "2026-10-05T16:54:49.304Z"
@@ -1031,10 +938,6 @@
       }
     ],
     "alirezarezvani/claude-skills": [
-      {
-        "stars": 27617,
-        "at": "2026-10-05T04:42:07.530Z"
-      },
       {
         "stars": 27668,
         "at": "2026-10-05T16:54:50.073Z"
@@ -1128,13 +1031,13 @@
       {
         "stars": 10895,
         "at": "2026-10-11T23:36:36.564Z"
+      },
+      {
+        "stars": 10928,
+        "at": "2026-10-12T04:59:26.919Z"
       }
     ],
     "pablostanley/yoinks": [
-      {
-        "stars": 4425,
-        "at": "2026-10-05T04:42:07.657Z"
-      },
       {
         "stars": 4584,
         "at": "2026-10-05T16:54:50.102Z"
@@ -1186,10 +1089,6 @@
     ],
     "tile-ai/tilelang": [
       {
-        "stars": 8374,
-        "at": "2026-10-05T04:42:07.577Z"
-      },
-      {
         "stars": 8408,
         "at": "2026-10-05T16:54:50.085Z"
       },
@@ -1211,10 +1110,6 @@
       }
     ],
     "HunxByts/GhostTrack": [
-      {
-        "stars": 17040,
-        "at": "2026-10-05T04:42:08.327Z"
-      },
       {
         "stars": 17143,
         "at": "2026-10-06T11:05:31.434Z"
@@ -1268,13 +1163,13 @@
       {
         "stars": 179796,
         "at": "2026-10-11T23:36:36.436Z"
+      },
+      {
+        "stars": 179832,
+        "at": "2026-10-12T04:59:26.882Z"
       }
     ],
     "Panniantong/Agent-Reach": [
-      {
-        "stars": 91068,
-        "at": "2026-10-05T04:42:06.006Z"
-      },
       {
         "stars": 91657,
         "at": "2026-10-05T16:54:48.503Z"
@@ -1336,23 +1231,7 @@
         "at": "2026-10-10T04:56:36.644Z"
       }
     ],
-    "coreyhaines31/marketingskills": [
-      {
-        "stars": 53165,
-        "at": "2026-10-05T04:42:06.006Z"
-      }
-    ],
-    "getsentry/sentry": [
-      {
-        "stars": 45417,
-        "at": "2026-10-05T04:42:06.028Z"
-      }
-    ],
     "Effect-TS/effect": [
-      {
-        "stars": 16986,
-        "at": "2026-10-05T04:42:07.569Z"
-      },
       {
         "stars": 17027,
         "at": "2026-10-05T16:54:49.366Z"
@@ -1363,10 +1242,6 @@
       }
     ],
     "pingdotgg/t3code": [
-      {
-        "stars": 25245,
-        "at": "2026-10-05T04:42:06.025Z"
-      },
       {
         "stars": 25488,
         "at": "2026-10-05T16:54:48.537Z"
@@ -1411,10 +1286,6 @@
       }
     ],
     "thedotmack/claude-mem": [
-      {
-        "stars": 96210,
-        "at": "2026-10-05T04:42:06.816Z"
-      },
       {
         "stars": 96485,
         "at": "2026-10-05T16:54:48.504Z"
@@ -1498,12 +1369,10 @@
       {
         "stars": 99725,
         "at": "2026-10-11T23:36:36.413Z"
-      }
-    ],
-    "OpenCut-app/OpenCut": [
+      },
       {
-        "stars": 92264,
-        "at": "2026-10-05T04:42:06.838Z"
+        "stars": 99799,
+        "at": "2026-10-12T04:59:26.931Z"
       }
     ],
     "boykopovar/AnyPS5": [
@@ -1590,13 +1459,13 @@
       {
         "stars": 29994,
         "at": "2026-10-11T23:36:35.570Z"
+      },
+      {
+        "stars": 30643,
+        "at": "2026-10-12T04:59:26.163Z"
       }
     ],
     "earthtojake/text-to-cad": [
-      {
-        "stars": 16946,
-        "at": "2026-10-05T04:42:06.011Z"
-      },
       {
         "stars": 17240,
         "at": "2026-10-05T16:54:48.533Z"
@@ -1668,13 +1537,13 @@
       {
         "stars": 19246,
         "at": "2026-10-11T23:36:36.414Z"
+      },
+      {
+        "stars": 19363,
+        "at": "2026-10-12T04:59:26.940Z"
       }
     ],
     "calesthio/OpenMontage": [
-      {
-        "stars": 63326,
-        "at": "2026-10-05T04:42:06.012Z"
-      },
       {
         "stars": 63764,
         "at": "2026-10-05T16:54:48.600Z"
@@ -1685,10 +1554,6 @@
       }
     ],
     "tester-army/e2e": [
-      {
-        "stars": 3340,
-        "at": "2026-10-05T04:42:06.009Z"
-      },
       {
         "stars": 4238,
         "at": "2026-10-05T16:54:48.538Z"
@@ -1748,13 +1613,13 @@
       {
         "stars": 9027,
         "at": "2026-10-11T23:36:35.630Z"
+      },
+      {
+        "stars": 9157,
+        "at": "2026-10-12T04:59:26.161Z"
       }
     ],
     "caddyserver/caddy": [
-      {
-        "stars": 76630,
-        "at": "2026-10-05T04:42:06.065Z"
-      },
       {
         "stars": 76949,
         "at": "2026-10-05T16:54:48.542Z"
@@ -1764,23 +1629,7 @@
         "at": "2026-10-06T01:12:08.369Z"
       }
     ],
-    "garrytan/gstack": [
-      {
-        "stars": 135207,
-        "at": "2026-10-05T04:42:06.846Z"
-      }
-    ],
-    "antirez/ds4": [
-      {
-        "stars": 23479,
-        "at": "2026-10-05T04:42:06.819Z"
-      }
-    ],
     "michael-denyer/pstack-claude": [
-      {
-        "stars": 1187,
-        "at": "2026-10-05T04:42:06.811Z"
-      },
       {
         "stars": 1354,
         "at": "2026-10-05T16:54:48.516Z"
@@ -2018,6 +1867,10 @@
       {
         "stars": 102849,
         "at": "2026-10-11T23:36:35.531Z"
+      },
+      {
+        "stars": 114544,
+        "at": "2026-10-12T04:59:26.122Z"
       }
     ],
     "deepseek-ai/DeepGEMM": [
@@ -2114,6 +1967,10 @@
       {
         "stars": 50280,
         "at": "2026-10-11T23:36:35.552Z"
+      },
+      {
+        "stars": 50756,
+        "at": "2026-10-12T04:59:26.131Z"
       }
     ],
     "EpicGames/raddebugger": [
@@ -2176,6 +2033,10 @@
       {
         "stars": 8393,
         "at": "2026-10-11T23:36:36.442Z"
+      },
+      {
+        "stars": 8410,
+        "at": "2026-10-12T04:59:26.915Z"
       }
     ],
     "manaflow-ai/cmux": [
@@ -2268,6 +2129,10 @@
       {
         "stars": 17769,
         "at": "2026-10-11T23:36:35.570Z"
+      },
+      {
+        "stars": 18652,
+        "at": "2026-10-12T04:59:26.140Z"
       }
     ],
     "anthropics/knowledge-work-plugins": [
@@ -2458,6 +2323,10 @@
       {
         "stars": 900,
         "at": "2026-10-11T23:36:36.409Z"
+      },
+      {
+        "stars": 952,
+        "at": "2026-10-12T04:59:26.882Z"
       }
     ],
     "lyogavin/airllm": [
@@ -2472,6 +2341,10 @@
       {
         "stars": 36448,
         "at": "2026-10-11T23:36:35.567Z"
+      },
+      {
+        "stars": 36674,
+        "at": "2026-10-12T04:59:26.163Z"
       }
     ],
     "bilawalsidhu/gods-eye-view": [
@@ -2486,6 +2359,10 @@
       {
         "stars": 51612,
         "at": "2026-10-11T23:36:35.636Z"
+      },
+      {
+        "stars": 52020,
+        "at": "2026-10-12T04:59:26.106Z"
       }
     ],
     "chrislgarry/Apollo-11": [
@@ -2500,6 +2377,10 @@
       {
         "stars": 74227,
         "at": "2026-10-11T23:36:35.572Z"
+      },
+      {
+        "stars": 74353,
+        "at": "2026-10-12T04:59:26.120Z"
       }
     ],
     "danyuchn/asd-ste100-skill": [
@@ -2514,6 +2395,10 @@
       {
         "stars": 4464,
         "at": "2026-10-11T23:36:36.427Z"
+      },
+      {
+        "stars": 4547,
+        "at": "2026-10-12T04:59:26.894Z"
       }
     ]
   },
