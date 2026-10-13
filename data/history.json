@@ -7,13 +7,6 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "firstSeenAt": "2026-09-15T16:31:53.825Z"
     },
-    "TencentCloud/Octop": {
-      "fullName": "TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "url": "https://github.com/TencentCloud/Octop",
-      "firstSeenAt": "2026-09-17T13:09:37.102Z"
-    },
     "pbakaus/impeccable": {
       "fullName": "pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
@@ -28,40 +21,12 @@
       "url": "https://github.com/pytorch/pytorch",
       "firstSeenAt": "2026-09-23T16:22:03.072Z"
     },
-    "vectorize-io/hindsight": {
-      "fullName": "vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "language": "Python",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "firstSeenAt": "2026-09-24T16:44:27.342Z"
-    },
-    "rohitg00/ai-engineering-from-scratch": {
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "firstSeenAt": "2026-09-24T16:44:27.359Z"
-    },
     "mattpocock/skills": {
       "fullName": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills",
       "firstSeenAt": "2026-09-25T13:22:26.910Z"
-    },
-    "paperclipai/paperclip": {
-      "fullName": "paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "url": "https://github.com/paperclipai/paperclip",
-      "firstSeenAt": "2026-09-25T13:22:26.934Z"
-    },
-    "debpalash/VoiceStudio": {
-      "fullName": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "firstSeenAt": "2026-09-27T13:38:07.122Z"
     },
     "mvschwarz/openrig": {
       "fullName": "mvschwarz/openrig",
@@ -91,13 +56,6 @@
       "url": "https://github.com/VectifyAI/PageIndex",
       "firstSeenAt": "2026-09-29T17:50:22.275Z"
     },
-    "harry0703/MoneyPrinterTurbo": {
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "firstSeenAt": "2026-09-30T14:43:20.036Z"
-    },
     "mksglu/context-mode": {
       "fullName": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
@@ -111,20 +69,6 @@
       "language": "TypeScript",
       "url": "https://github.com/heygen-com/hyperframes",
       "firstSeenAt": "2026-09-30T14:43:20.066Z"
-    },
-    "DietrichGebert/ponytail": {
-      "fullName": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "firstSeenAt": "2026-09-30T14:43:20.076Z"
-    },
-    "alirezarezvani/claude-skills": {
-      "fullName": "alirezarezvani/claude-skills",
-      "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "language": "Python",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "firstSeenAt": "2026-09-30T14:43:22.362Z"
     },
     "cursor/plugins": {
       "fullName": "cursor/plugins",
@@ -168,26 +112,12 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "firstSeenAt": "2026-10-02T14:32:50.228Z"
     },
-    "Effect-TS/effect": {
-      "fullName": "Effect-TS/effect",
-      "description": "Build production-ready applications in TypeScript",
-      "language": "TypeScript",
-      "url": "https://github.com/Effect-TS/effect",
-      "firstSeenAt": "2026-10-02T14:32:51.074Z"
-    },
     "pingdotgg/t3code": {
       "fullName": "pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
       "url": "https://github.com/pingdotgg/t3code",
       "firstSeenAt": "2026-10-03T13:08:25.560Z"
-    },
-    "cloudflare/cloudflare-os": {
-      "fullName": "cloudflare/cloudflare-os",
-      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "language": "TypeScript",
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "firstSeenAt": "2026-10-03T13:08:25.599Z"
     },
     "thedotmack/claude-mem": {
       "fullName": "thedotmack/claude-mem",
@@ -210,26 +140,12 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "firstSeenAt": "2026-10-04T13:48:18.651Z"
     },
-    "calesthio/OpenMontage": {
-      "fullName": "calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "firstSeenAt": "2026-10-04T13:48:18.657Z"
-    },
     "tester-army/e2e": {
       "fullName": "tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "language": "TypeScript",
       "url": "https://github.com/tester-army/e2e",
       "firstSeenAt": "2026-10-04T13:48:18.663Z"
-    },
-    "caddyserver/caddy": {
-      "fullName": "caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "language": "Go",
-      "url": "https://github.com/caddyserver/caddy",
-      "firstSeenAt": "2026-10-04T13:48:18.690Z"
     },
     "DuarteSantos8/openGym": {
       "fullName": "DuarteSantos8/openGym",
@@ -238,33 +154,12 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "firstSeenAt": "2026-10-05T16:54:48.555Z"
     },
-    "Stremio/stremio-web": {
-      "fullName": "Stremio/stremio-web",
-      "description": "Stremio - Freedom to Stream",
-      "language": "JavaScript",
-      "url": "https://github.com/Stremio/stremio-web",
-      "firstSeenAt": "2026-10-05T16:54:49.288Z"
-    },
     "msitarzewski/agency-agents": {
       "fullName": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "url": "https://github.com/msitarzewski/agency-agents",
       "firstSeenAt": "2026-10-05T16:54:49.323Z"
-    },
-    "Gaurav-Gosain/tuios": {
-      "fullName": "Gaurav-Gosain/tuios",
-      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
-      "language": "Go",
-      "url": "https://github.com/Gaurav-Gosain/tuios",
-      "firstSeenAt": "2026-10-05T16:54:50.086Z"
-    },
-    "M-Abozaid/esp32-c3-adblock": {
-      "fullName": "M-Abozaid/esp32-c3-adblock",
-      "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
-      "language": "C++",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "firstSeenAt": "2026-10-06T01:12:09.118Z"
     },
     "ayghri/i-have-adhd": {
       "fullName": "ayghri/i-have-adhd",
@@ -408,7 +303,7 @@
     },
     "lyogavin/airllm": {
       "fullName": "lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "url": "https://github.com/lyogavin/airllm",
       "firstSeenAt": "2026-10-11T14:44:39.153Z"
@@ -483,17 +378,7 @@
         "at": "2026-10-10T04:56:35.890Z"
       }
     ],
-    "TencentCloud/Octop": [
-      {
-        "stars": 7011,
-        "at": "2026-10-06T01:12:09.849Z"
-      }
-    ],
     "pbakaus/impeccable": [
-      {
-        "stars": 77079,
-        "at": "2026-10-06T01:12:09.111Z"
-      },
       {
         "stars": 77316,
         "at": "2026-10-06T11:05:30.668Z"
@@ -539,18 +424,6 @@
       {
         "stars": 104598,
         "at": "2026-10-12T04:59:26.163Z"
-      }
-    ],
-    "vectorize-io/hindsight": [
-      {
-        "stars": 45946,
-        "at": "2026-10-06T01:12:09.101Z"
-      }
-    ],
-    "rohitg00/ai-engineering-from-scratch": [
-      {
-        "stars": 64772,
-        "at": "2026-10-06T01:12:09.823Z"
       }
     ],
     "mattpocock/skills": [
@@ -637,25 +510,13 @@
       {
         "stars": 287590,
         "at": "2026-10-12T17:30:46.024Z"
-      }
-    ],
-    "paperclipai/paperclip": [
+      },
       {
-        "stars": 97672,
-        "at": "2026-10-06T01:12:09.117Z"
-      }
-    ],
-    "debpalash/VoiceStudio": [
-      {
-        "stars": 53779,
-        "at": "2026-10-06T01:12:09.127Z"
+        "stars": 288038,
+        "at": "2026-10-13T01:53:00.314Z"
       }
     ],
     "mvschwarz/openrig": [
-      {
-        "stars": 5244,
-        "at": "2026-10-06T01:12:09.851Z"
-      },
       {
         "stars": 5340,
         "at": "2026-10-06T11:05:31.489Z"
@@ -739,6 +600,10 @@
       {
         "stars": 7174,
         "at": "2026-10-12T17:30:46.027Z"
+      },
+      {
+        "stars": 7262,
+        "at": "2026-10-13T01:53:00.279Z"
       }
     ],
     "byoungd/up": [
@@ -807,12 +672,6 @@
         "at": "2026-10-07T04:57:58.816Z"
       }
     ],
-    "harry0703/MoneyPrinterTurbo": [
-      {
-        "stars": 128653,
-        "at": "2026-10-06T01:12:09.833Z"
-      }
-    ],
     "mksglu/context-mode": [
       {
         "stars": 26228,
@@ -829,13 +688,13 @@
       {
         "stars": 27047,
         "at": "2026-10-12T17:30:45.220Z"
+      },
+      {
+        "stars": 27334,
+        "at": "2026-10-13T01:52:59.476Z"
       }
     ],
     "heygen-com/hyperframes": [
-      {
-        "stars": 57334,
-        "at": "2026-10-06T01:12:09.142Z"
-      },
       {
         "stars": 57561,
         "at": "2026-10-06T11:05:31.522Z"
@@ -919,25 +778,13 @@
       {
         "stars": 61610,
         "at": "2026-10-12T17:30:46.030Z"
-      }
-    ],
-    "DietrichGebert/ponytail": [
+      },
       {
-        "stars": 155997,
-        "at": "2026-10-06T01:12:09.118Z"
-      }
-    ],
-    "alirezarezvani/claude-skills": [
-      {
-        "stars": 27712,
-        "at": "2026-10-06T01:12:09.839Z"
+        "stars": 61857,
+        "at": "2026-10-13T01:53:00.309Z"
       }
     ],
     "cursor/plugins": [
-      {
-        "stars": 9966,
-        "at": "2026-10-06T01:12:09.867Z"
-      },
       {
         "stars": 10026,
         "at": "2026-10-06T11:05:31.489Z"
@@ -1021,13 +868,13 @@
       {
         "stars": 11025,
         "at": "2026-10-12T17:30:46.016Z"
+      },
+      {
+        "stars": 11083,
+        "at": "2026-10-13T01:53:00.306Z"
       }
     ],
     "pablostanley/yoinks": [
-      {
-        "stars": 4644,
-        "at": "2026-10-06T01:12:09.849Z"
-      },
       {
         "stars": 4721,
         "at": "2026-10-06T11:05:31.475Z"
@@ -1070,10 +917,6 @@
       }
     ],
     "tile-ai/tilelang": [
-      {
-        "stars": 8425,
-        "at": "2026-10-06T01:12:09.873Z"
-      },
       {
         "stars": 8464,
         "at": "2026-10-07T15:19:13.720Z"
@@ -1149,13 +992,13 @@
       {
         "stars": 179915,
         "at": "2026-10-12T17:30:46.062Z"
+      },
+      {
+        "stars": 179974,
+        "at": "2026-10-13T01:53:00.308Z"
       }
     ],
     "Panniantong/Agent-Reach": [
-      {
-        "stars": 91894,
-        "at": "2026-10-06T01:12:08.351Z"
-      },
       {
         "stars": 92320,
         "at": "2026-10-06T11:05:31.437Z"
@@ -1209,17 +1052,7 @@
         "at": "2026-10-10T04:56:36.644Z"
       }
     ],
-    "Effect-TS/effect": [
-      {
-        "stars": 17048,
-        "at": "2026-10-06T01:12:09.147Z"
-      }
-    ],
     "pingdotgg/t3code": [
-      {
-        "stars": 25624,
-        "at": "2026-10-06T01:12:08.325Z"
-      },
       {
         "stars": 26538,
         "at": "2026-10-09T15:03:48.586Z"
@@ -1245,17 +1078,7 @@
         "at": "2026-10-11T04:44:15.201Z"
       }
     ],
-    "cloudflare/cloudflare-os": [
-      {
-        "stars": 11015,
-        "at": "2026-10-06T01:12:08.346Z"
-      }
-    ],
     "thedotmack/claude-mem": [
-      {
-        "stars": 96637,
-        "at": "2026-10-06T01:12:08.314Z"
-      },
       {
         "stars": 96853,
         "at": "2026-10-06T11:05:30.679Z"
@@ -1339,13 +1162,13 @@
       {
         "stars": 100017,
         "at": "2026-10-12T17:30:46.022Z"
+      },
+      {
+        "stars": 100113,
+        "at": "2026-10-13T01:53:00.266Z"
       }
     ],
     "boykopovar/AnyPS5": [
-      {
-        "stars": 4968,
-        "at": "2026-10-06T01:12:08.351Z"
-      },
       {
         "stars": 5301,
         "at": "2026-10-06T11:05:30.709Z"
@@ -1429,13 +1252,13 @@
       {
         "stars": 32210,
         "at": "2026-10-12T17:30:45.197Z"
+      },
+      {
+        "stars": 32969,
+        "at": "2026-10-13T01:52:59.521Z"
       }
     ],
     "earthtojake/text-to-cad": [
-      {
-        "stars": 17424,
-        "at": "2026-10-06T01:12:08.419Z"
-      },
       {
         "stars": 17680,
         "at": "2026-10-06T11:05:30.657Z"
@@ -1507,19 +1330,13 @@
       {
         "stars": 19568,
         "at": "2026-10-12T17:30:46.029Z"
-      }
-    ],
-    "calesthio/OpenMontage": [
+      },
       {
-        "stars": 64042,
-        "at": "2026-10-06T01:12:08.365Z"
+        "stars": 19652,
+        "at": "2026-10-13T01:53:00.309Z"
       }
     ],
     "tester-army/e2e": [
-      {
-        "stars": 4818,
-        "at": "2026-10-06T01:12:08.410Z"
-      },
       {
         "stars": 5472,
         "at": "2026-10-06T11:05:30.655Z"
@@ -1579,19 +1396,13 @@
       {
         "stars": 9444,
         "at": "2026-10-12T17:30:46.009Z"
-      }
-    ],
-    "caddyserver/caddy": [
+      },
       {
-        "stars": 77128,
-        "at": "2026-10-06T01:12:08.369Z"
+        "stars": 9596,
+        "at": "2026-10-13T01:53:00.323Z"
       }
     ],
     "DuarteSantos8/openGym": [
-      {
-        "stars": 4229,
-        "at": "2026-10-06T01:12:08.345Z"
-      },
       {
         "stars": 4801,
         "at": "2026-10-06T11:05:31.400Z"
@@ -1659,19 +1470,13 @@
       {
         "stars": 10270,
         "at": "2026-10-12T17:30:46.038Z"
-      }
-    ],
-    "Stremio/stremio-web": [
+      },
       {
-        "stars": 14300,
-        "at": "2026-10-06T01:12:09.140Z"
+        "stars": 10540,
+        "at": "2026-10-13T01:53:00.298Z"
       }
     ],
     "msitarzewski/agency-agents": [
-      {
-        "stars": 157265,
-        "at": "2026-10-06T01:12:09.140Z"
-      },
       {
         "stars": 157519,
         "at": "2026-10-06T11:05:30.653Z"
@@ -1687,18 +1492,6 @@
       {
         "stars": 157938,
         "at": "2026-10-07T04:57:58.047Z"
-      }
-    ],
-    "Gaurav-Gosain/tuios": [
-      {
-        "stars": 4845,
-        "at": "2026-10-06T01:12:09.854Z"
-      }
-    ],
-    "M-Abozaid/esp32-c3-adblock": [
-      {
-        "stars": 1353,
-        "at": "2026-10-06T01:12:09.118Z"
       }
     ],
     "ayghri/i-have-adhd": [
@@ -1815,6 +1608,10 @@
       {
         "stars": 144552,
         "at": "2026-10-12T17:30:45.180Z"
+      },
+      {
+        "stars": 160329,
+        "at": "2026-10-13T01:52:59.484Z"
       }
     ],
     "deepseek-ai/DeepGEMM": [
@@ -1919,6 +1716,10 @@
       {
         "stars": 52174,
         "at": "2026-10-12T17:30:45.243Z"
+      },
+      {
+        "stars": 52700,
+        "at": "2026-10-13T01:52:59.520Z"
       }
     ],
     "EpicGames/raddebugger": [
@@ -2085,6 +1886,10 @@
       {
         "stars": 20843,
         "at": "2026-10-12T17:30:45.245Z"
+      },
+      {
+        "stars": 22207,
+        "at": "2026-10-13T01:52:59.517Z"
       }
     ],
     "anthropics/knowledge-work-plugins": [
@@ -2301,6 +2106,10 @@
       {
         "stars": 37280,
         "at": "2026-10-12T17:30:45.222Z"
+      },
+      {
+        "stars": 37579,
+        "at": "2026-10-13T01:52:59.494Z"
       }
     ],
     "bilawalsidhu/gods-eye-view": [
@@ -2323,6 +2132,10 @@
       {
         "stars": 53152,
         "at": "2026-10-12T17:30:45.262Z"
+      },
+      {
+        "stars": 53756,
+        "at": "2026-10-13T01:52:59.539Z"
       }
     ],
     "chrislgarry/Apollo-11": [
@@ -2365,23 +2178,34 @@
       {
         "stars": 58701,
         "at": "2026-10-12T17:30:45.210Z"
+      },
+      {
+        "stars": 59171,
+        "at": "2026-10-13T01:52:59.563Z"
       }
     ],
     "microsoft/BitNet": [
       {
         "stars": 40812,
         "at": "2026-10-12T17:30:45.211Z"
+      },
+      {
+        "stars": 40930,
+        "at": "2026-10-13T01:52:59.505Z"
       }
     ],
     "open-webui/open-webui": [
       {
         "stars": 154712,
         "at": "2026-10-12T17:30:45.285Z"
+      },
+      {
+        "stars": 155064,
+        "at": "2026-10-13T01:52:59.512Z"
       }
     ]
   },
   "sentAlerts": {
-    "boykopovar/AnyPS5|24h": "2026-10-06T01:12:10.214Z",
     "DuarteSantos8/openGym|24h": "2026-10-06T18:04:29.574Z",
     "morluto/rea|24h": "2026-10-07T15:19:16.322Z",
     "boykopovar/AnyPS5|72h": "2026-10-07T15:19:16.322Z",
