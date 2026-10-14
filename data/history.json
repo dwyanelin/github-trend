@@ -7,13 +7,6 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "firstSeenAt": "2026-09-15T16:31:53.825Z"
     },
-    "pbakaus/impeccable": {
-      "fullName": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "url": "https://github.com/pbakaus/impeccable",
-      "firstSeenAt": "2026-09-23T16:22:02.164Z"
-    },
     "pytorch/pytorch": {
       "fullName": "pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
@@ -35,26 +28,12 @@
       "url": "https://github.com/mvschwarz/openrig",
       "firstSeenAt": "2026-09-27T13:38:07.137Z"
     },
-    "byoungd/up": {
-      "fullName": "byoungd/up",
-      "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
-      "language": "JavaScript",
-      "url": "https://github.com/byoungd/up",
-      "firstSeenAt": "2026-09-28T16:33:51.203Z"
-    },
     "NVIDIA/OpenShell": {
       "fullName": "NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "url": "https://github.com/NVIDIA/OpenShell",
       "firstSeenAt": "2026-09-29T17:50:21.481Z"
-    },
-    "VectifyAI/PageIndex": {
-      "fullName": "VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "firstSeenAt": "2026-09-29T17:50:22.275Z"
     },
     "mksglu/context-mode": {
       "fullName": "mksglu/context-mode",
@@ -154,13 +133,6 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "firstSeenAt": "2026-10-05T16:54:48.555Z"
     },
-    "msitarzewski/agency-agents": {
-      "fullName": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "firstSeenAt": "2026-10-05T16:54:49.323Z"
-    },
     "ayghri/i-have-adhd": {
       "fullName": "ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
@@ -174,13 +146,6 @@
       "language": "TypeScript",
       "url": "https://github.com/morluto/rea",
       "firstSeenAt": "2026-10-06T11:05:30.656Z"
-    },
-    "deepseek-ai/DeepGEMM": {
-      "fullName": "deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "language": "Cuda",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "firstSeenAt": "2026-10-06T11:05:30.687Z"
     },
     "cathrynlavery/diagram-design": {
       "fullName": "cathrynlavery/diagram-design",
@@ -370,6 +335,62 @@
       "language": "Swift",
       "url": "https://github.com/xtool-org/xtool",
       "firstSeenAt": "2026-10-13T11:30:59.615Z"
+    },
+    "vxcontrol/pentagi": {
+      "fullName": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "firstSeenAt": "2026-10-14T13:25:20.226Z"
+    },
+    "K-Dense-AI/scientific-agent-skills": {
+      "fullName": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "firstSeenAt": "2026-10-14T13:25:20.227Z"
+    },
+    "ifixai-ai/iFixAi": {
+      "fullName": "ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "language": "Python",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "firstSeenAt": "2026-10-14T13:25:20.232Z"
+    },
+    "HKUDS/CLI-Anything": {
+      "fullName": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "firstSeenAt": "2026-10-14T13:25:20.259Z"
+    },
+    "rust-lang/rust": {
+      "fullName": "rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "url": "https://github.com/rust-lang/rust",
+      "firstSeenAt": "2026-10-14T13:25:20.272Z"
+    },
+    "nvm-sh/nvm": {
+      "fullName": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "url": "https://github.com/nvm-sh/nvm",
+      "firstSeenAt": "2026-10-14T13:25:20.347Z"
+    },
+    "ntdevlabs/tiny11builder": {
+      "fullName": "ntdevlabs/tiny11builder",
+      "description": "WinUI app for building smaller, customized Windows 11 images.",
+      "language": "C#",
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "firstSeenAt": "2026-10-14T13:25:21.103Z"
+    },
+    "NationalSecurityAgency/ghidra": {
+      "fullName": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "firstSeenAt": "2026-10-14T13:25:21.129Z"
     }
   },
   "snapshots": {
@@ -397,12 +418,6 @@
       {
         "stars": 104125,
         "at": "2026-10-10T04:56:35.890Z"
-      }
-    ],
-    "pbakaus/impeccable": [
-      {
-        "stars": 77814,
-        "at": "2026-10-07T04:57:58.039Z"
       }
     ],
     "pytorch/pytorch": [
@@ -436,10 +451,6 @@
       }
     ],
     "mattpocock/skills": [
-      {
-        "stars": 278343,
-        "at": "2026-10-07T04:57:58.040Z"
-      },
       {
         "stars": 279075,
         "at": "2026-10-07T15:19:12.841Z"
@@ -527,13 +538,13 @@
       {
         "stars": 289925,
         "at": "2026-10-14T04:03:14.757Z"
+      },
+      {
+        "stars": 290620,
+        "at": "2026-10-14T13:25:21.104Z"
       }
     ],
     "mvschwarz/openrig": [
-      {
-        "stars": 5550,
-        "at": "2026-10-07T04:57:58.801Z"
-      },
       {
         "stars": 5659,
         "at": "2026-10-07T15:19:13.729Z"
@@ -607,17 +618,7 @@
         "at": "2026-10-13T01:53:00.279Z"
       }
     ],
-    "byoungd/up": [
-      {
-        "stars": 67559,
-        "at": "2026-10-07T04:57:59.836Z"
-      }
-    ],
     "NVIDIA/OpenShell": [
-      {
-        "stars": 15172,
-        "at": "2026-10-07T04:57:58.823Z"
-      },
       {
         "stars": 15231,
         "at": "2026-10-07T15:19:13.752Z"
@@ -629,12 +630,6 @@
       {
         "stars": 15340,
         "at": "2026-10-08T05:08:24.381Z"
-      }
-    ],
-    "VectifyAI/PageIndex": [
-      {
-        "stars": 38820,
-        "at": "2026-10-07T04:57:58.816Z"
       }
     ],
     "mksglu/context-mode": [
@@ -673,13 +668,13 @@
       {
         "stars": 28384,
         "at": "2026-10-14T04:03:13.746Z"
+      },
+      {
+        "stars": 28757,
+        "at": "2026-10-14T13:25:20.285Z"
       }
     ],
     "heygen-com/hyperframes": [
-      {
-        "stars": 58048,
-        "at": "2026-10-07T04:57:58.823Z"
-      },
       {
         "stars": 58342,
         "at": "2026-10-07T15:19:14.686Z"
@@ -767,13 +762,13 @@
       {
         "stars": 62936,
         "at": "2026-10-14T04:03:14.773Z"
+      },
+      {
+        "stars": 63318,
+        "at": "2026-10-14T13:25:21.195Z"
       }
     ],
     "cursor/plugins": [
-      {
-        "stars": 10137,
-        "at": "2026-10-07T04:57:58.840Z"
-      },
       {
         "stars": 10200,
         "at": "2026-10-07T15:19:13.720Z"
@@ -865,10 +860,6 @@
     ],
     "pablostanley/yoinks": [
       {
-        "stars": 4913,
-        "at": "2026-10-07T04:57:58.797Z"
-      },
-      {
         "stars": 5019,
         "at": "2026-10-07T15:19:13.647Z"
       },
@@ -908,10 +899,6 @@
       }
     ],
     "HunxByts/GhostTrack": [
-      {
-        "stars": 17257,
-        "at": "2026-10-07T04:57:58.804Z"
-      },
       {
         "stars": 17321,
         "at": "2026-10-07T15:19:15.420Z"
@@ -977,13 +964,13 @@
       {
         "stars": 180123,
         "at": "2026-10-14T04:03:14.788Z"
+      },
+      {
+        "stars": 180177,
+        "at": "2026-10-14T13:25:22.845Z"
       }
     ],
     "Panniantong/Agent-Reach": [
-      {
-        "stars": 92727,
-        "at": "2026-10-07T04:57:58.801Z"
-      },
       {
         "stars": 93034,
         "at": "2026-10-07T15:19:13.748Z"
@@ -1048,10 +1035,6 @@
       }
     ],
     "thedotmack/claude-mem": [
-      {
-        "stars": 97267,
-        "at": "2026-10-07T04:57:58.042Z"
-      },
       {
         "stars": 97503,
         "at": "2026-10-07T15:19:12.856Z"
@@ -1139,13 +1122,13 @@
       {
         "stars": 100495,
         "at": "2026-10-14T04:03:15.787Z"
+      },
+      {
+        "stars": 100636,
+        "at": "2026-10-14T13:25:21.136Z"
       }
     ],
     "boykopovar/AnyPS5": [
-      {
-        "stars": 6880,
-        "at": "2026-10-07T04:57:58.049Z"
-      },
       {
         "stars": 8928,
         "at": "2026-10-07T15:19:12.834Z"
@@ -1233,13 +1216,13 @@
       {
         "stars": 35593,
         "at": "2026-10-14T04:03:13.996Z"
+      },
+      {
+        "stars": 36337,
+        "at": "2026-10-14T13:25:21.109Z"
       }
     ],
     "earthtojake/text-to-cad": [
-      {
-        "stars": 18076,
-        "at": "2026-10-07T04:57:58.042Z"
-      },
       {
         "stars": 18391,
         "at": "2026-10-08T15:20:27.630Z"
@@ -1315,13 +1298,13 @@
       {
         "stars": 20040,
         "at": "2026-10-14T04:03:14.778Z"
+      },
+      {
+        "stars": 20202,
+        "at": "2026-10-14T13:25:22.813Z"
       }
     ],
     "tester-army/e2e": [
-      {
-        "stars": 6533,
-        "at": "2026-10-07T04:57:58.049Z"
-      },
       {
         "stars": 7063,
         "at": "2026-10-07T15:19:13.709Z"
@@ -1385,13 +1368,13 @@
       {
         "stars": 10177,
         "at": "2026-10-14T04:03:14.739Z"
+      },
+      {
+        "stars": 10363,
+        "at": "2026-10-14T13:25:22.109Z"
       }
     ],
     "DuarteSantos8/openGym": [
-      {
-        "stars": 5926,
-        "at": "2026-10-07T04:57:59.056Z"
-      },
       {
         "stars": 6526,
         "at": "2026-10-07T15:19:13.713Z"
@@ -1449,17 +1432,7 @@
         "at": "2026-10-13T01:53:00.298Z"
       }
     ],
-    "msitarzewski/agency-agents": [
-      {
-        "stars": 157938,
-        "at": "2026-10-07T04:57:58.047Z"
-      }
-    ],
     "ayghri/i-have-adhd": [
-      {
-        "stars": 54508,
-        "at": "2026-10-07T04:57:58.047Z"
-      },
       {
         "stars": 54832,
         "at": "2026-10-07T15:19:12.852Z"
@@ -1474,10 +1447,6 @@
       }
     ],
     "morluto/rea": [
-      {
-        "stars": 10180,
-        "at": "2026-10-07T04:57:58.040Z"
-      },
       {
         "stars": 12598,
         "at": "2026-10-07T15:19:12.853Z"
@@ -1565,19 +1534,13 @@
       {
         "stars": 213772,
         "at": "2026-10-14T04:03:13.703Z"
-      }
-    ],
-    "deepseek-ai/DeepGEMM": [
+      },
       {
-        "stars": 8766,
-        "at": "2026-10-07T04:57:58.050Z"
+        "stars": 228627,
+        "at": "2026-10-14T13:25:20.204Z"
       }
     ],
     "cathrynlavery/diagram-design": [
-      {
-        "stars": 44160,
-        "at": "2026-10-07T04:57:58.788Z"
-      },
       {
         "stars": 44617,
         "at": "2026-10-07T15:19:12.886Z"
@@ -1665,6 +1628,10 @@
       {
         "stars": 54422,
         "at": "2026-10-14T04:03:13.728Z"
+      },
+      {
+        "stars": 55041,
+        "at": "2026-10-14T13:25:21.103Z"
       }
     ],
     "EpicGames/raddebugger": [
@@ -1747,6 +1714,10 @@
       {
         "stars": 8491,
         "at": "2026-10-14T04:03:14.773Z"
+      },
+      {
+        "stars": 8507,
+        "at": "2026-10-14T13:25:21.107Z"
       }
     ],
     "manaflow-ai/cmux": [
@@ -1975,6 +1946,10 @@
       {
         "stars": 5544,
         "at": "2026-10-10T04:56:36.661Z"
+      },
+      {
+        "stars": 5902,
+        "at": "2026-10-14T13:25:21.089Z"
       }
     ],
     "hugohe3/ppt-master": [
@@ -2229,6 +2204,10 @@
       {
         "stars": 63805,
         "at": "2026-10-14T04:03:13.866Z"
+      },
+      {
+        "stars": 65050,
+        "at": "2026-10-14T13:25:20.214Z"
       }
     ],
     "vercel-labs/skills": [
@@ -2265,6 +2244,58 @@
       {
         "stars": 9608,
         "at": "2026-10-14T04:03:13.710Z"
+      },
+      {
+        "stars": 10139,
+        "at": "2026-10-14T13:25:20.215Z"
+      }
+    ],
+    "vxcontrol/pentagi": [
+      {
+        "stars": 28806,
+        "at": "2026-10-14T13:25:20.226Z"
+      }
+    ],
+    "K-Dense-AI/scientific-agent-skills": [
+      {
+        "stars": 48936,
+        "at": "2026-10-14T13:25:20.227Z"
+      }
+    ],
+    "ifixai-ai/iFixAi": [
+      {
+        "stars": 26690,
+        "at": "2026-10-14T13:25:20.232Z"
+      }
+    ],
+    "HKUDS/CLI-Anything": [
+      {
+        "stars": 52214,
+        "at": "2026-10-14T13:25:20.259Z"
+      }
+    ],
+    "rust-lang/rust": [
+      {
+        "stars": 120026,
+        "at": "2026-10-14T13:25:20.272Z"
+      }
+    ],
+    "nvm-sh/nvm": [
+      {
+        "stars": 95373,
+        "at": "2026-10-14T13:25:20.347Z"
+      }
+    ],
+    "ntdevlabs/tiny11builder": [
+      {
+        "stars": 20050,
+        "at": "2026-10-14T13:25:21.103Z"
+      }
+    ],
+    "NationalSecurityAgency/ghidra": [
+      {
+        "stars": 86869,
+        "at": "2026-10-14T13:25:21.129Z"
       }
     ]
   },
@@ -2281,6 +2312,8 @@
     "cathrynlavery/diagram-design|72h": "2026-10-10T04:56:37.412Z",
     "storytold/artcraft|72h": "2026-10-11T20:00:10.989Z",
     "bilawalsidhu/gods-eye-view|24h": "2026-10-12T17:30:46.560Z",
-    "boykopovar/AnyPS5|24h": "2026-10-13T11:31:01.047Z"
+    "boykopovar/AnyPS5|24h": "2026-10-13T11:31:01.047Z",
+    "debpalash/VoiceStudio|24h": "2026-10-14T13:25:23.403Z",
+    "xtool-org/xtool|24h": "2026-10-14T13:25:23.403Z"
   }
 }
