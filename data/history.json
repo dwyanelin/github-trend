@@ -28,13 +28,6 @@
       "url": "https://github.com/mvschwarz/openrig",
       "firstSeenAt": "2026-09-27T13:38:07.137Z"
     },
-    "NVIDIA/OpenShell": {
-      "fullName": "NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "firstSeenAt": "2026-09-29T17:50:21.481Z"
-    },
     "mksglu/context-mode": {
       "fullName": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
@@ -62,20 +55,6 @@
       "language": "TypeScript",
       "url": "https://github.com/pablostanley/yoinks",
       "firstSeenAt": "2026-10-01T15:12:25.761Z"
-    },
-    "tile-ai/tilelang": {
-      "fullName": "tile-ai/tilelang",
-      "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "language": "Python",
-      "url": "https://github.com/tile-ai/tilelang",
-      "firstSeenAt": "2026-10-01T15:12:25.787Z"
-    },
-    "HunxByts/GhostTrack": {
-      "fullName": "HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "language": "Python",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "firstSeenAt": "2026-10-01T15:12:25.805Z"
     },
     "flutter/flutter": {
       "fullName": "flutter/flutter",
@@ -133,13 +112,6 @@
       "url": "https://github.com/DuarteSantos8/openGym",
       "firstSeenAt": "2026-10-05T16:54:48.555Z"
     },
-    "ayghri/i-have-adhd": {
-      "fullName": "ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "firstSeenAt": "2026-10-06T11:05:30.653Z"
-    },
     "morluto/rea": {
       "fullName": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
@@ -160,27 +132,6 @@
       "language": "C",
       "url": "https://github.com/EpicGames/raddebugger",
       "firstSeenAt": "2026-10-07T15:19:12.853Z"
-    },
-    "manaflow-ai/cmux": {
-      "fullName": "manaflow-ai/cmux",
-      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-      "language": "Swift",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "firstSeenAt": "2026-10-07T15:19:12.885Z"
-    },
-    "trycua/cua": {
-      "fullName": "trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "language": "Rust",
-      "url": "https://github.com/trycua/cua",
-      "firstSeenAt": "2026-10-07T15:19:12.973Z"
-    },
-    "cloudflare/security-audit-skill": {
-      "fullName": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "firstSeenAt": "2026-10-07T15:19:13.748Z"
     },
     "storytold/artcraft": {
       "fullName": "storytold/artcraft",
@@ -396,10 +347,6 @@
   "snapshots": {
     "addyosmani/agent-skills": [
       {
-        "stars": 102962,
-        "at": "2026-10-08T05:08:23.603Z"
-      },
-      {
         "stars": 103726,
         "at": "2026-10-09T15:03:47.694Z"
       },
@@ -443,10 +390,6 @@
       }
     ],
     "mattpocock/skills": [
-      {
-        "stars": 279936,
-        "at": "2026-10-08T05:08:23.612Z"
-      },
       {
         "stars": 280814,
         "at": "2026-10-08T15:20:26.769Z"
@@ -534,13 +477,13 @@
       {
         "stars": 291492,
         "at": "2026-10-15T03:45:41.000Z"
+      },
+      {
+        "stars": 291883,
+        "at": "2026-10-15T08:58:26.381Z"
       }
     ],
     "mvschwarz/openrig": [
-      {
-        "stars": 5860,
-        "at": "2026-10-08T05:08:24.368Z"
-      },
       {
         "stars": 6028,
         "at": "2026-10-08T15:20:26.818Z"
@@ -602,12 +545,6 @@
         "at": "2026-10-13T01:53:00.279Z"
       }
     ],
-    "NVIDIA/OpenShell": [
-      {
-        "stars": 15340,
-        "at": "2026-10-08T05:08:24.381Z"
-      }
-    ],
     "mksglu/context-mode": [
       {
         "stars": 26228,
@@ -656,13 +593,13 @@
       {
         "stars": 29249,
         "at": "2026-10-15T03:45:39.854Z"
+      },
+      {
+        "stars": 29476,
+        "at": "2026-10-15T08:58:25.513Z"
       }
     ],
     "heygen-com/hyperframes": [
-      {
-        "stars": 58679,
-        "at": "2026-10-08T05:08:24.435Z"
-      },
       {
         "stars": 58995,
         "at": "2026-10-08T15:20:27.663Z"
@@ -750,13 +687,13 @@
       {
         "stars": 63828,
         "at": "2026-10-15T03:45:41.038Z"
+      },
+      {
+        "stars": 64004,
+        "at": "2026-10-15T08:58:26.388Z"
       }
     ],
     "cursor/plugins": [
-      {
-        "stars": 10281,
-        "at": "2026-10-08T05:08:24.396Z"
-      },
       {
         "stars": 10341,
         "at": "2026-10-08T15:20:27.701Z"
@@ -836,10 +773,6 @@
     ],
     "pablostanley/yoinks": [
       {
-        "stars": 5169,
-        "at": "2026-10-08T05:08:24.356Z"
-      },
-      {
         "stars": 5304,
         "at": "2026-10-08T15:20:27.689Z"
       },
@@ -850,18 +783,6 @@
       {
         "stars": 5466,
         "at": "2026-10-09T05:11:22.971Z"
-      }
-    ],
-    "tile-ai/tilelang": [
-      {
-        "stars": 8494,
-        "at": "2026-10-08T05:08:24.383Z"
-      }
-    ],
-    "HunxByts/GhostTrack": [
-      {
-        "stars": 17443,
-        "at": "2026-10-08T05:08:25.122Z"
       }
     ],
     "flutter/flutter": [
@@ -928,13 +849,13 @@
       {
         "stars": 180185,
         "at": "2026-10-15T03:45:41.904Z"
+      },
+      {
+        "stars": 180207,
+        "at": "2026-10-15T08:58:27.233Z"
       }
     ],
     "Panniantong/Agent-Reach": [
-      {
-        "stars": 93490,
-        "at": "2026-10-08T05:08:24.389Z"
-      },
       {
         "stars": 93937,
         "at": "2026-10-08T15:20:27.738Z"
@@ -987,10 +908,6 @@
       }
     ],
     "thedotmack/claude-mem": [
-      {
-        "stars": 97865,
-        "at": "2026-10-08T05:08:23.616Z"
-      },
       {
         "stars": 98185,
         "at": "2026-10-08T15:20:26.793Z"
@@ -1078,13 +995,13 @@
       {
         "stars": 100801,
         "at": "2026-10-15T03:45:40.957Z"
+      },
+      {
+        "stars": 100865,
+        "at": "2026-10-15T08:58:26.404Z"
       }
     ],
     "boykopovar/AnyPS5": [
-      {
-        "stars": 11263,
-        "at": "2026-10-08T05:08:23.594Z"
-      },
       {
         "stars": 13816,
         "at": "2026-10-08T15:20:26.879Z"
@@ -1172,6 +1089,10 @@
       {
         "stars": 37321,
         "at": "2026-10-15T03:45:40.990Z"
+      },
+      {
+        "stars": 37622,
+        "at": "2026-10-15T08:58:26.440Z"
       }
     ],
     "earthtojake/text-to-cad": [
@@ -1262,13 +1183,13 @@
       {
         "stars": 20430,
         "at": "2026-10-15T03:45:41.911Z"
+      },
+      {
+        "stars": 20521,
+        "at": "2026-10-15T08:58:27.136Z"
       }
     ],
     "tester-army/e2e": [
-      {
-        "stars": 7696,
-        "at": "2026-10-08T05:08:24.401Z"
-      },
       {
         "stars": 8674,
         "at": "2026-10-10T19:52:30.120Z"
@@ -1332,13 +1253,13 @@
       {
         "stars": 10552,
         "at": "2026-10-15T03:45:41.017Z"
+      },
+      {
+        "stars": 10650,
+        "at": "2026-10-15T08:58:26.406Z"
       }
     ],
     "DuarteSantos8/openGym": [
-      {
-        "stars": 7222,
-        "at": "2026-10-08T05:08:24.383Z"
-      },
       {
         "stars": 7742,
         "at": "2026-10-08T15:20:27.775Z"
@@ -1384,17 +1305,7 @@
         "at": "2026-10-13T01:53:00.298Z"
       }
     ],
-    "ayghri/i-have-adhd": [
-      {
-        "stars": 55302,
-        "at": "2026-10-08T05:08:23.572Z"
-      }
-    ],
     "morluto/rea": [
-      {
-        "stars": 16707,
-        "at": "2026-10-08T05:08:23.579Z"
-      },
       {
         "stars": 20364,
         "at": "2026-10-08T15:20:26.874Z"
@@ -1482,13 +1393,13 @@
       {
         "stars": 247059,
         "at": "2026-10-15T03:45:39.902Z"
+      },
+      {
+        "stars": 254453,
+        "at": "2026-10-15T08:58:25.427Z"
       }
     ],
     "cathrynlavery/diagram-design": [
-      {
-        "stars": 45210,
-        "at": "2026-10-08T05:08:23.621Z"
-      },
       {
         "stars": 45818,
         "at": "2026-10-08T15:20:26.787Z"
@@ -1576,13 +1487,13 @@
       {
         "stars": 55417,
         "at": "2026-10-15T03:45:41.070Z"
+      },
+      {
+        "stars": 55573,
+        "at": "2026-10-15T08:58:26.398Z"
       }
     ],
     "EpicGames/raddebugger": [
-      {
-        "stars": 7920,
-        "at": "2026-10-08T05:08:23.590Z"
-      },
       {
         "stars": 8013,
         "at": "2026-10-08T15:20:26.846Z"
@@ -1662,24 +1573,10 @@
       {
         "stars": 8546,
         "at": "2026-10-15T03:45:41.055Z"
-      }
-    ],
-    "manaflow-ai/cmux": [
+      },
       {
-        "stars": 27920,
-        "at": "2026-10-08T05:08:23.629Z"
-      }
-    ],
-    "trycua/cua": [
-      {
-        "stars": 28845,
-        "at": "2026-10-08T05:08:23.656Z"
-      }
-    ],
-    "cloudflare/security-audit-skill": [
-      {
-        "stars": 26188,
-        "at": "2026-10-08T05:08:24.382Z"
+        "stars": 8554,
+        "at": "2026-10-15T08:58:26.411Z"
       }
     ],
     "storytold/artcraft": [
@@ -1878,6 +1775,10 @@
       {
         "stars": 5992,
         "at": "2026-10-15T03:45:41.038Z"
+      },
+      {
+        "stars": 6016,
+        "at": "2026-10-15T08:58:26.381Z"
       }
     ],
     "hugohe3/ppt-master": [
@@ -2144,6 +2045,10 @@
       {
         "stars": 66794,
         "at": "2026-10-15T03:45:39.854Z"
+      },
+      {
+        "stars": 67511,
+        "at": "2026-10-15T08:58:25.666Z"
       }
     ],
     "vercel-labs/skills": [
@@ -2192,6 +2097,10 @@
       {
         "stars": 11009,
         "at": "2026-10-15T03:45:39.896Z"
+      },
+      {
+        "stars": 11284,
+        "at": "2026-10-15T08:58:25.483Z"
       }
     ],
     "vxcontrol/pentagi": [
@@ -2206,6 +2115,10 @@
       {
         "stars": 29695,
         "at": "2026-10-15T03:45:40.210Z"
+      },
+      {
+        "stars": 30077,
+        "at": "2026-10-15T08:58:25.490Z"
       }
     ],
     "K-Dense-AI/scientific-agent-skills": [
@@ -2220,6 +2133,10 @@
       {
         "stars": 49507,
         "at": "2026-10-15T03:45:39.899Z"
+      },
+      {
+        "stars": 49790,
+        "at": "2026-10-15T08:58:25.458Z"
       }
     ],
     "ifixai-ai/iFixAi": [
@@ -2234,6 +2151,10 @@
       {
         "stars": 27614,
         "at": "2026-10-15T03:45:39.920Z"
+      },
+      {
+        "stars": 27982,
+        "at": "2026-10-15T08:58:25.449Z"
       }
     ],
     "HKUDS/CLI-Anything": [
@@ -2248,6 +2169,10 @@
       {
         "stars": 52623,
         "at": "2026-10-15T03:45:39.905Z"
+      },
+      {
+        "stars": 52828,
+        "at": "2026-10-15T08:58:25.468Z"
       }
     ],
     "rust-lang/rust": [
@@ -2262,6 +2187,10 @@
       {
         "stars": 120098,
         "at": "2026-10-15T03:45:39.901Z"
+      },
+      {
+        "stars": 120221,
+        "at": "2026-10-15T08:58:25.490Z"
       }
     ],
     "nvm-sh/nvm": [
@@ -2276,6 +2205,10 @@
       {
         "stars": 95482,
         "at": "2026-10-15T03:45:40.092Z"
+      },
+      {
+        "stars": 95524,
+        "at": "2026-10-15T08:58:25.469Z"
       }
     ],
     "ntdevlabs/tiny11builder": [
@@ -2290,6 +2223,10 @@
       {
         "stars": 20302,
         "at": "2026-10-15T03:45:40.948Z"
+      },
+      {
+        "stars": 20408,
+        "at": "2026-10-15T08:58:26.370Z"
       }
     ],
     "NationalSecurityAgency/ghidra": [
@@ -2304,6 +2241,10 @@
       {
         "stars": 87708,
         "at": "2026-10-15T03:45:41.117Z"
+      },
+      {
+        "stars": 87977,
+        "at": "2026-10-15T08:58:26.407Z"
       }
     ]
   },
@@ -2320,6 +2261,7 @@
     "debpalash/VoiceStudio|24h": "2026-10-14T13:25:23.403Z",
     "xtool-org/xtool|24h": "2026-10-14T13:25:23.403Z",
     "morluto/rea|24h": "2026-10-15T03:45:42.856Z",
-    "boykopovar/AnyPS5|72h": "2026-10-15T03:45:42.856Z"
+    "boykopovar/AnyPS5|72h": "2026-10-15T03:45:42.856Z",
+    "mattpocock/skills|24h": "2026-10-15T08:58:27.696Z"
   }
 }
