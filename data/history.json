@@ -380,7 +380,7 @@
     },
     "stablyai/orca": {
       "fullName": "stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "url": "https://github.com/stablyai/orca",
       "firstSeenAt": "2026-10-17T15:12:15.880Z"
@@ -535,6 +535,10 @@
       {
         "stars": 294700,
         "at": "2026-10-17T15:12:17.383Z"
+      },
+      {
+        "stars": 294865,
+        "at": "2026-10-17T18:16:11.267Z"
       }
     ],
     "mvschwarz/openrig": [
@@ -663,6 +667,10 @@
       {
         "stars": 30440,
         "at": "2026-10-17T15:12:16.595Z"
+      },
+      {
+        "stars": 30472,
+        "at": "2026-10-17T18:16:10.536Z"
       }
     ],
     "heygen-com/hyperframes": [
@@ -769,6 +777,10 @@
       {
         "stars": 65720,
         "at": "2026-10-17T15:12:16.635Z"
+      },
+      {
+        "stars": 65824,
+        "at": "2026-10-17T18:16:10.547Z"
       }
     ],
     "cursor/plugins": [
@@ -1115,6 +1127,10 @@
       {
         "stars": 40837,
         "at": "2026-10-17T15:12:16.616Z"
+      },
+      {
+        "stars": 41162,
+        "at": "2026-10-17T18:16:10.550Z"
       }
     ],
     "earthtojake/text-to-cad": [
@@ -1431,6 +1447,10 @@
       {
         "stars": 301889,
         "at": "2026-10-17T15:12:16.634Z"
+      },
+      {
+        "stars": 304332,
+        "at": "2026-10-17T18:16:10.554Z"
       }
     ],
     "cathrynlavery/diagram-design": [
@@ -1537,6 +1557,10 @@
       {
         "stars": 56796,
         "at": "2026-10-17T15:12:16.609Z"
+      },
+      {
+        "stars": 56884,
+        "at": "2026-10-17T18:16:10.548Z"
       }
     ],
     "EpicGames/raddebugger": [
@@ -1673,6 +1697,10 @@
       {
         "stars": 31376,
         "at": "2026-10-17T15:12:16.631Z"
+      },
+      {
+        "stars": 31552,
+        "at": "2026-10-17T18:16:10.544Z"
       }
     ],
     "anthropics/knowledge-work-plugins": [
@@ -1843,6 +1871,10 @@
       {
         "stars": 1654,
         "at": "2026-10-17T15:12:17.363Z"
+      },
+      {
+        "stars": 1678,
+        "at": "2026-10-17T18:16:11.249Z"
       }
     ],
     "lyogavin/airllm": [
@@ -2063,6 +2095,10 @@
       {
         "stars": 72499,
         "at": "2026-10-17T15:12:15.863Z"
+      },
+      {
+        "stars": 72854,
+        "at": "2026-10-17T18:16:09.773Z"
       }
     ],
     "vercel-labs/skills": [
@@ -2187,6 +2223,10 @@
       {
         "stars": 52028,
         "at": "2026-10-17T15:12:15.849Z"
+      },
+      {
+        "stars": 52114,
+        "at": "2026-10-17T18:16:09.785Z"
       }
     ],
     "ifixai-ai/iFixAi": [
@@ -2243,6 +2283,10 @@
       {
         "stars": 53859,
         "at": "2026-10-17T15:12:15.870Z"
+      },
+      {
+        "stars": 53922,
+        "at": "2026-10-17T18:16:09.844Z"
       }
     ],
     "rust-lang/rust": [
@@ -2351,6 +2395,10 @@
       {
         "stars": 90046,
         "at": "2026-10-17T15:12:16.652Z"
+      },
+      {
+        "stars": 90125,
+        "at": "2026-10-17T18:16:10.551Z"
       }
     ],
     "ruvnet/ruflo": [
@@ -2389,6 +2437,10 @@
       {
         "stars": 75882,
         "at": "2026-10-17T15:12:16.602Z"
+      },
+      {
+        "stars": 75943,
+        "at": "2026-10-17T18:16:10.564Z"
       }
     ],
     "affaan-m/ECC": [
@@ -2427,6 +2479,10 @@
       {
         "stars": 282071,
         "at": "2026-10-17T15:12:15.865Z"
+      },
+      {
+        "stars": 282223,
+        "at": "2026-10-17T18:16:09.775Z"
       }
     ],
     "obra/superpowers": [
@@ -2499,6 +2555,10 @@
       {
         "stars": 41307,
         "at": "2026-10-17T15:12:15.884Z"
+      },
+      {
+        "stars": 41478,
+        "at": "2026-10-17T18:16:09.775Z"
       }
     ],
     "JuliusBrussee/caveman": [
@@ -2555,6 +2615,10 @@
       {
         "stars": 7486,
         "at": "2026-10-17T15:12:16.630Z"
+      },
+      {
+        "stars": 7608,
+        "at": "2026-10-17T18:16:10.546Z"
       }
     ],
     "lightseekorg/tokenspeed": [
@@ -2601,6 +2665,10 @@
       {
         "stars": 8300,
         "at": "2026-10-17T15:12:15.856Z"
+      },
+      {
+        "stars": 8348,
+        "at": "2026-10-17T18:16:09.832Z"
       }
     ],
     "MadsLorentzen/ai-job-search": [
@@ -2623,6 +2691,10 @@
       {
         "stars": 49551,
         "at": "2026-10-17T15:12:15.835Z"
+      },
+      {
+        "stars": 49902,
+        "at": "2026-10-17T18:16:09.744Z"
       }
     ],
     "hmjz100/LinkSwift": [
@@ -2647,24 +2719,40 @@
       {
         "stars": 9756,
         "at": "2026-10-17T15:12:15.858Z"
+      },
+      {
+        "stars": 9811,
+        "at": "2026-10-17T18:16:09.793Z"
       }
     ],
     "stablyai/orca": [
       {
         "stars": 94998,
         "at": "2026-10-17T15:12:15.880Z"
+      },
+      {
+        "stars": 95153,
+        "at": "2026-10-17T18:16:09.770Z"
       }
     ],
     "anthropics/claude-code": [
       {
         "stars": 151455,
         "at": "2026-10-17T15:12:15.892Z"
+      },
+      {
+        "stars": 151558,
+        "at": "2026-10-17T18:16:09.782Z"
       }
     ],
     "anomalyco/opencode": [
       {
         "stars": 214765,
         "at": "2026-10-17T15:12:16.626Z"
+      },
+      {
+        "stars": 214944,
+        "at": "2026-10-17T18:16:10.549Z"
       }
     ]
   },
@@ -2684,6 +2772,7 @@
     "xerj-org/xerj|24h": "2026-10-16T22:39:55.555Z",
     "morluto/rea|72h": "2026-10-16T22:39:55.555Z",
     "mattpocock/skills|72h": "2026-10-16T22:39:55.555Z",
-    "storytold/artcraft|24h": "2026-10-17T03:31:06.216Z"
+    "storytold/artcraft|24h": "2026-10-17T03:31:06.216Z",
+    "MadsLorentzen/ai-job-search|24h": "2026-10-17T18:16:12.410Z"
   }
 }
