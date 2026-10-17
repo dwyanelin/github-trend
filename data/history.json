@@ -1,12 +1,5 @@
 {
   "repos": {
-    "addyosmani/agent-skills": {
-      "fullName": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "firstSeenAt": "2026-09-15T16:31:53.825Z"
-    },
     "pytorch/pytorch": {
       "fullName": "pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
@@ -55,13 +48,6 @@
       "language": "Dart",
       "url": "https://github.com/flutter/flutter",
       "firstSeenAt": "2026-10-01T15:12:26.546Z"
-    },
-    "Panniantong/Agent-Reach": {
-      "fullName": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "firstSeenAt": "2026-10-02T14:32:50.228Z"
     },
     "pingdotgg/t3code": {
       "fullName": "pingdotgg/t3code",
@@ -139,27 +125,6 @@
       "language": "Python",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "firstSeenAt": "2026-10-08T15:20:26.850Z"
-    },
-    "alibaba/open-code-review": {
-      "fullName": "alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "url": "https://github.com/alibaba/open-code-review",
-      "firstSeenAt": "2026-10-09T15:03:47.701Z"
-    },
-    "Robbyant/lingbot-map": {
-      "fullName": "Robbyant/lingbot-map",
-      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "language": "Python",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "firstSeenAt": "2026-10-09T15:03:47.728Z"
-    },
-    "BerriAI/litellm": {
-      "fullName": "BerriAI/litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "language": "Python",
-      "url": "https://github.com/BerriAI/litellm",
-      "firstSeenAt": "2026-10-09T15:03:47.794Z"
     },
     "twostraws/SwiftUI-Agent-Skill": {
       "fullName": "twostraws/SwiftUI-Agent-Skill",
@@ -408,12 +373,6 @@
     }
   },
   "snapshots": {
-    "addyosmani/agent-skills": [
-      {
-        "stars": 104125,
-        "at": "2026-10-10T04:56:35.890Z"
-      }
-    ],
     "pytorch/pytorch": [
       {
         "stars": 104103,
@@ -445,10 +404,6 @@
       }
     ],
     "mattpocock/skills": [
-      {
-        "stars": 283018,
-        "at": "2026-10-10T04:56:35.862Z"
-      },
       {
         "stars": 284200,
         "at": "2026-10-10T19:52:28.562Z"
@@ -544,13 +499,13 @@
       {
         "stars": 294193,
         "at": "2026-10-17T03:31:04.412Z"
+      },
+      {
+        "stars": 294369,
+        "at": "2026-10-17T08:20:22.652Z"
       }
     ],
     "mvschwarz/openrig": [
-      {
-        "stars": 6518,
-        "at": "2026-10-10T04:56:36.648Z"
-      },
       {
         "stars": 6691,
         "at": "2026-10-10T19:52:29.345Z"
@@ -668,13 +623,13 @@
       {
         "stars": 30269,
         "at": "2026-10-17T03:31:03.570Z"
+      },
+      {
+        "stars": 30349,
+        "at": "2026-10-17T08:20:21.920Z"
       }
     ],
     "heygen-com/hyperframes": [
-      {
-        "stars": 59899,
-        "at": "2026-10-10T04:56:36.658Z"
-      },
       {
         "stars": 60284,
         "at": "2026-10-10T19:52:29.316Z"
@@ -770,13 +725,13 @@
       {
         "stars": 65395,
         "at": "2026-10-17T03:31:04.416Z"
+      },
+      {
+        "stars": 65513,
+        "at": "2026-10-17T08:20:22.647Z"
       }
     ],
     "cursor/plugins": [
-      {
-        "stars": 10621,
-        "at": "2026-10-10T04:56:36.651Z"
-      },
       {
         "stars": 10731,
         "at": "2026-10-10T19:52:29.375Z"
@@ -856,6 +811,10 @@
       {
         "stars": 12011,
         "at": "2026-10-17T03:31:03.580Z"
+      },
+      {
+        "stars": 12107,
+        "at": "2026-10-17T08:20:21.934Z"
       }
     ],
     "flutter/flutter": [
@@ -928,17 +887,7 @@
         "at": "2026-10-15T08:58:27.233Z"
       }
     ],
-    "Panniantong/Agent-Reach": [
-      {
-        "stars": 95038,
-        "at": "2026-10-10T04:56:36.644Z"
-      }
-    ],
     "pingdotgg/t3code": [
-      {
-        "stars": 26663,
-        "at": "2026-10-10T04:56:36.662Z"
-      },
       {
         "stars": 26784,
         "at": "2026-10-10T19:52:29.328Z"
@@ -953,10 +902,6 @@
       }
     ],
     "thedotmack/claude-mem": [
-      {
-        "stars": 99027,
-        "at": "2026-10-10T04:56:36.648Z"
-      },
       {
         "stars": 99180,
         "at": "2026-10-10T19:52:29.310Z"
@@ -1027,10 +972,6 @@
       }
     ],
     "boykopovar/AnyPS5": [
-      {
-        "stars": 23018,
-        "at": "2026-10-10T04:56:35.919Z"
-      },
       {
         "stars": 26093,
         "at": "2026-10-10T19:52:28.571Z"
@@ -1126,13 +1067,13 @@
       {
         "stars": 40012,
         "at": "2026-10-17T03:31:04.426Z"
+      },
+      {
+        "stars": 40180,
+        "at": "2026-10-17T08:20:22.661Z"
       }
     ],
     "earthtojake/text-to-cad": [
-      {
-        "stars": 18811,
-        "at": "2026-10-10T04:56:36.633Z"
-      },
       {
         "stars": 18955,
         "at": "2026-10-10T19:52:29.323Z"
@@ -1228,6 +1169,10 @@
       {
         "stars": 21029,
         "at": "2026-10-17T03:31:05.189Z"
+      },
+      {
+        "stars": 21092,
+        "at": "2026-10-17T08:20:23.353Z"
       }
     ],
     "tester-army/e2e": [
@@ -1302,10 +1247,6 @@
     ],
     "DuarteSantos8/openGym": [
       {
-        "stars": 8767,
-        "at": "2026-10-10T04:56:36.664Z"
-      },
-      {
         "stars": 9143,
         "at": "2026-10-10T19:52:30.132Z"
       },
@@ -1343,10 +1284,6 @@
       }
     ],
     "morluto/rea": [
-      {
-        "stars": 51546,
-        "at": "2026-10-10T04:56:35.888Z"
-      },
       {
         "stars": 68568,
         "at": "2026-10-10T19:52:28.536Z"
@@ -1442,13 +1379,13 @@
       {
         "stars": 292692,
         "at": "2026-10-17T03:31:04.427Z"
+      },
+      {
+        "stars": 296071,
+        "at": "2026-10-17T08:20:22.667Z"
       }
     ],
     "cathrynlavery/diagram-design": [
-      {
-        "stars": 48101,
-        "at": "2026-10-10T04:56:35.884Z"
-      },
       {
         "stars": 48753,
         "at": "2026-10-10T19:52:28.533Z"
@@ -1544,13 +1481,13 @@
       {
         "stars": 56490,
         "at": "2026-10-17T03:31:04.440Z"
+      },
+      {
+        "stars": 56592,
+        "at": "2026-10-17T08:20:22.667Z"
       }
     ],
     "EpicGames/raddebugger": [
-      {
-        "stars": 8283,
-        "at": "2026-10-10T04:56:36.702Z"
-      },
       {
         "stars": 8323,
         "at": "2026-10-10T19:52:29.377Z"
@@ -1614,10 +1551,6 @@
     ],
     "storytold/artcraft": [
       {
-        "stars": 11981,
-        "at": "2026-10-10T04:56:35.892Z"
-      },
-      {
         "stars": 13931,
         "at": "2026-10-10T19:52:28.555Z"
       },
@@ -1680,13 +1613,13 @@
       {
         "stars": 30730,
         "at": "2026-10-17T03:31:04.470Z"
+      },
+      {
+        "stars": 30978,
+        "at": "2026-10-17T08:20:22.668Z"
       }
     ],
     "anthropics/knowledge-work-plugins": [
-      {
-        "stars": 28374,
-        "at": "2026-10-10T04:56:35.911Z"
-      },
       {
         "stars": 28721,
         "at": "2026-10-10T19:52:29.350Z"
@@ -1700,29 +1633,7 @@
         "at": "2026-10-11T04:44:15.209Z"
       }
     ],
-    "alibaba/open-code-review": [
-      {
-        "stars": 45425,
-        "at": "2026-10-10T04:56:35.921Z"
-      }
-    ],
-    "Robbyant/lingbot-map": [
-      {
-        "stars": 17781,
-        "at": "2026-10-10T04:56:35.923Z"
-      }
-    ],
-    "BerriAI/litellm": [
-      {
-        "stars": 60755,
-        "at": "2026-10-10T04:56:35.926Z"
-      }
-    ],
     "twostraws/SwiftUI-Agent-Skill": [
-      {
-        "stars": 5544,
-        "at": "2026-10-10T04:56:36.661Z"
-      },
       {
         "stars": 5902,
         "at": "2026-10-14T13:25:21.089Z"
@@ -1868,6 +1779,10 @@
       {
         "stars": 1561,
         "at": "2026-10-17T03:31:05.188Z"
+      },
+      {
+        "stars": 1588,
+        "at": "2026-10-17T08:20:23.375Z"
       }
     ],
     "lyogavin/airllm": [
@@ -2080,6 +1995,10 @@
       {
         "stars": 71428,
         "at": "2026-10-17T03:31:03.601Z"
+      },
+      {
+        "stars": 71830,
+        "at": "2026-10-17T08:20:21.941Z"
       }
     ],
     "vercel-labs/skills": [
@@ -2196,6 +2115,10 @@
       {
         "stars": 51595,
         "at": "2026-10-17T03:31:03.581Z"
+      },
+      {
+        "stars": 51785,
+        "at": "2026-10-17T08:20:21.922Z"
       }
     ],
     "ifixai-ai/iFixAi": [
@@ -2244,6 +2167,10 @@
       {
         "stars": 53565,
         "at": "2026-10-17T03:31:03.655Z"
+      },
+      {
+        "stars": 53676,
+        "at": "2026-10-17T08:20:21.912Z"
       }
     ],
     "rust-lang/rust": [
@@ -2344,6 +2271,10 @@
       {
         "stars": 89696,
         "at": "2026-10-17T03:31:04.430Z"
+      },
+      {
+        "stars": 89828,
+        "at": "2026-10-17T08:20:22.662Z"
       }
     ],
     "ruvnet/ruflo": [
@@ -2374,6 +2305,10 @@
       {
         "stars": 75678,
         "at": "2026-10-17T03:31:03.613Z"
+      },
+      {
+        "stars": 75754,
+        "at": "2026-10-17T08:20:21.927Z"
       }
     ],
     "affaan-m/ECC": [
@@ -2404,6 +2339,10 @@
       {
         "stars": 281604,
         "at": "2026-10-17T03:31:03.550Z"
+      },
+      {
+        "stars": 281777,
+        "at": "2026-10-17T08:20:21.953Z"
       }
     ],
     "obra/superpowers": [
@@ -2434,6 +2373,10 @@
       {
         "stars": 300732,
         "at": "2026-10-17T03:31:03.630Z"
+      },
+      {
+        "stars": 300868,
+        "at": "2026-10-17T08:20:21.912Z"
       }
     ],
     "anthropics/claude-plugins-official": [
@@ -2464,6 +2407,10 @@
       {
         "stars": 40703,
         "at": "2026-10-17T03:31:03.588Z"
+      },
+      {
+        "stars": 40963,
+        "at": "2026-10-17T08:20:21.950Z"
       }
     ],
     "JuliusBrussee/caveman": [
@@ -2512,6 +2459,10 @@
       {
         "stars": 7038,
         "at": "2026-10-17T03:31:04.393Z"
+      },
+      {
+        "stars": 7216,
+        "at": "2026-10-17T08:20:22.641Z"
       }
     ],
     "lightseekorg/tokenspeed": [
@@ -2550,6 +2501,10 @@
       {
         "stars": 8120,
         "at": "2026-10-17T03:31:03.649Z"
+      },
+      {
+        "stars": 8177,
+        "at": "2026-10-17T08:20:21.951Z"
       }
     ],
     "MadsLorentzen/ai-job-search": [
@@ -2564,6 +2519,10 @@
       {
         "stars": 48663,
         "at": "2026-10-17T03:31:04.393Z"
+      },
+      {
+        "stars": 48940,
+        "at": "2026-10-17T08:20:22.658Z"
       }
     ],
     "hmjz100/LinkSwift": [
@@ -2578,11 +2537,14 @@
       {
         "stars": 23836,
         "at": "2026-10-17T03:31:04.383Z"
+      },
+      {
+        "stars": 24088,
+        "at": "2026-10-17T08:20:22.654Z"
       }
     ]
   },
   "sentAlerts": {
-    "cathrynlavery/diagram-design|72h": "2026-10-10T04:56:37.412Z",
     "storytold/artcraft|72h": "2026-10-11T20:00:10.989Z",
     "bilawalsidhu/gods-eye-view|24h": "2026-10-12T17:30:46.560Z",
     "boykopovar/AnyPS5|24h": "2026-10-13T11:31:01.047Z",
