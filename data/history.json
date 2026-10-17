@@ -370,6 +370,34 @@
       "language": "JavaScript",
       "url": "https://github.com/hmjz100/LinkSwift",
       "firstSeenAt": "2026-10-16T16:17:21.948Z"
+    },
+    "akitaonrails/ai-memory": {
+      "fullName": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "firstSeenAt": "2026-10-17T15:12:15.858Z"
+    },
+    "stablyai/orca": {
+      "fullName": "stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "url": "https://github.com/stablyai/orca",
+      "firstSeenAt": "2026-10-17T15:12:15.880Z"
+    },
+    "anthropics/claude-code": {
+      "fullName": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "url": "https://github.com/anthropics/claude-code",
+      "firstSeenAt": "2026-10-17T15:12:15.892Z"
+    },
+    "anomalyco/opencode": {
+      "fullName": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "url": "https://github.com/anomalyco/opencode",
+      "firstSeenAt": "2026-10-17T15:12:16.626Z"
     }
   },
   "snapshots": {
@@ -503,6 +531,10 @@
       {
         "stars": 294369,
         "at": "2026-10-17T08:20:22.652Z"
+      },
+      {
+        "stars": 294700,
+        "at": "2026-10-17T15:12:17.383Z"
       }
     ],
     "mvschwarz/openrig": [
@@ -627,6 +659,10 @@
       {
         "stars": 30349,
         "at": "2026-10-17T08:20:21.920Z"
+      },
+      {
+        "stars": 30440,
+        "at": "2026-10-17T15:12:16.595Z"
       }
     ],
     "heygen-com/hyperframes": [
@@ -729,6 +765,10 @@
       {
         "stars": 65513,
         "at": "2026-10-17T08:20:22.647Z"
+      },
+      {
+        "stars": 65720,
+        "at": "2026-10-17T15:12:16.635Z"
       }
     ],
     "cursor/plugins": [
@@ -1071,6 +1111,10 @@
       {
         "stars": 40180,
         "at": "2026-10-17T08:20:22.661Z"
+      },
+      {
+        "stars": 40837,
+        "at": "2026-10-17T15:12:16.616Z"
       }
     ],
     "earthtojake/text-to-cad": [
@@ -1383,6 +1427,10 @@
       {
         "stars": 296071,
         "at": "2026-10-17T08:20:22.667Z"
+      },
+      {
+        "stars": 301889,
+        "at": "2026-10-17T15:12:16.634Z"
       }
     ],
     "cathrynlavery/diagram-design": [
@@ -1485,6 +1533,10 @@
       {
         "stars": 56592,
         "at": "2026-10-17T08:20:22.667Z"
+      },
+      {
+        "stars": 56796,
+        "at": "2026-10-17T15:12:16.609Z"
       }
     ],
     "EpicGames/raddebugger": [
@@ -1617,6 +1669,10 @@
       {
         "stars": 30978,
         "at": "2026-10-17T08:20:22.668Z"
+      },
+      {
+        "stars": 31376,
+        "at": "2026-10-17T15:12:16.631Z"
       }
     ],
     "anthropics/knowledge-work-plugins": [
@@ -1783,6 +1839,10 @@
       {
         "stars": 1588,
         "at": "2026-10-17T08:20:23.375Z"
+      },
+      {
+        "stars": 1654,
+        "at": "2026-10-17T15:12:17.363Z"
       }
     ],
     "lyogavin/airllm": [
@@ -1999,6 +2059,10 @@
       {
         "stars": 71830,
         "at": "2026-10-17T08:20:21.941Z"
+      },
+      {
+        "stars": 72499,
+        "at": "2026-10-17T15:12:15.863Z"
       }
     ],
     "vercel-labs/skills": [
@@ -2119,6 +2183,10 @@
       {
         "stars": 51785,
         "at": "2026-10-17T08:20:21.922Z"
+      },
+      {
+        "stars": 52028,
+        "at": "2026-10-17T15:12:15.849Z"
       }
     ],
     "ifixai-ai/iFixAi": [
@@ -2171,6 +2239,10 @@
       {
         "stars": 53676,
         "at": "2026-10-17T08:20:21.912Z"
+      },
+      {
+        "stars": 53859,
+        "at": "2026-10-17T15:12:15.870Z"
       }
     ],
     "rust-lang/rust": [
@@ -2275,6 +2347,10 @@
       {
         "stars": 89828,
         "at": "2026-10-17T08:20:22.662Z"
+      },
+      {
+        "stars": 90046,
+        "at": "2026-10-17T15:12:16.652Z"
       }
     ],
     "ruvnet/ruflo": [
@@ -2309,6 +2385,10 @@
       {
         "stars": 75754,
         "at": "2026-10-17T08:20:21.927Z"
+      },
+      {
+        "stars": 75882,
+        "at": "2026-10-17T15:12:16.602Z"
       }
     ],
     "affaan-m/ECC": [
@@ -2343,6 +2423,10 @@
       {
         "stars": 281777,
         "at": "2026-10-17T08:20:21.953Z"
+      },
+      {
+        "stars": 282071,
+        "at": "2026-10-17T15:12:15.865Z"
       }
     ],
     "obra/superpowers": [
@@ -2411,6 +2495,10 @@
       {
         "stars": 40963,
         "at": "2026-10-17T08:20:21.950Z"
+      },
+      {
+        "stars": 41307,
+        "at": "2026-10-17T15:12:15.884Z"
       }
     ],
     "JuliusBrussee/caveman": [
@@ -2463,6 +2551,10 @@
       {
         "stars": 7216,
         "at": "2026-10-17T08:20:22.641Z"
+      },
+      {
+        "stars": 7486,
+        "at": "2026-10-17T15:12:16.630Z"
       }
     ],
     "lightseekorg/tokenspeed": [
@@ -2505,6 +2597,10 @@
       {
         "stars": 8177,
         "at": "2026-10-17T08:20:21.951Z"
+      },
+      {
+        "stars": 8300,
+        "at": "2026-10-17T15:12:15.856Z"
       }
     ],
     "MadsLorentzen/ai-job-search": [
@@ -2523,6 +2619,10 @@
       {
         "stars": 48940,
         "at": "2026-10-17T08:20:22.658Z"
+      },
+      {
+        "stars": 49551,
+        "at": "2026-10-17T15:12:15.835Z"
       }
     ],
     "hmjz100/LinkSwift": [
@@ -2541,6 +2641,30 @@
       {
         "stars": 24088,
         "at": "2026-10-17T08:20:22.654Z"
+      }
+    ],
+    "akitaonrails/ai-memory": [
+      {
+        "stars": 9756,
+        "at": "2026-10-17T15:12:15.858Z"
+      }
+    ],
+    "stablyai/orca": [
+      {
+        "stars": 94998,
+        "at": "2026-10-17T15:12:15.880Z"
+      }
+    ],
+    "anthropics/claude-code": [
+      {
+        "stars": 151455,
+        "at": "2026-10-17T15:12:15.892Z"
+      }
+    ],
+    "anomalyco/opencode": [
+      {
+        "stars": 214765,
+        "at": "2026-10-17T15:12:16.626Z"
       }
     ]
   },
