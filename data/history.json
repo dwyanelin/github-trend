@@ -331,7 +331,7 @@
     },
     "xerj-org/xerj": {
       "fullName": "xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "language": "Rust",
       "url": "https://github.com/xerj-org/xerj",
       "firstSeenAt": "2026-10-15T16:32:15.850Z"
@@ -403,10 +403,6 @@
   "snapshots": {
     "pytorch/pytorch": [
       {
-        "stars": 104133,
-        "at": "2026-10-10T23:19:26.478Z"
-      },
-      {
         "stars": 104181,
         "at": "2026-10-11T04:44:14.394Z"
       },
@@ -428,10 +424,6 @@
       }
     ],
     "mattpocock/skills": [
-      {
-        "stars": 284406,
-        "at": "2026-10-10T23:19:26.470Z"
-      },
       {
         "stars": 284744,
         "at": "2026-10-11T04:44:14.373Z"
@@ -535,13 +527,13 @@
       {
         "stars": 295023,
         "at": "2026-10-17T22:00:23.300Z"
+      },
+      {
+        "stars": 295216,
+        "at": "2026-10-18T03:38:22.415Z"
       }
     ],
     "mvschwarz/openrig": [
-      {
-        "stars": 6727,
-        "at": "2026-10-10T23:19:27.205Z"
-      },
       {
         "stars": 6762,
         "at": "2026-10-11T04:44:15.248Z"
@@ -572,10 +564,6 @@
       }
     ],
     "mksglu/context-mode": [
-      {
-        "stars": 26294,
-        "at": "2026-10-10T23:19:26.424Z"
-      },
       {
         "stars": 26403,
         "at": "2026-10-11T04:44:14.452Z"
@@ -663,13 +651,13 @@
       {
         "stars": 30497,
         "at": "2026-10-17T22:00:22.594Z"
+      },
+      {
+        "stars": 30541,
+        "at": "2026-10-18T03:38:21.659Z"
       }
     ],
     "heygen-com/hyperframes": [
-      {
-        "stars": 60341,
-        "at": "2026-10-10T23:19:27.198Z"
-      },
       {
         "stars": 60427,
         "at": "2026-10-11T04:44:15.205Z"
@@ -773,13 +761,13 @@
       {
         "stars": 65932,
         "at": "2026-10-17T22:00:22.603Z"
+      },
+      {
+        "stars": 66063,
+        "at": "2026-10-18T03:38:21.676Z"
       }
     ],
     "cursor/plugins": [
-      {
-        "stars": 10751,
-        "at": "2026-10-10T23:19:27.199Z"
-      },
       {
         "stars": 10776,
         "at": "2026-10-11T04:44:15.223Z"
@@ -859,10 +847,6 @@
     ],
     "flutter/flutter": [
       {
-        "stars": 179496,
-        "at": "2026-10-10T23:19:26.452Z"
-      },
-      {
         "stars": 179598,
         "at": "2026-10-11T04:44:14.374Z"
       },
@@ -925,19 +909,11 @@
     ],
     "pingdotgg/t3code": [
       {
-        "stars": 26809,
-        "at": "2026-10-10T23:19:27.177Z"
-      },
-      {
         "stars": 26841,
         "at": "2026-10-11T04:44:15.201Z"
       }
     ],
     "thedotmack/claude-mem": [
-      {
-        "stars": 99219,
-        "at": "2026-10-10T23:19:27.149Z"
-      },
       {
         "stars": 99333,
         "at": "2026-10-11T04:44:15.210Z"
@@ -1000,10 +976,6 @@
       }
     ],
     "boykopovar/AnyPS5": [
-      {
-        "stars": 26663,
-        "at": "2026-10-10T23:19:26.408Z"
-      },
       {
         "stars": 27315,
         "at": "2026-10-11T04:44:14.400Z"
@@ -1107,13 +1079,13 @@
       {
         "stars": 41579,
         "at": "2026-10-17T22:00:22.592Z"
+      },
+      {
+        "stars": 41909,
+        "at": "2026-10-18T03:38:21.671Z"
       }
     ],
     "earthtojake/text-to-cad": [
-      {
-        "stars": 18981,
-        "at": "2026-10-10T23:19:27.180Z"
-      },
       {
         "stars": 19022,
         "at": "2026-10-11T04:44:15.232Z"
@@ -1209,10 +1181,6 @@
     ],
     "tester-army/e2e": [
       {
-        "stars": 8710,
-        "at": "2026-10-10T23:19:28.068Z"
-      },
-      {
         "stars": 8769,
         "at": "2026-10-11T04:44:15.996Z"
       },
@@ -1275,10 +1243,6 @@
     ],
     "DuarteSantos8/openGym": [
       {
-        "stars": 9213,
-        "at": "2026-10-10T23:19:27.950Z"
-      },
-      {
         "stars": 9320,
         "at": "2026-10-11T04:44:15.978Z"
       },
@@ -1308,10 +1272,6 @@
       }
     ],
     "morluto/rea": [
-      {
-        "stars": 71346,
-        "at": "2026-10-10T23:19:26.438Z"
-      },
       {
         "stars": 77008,
         "at": "2026-10-11T04:44:14.418Z"
@@ -1415,13 +1375,13 @@
       {
         "stars": 306618,
         "at": "2026-10-17T22:00:22.534Z"
+      },
+      {
+        "stars": 309297,
+        "at": "2026-10-18T03:38:21.679Z"
       }
     ],
     "cathrynlavery/diagram-design": [
-      {
-        "stars": 48895,
-        "at": "2026-10-10T23:19:26.407Z"
-      },
       {
         "stars": 49143,
         "at": "2026-10-11T04:44:14.358Z"
@@ -1525,13 +1485,13 @@
       {
         "stars": 56957,
         "at": "2026-10-17T22:00:22.563Z"
+      },
+      {
+        "stars": 57095,
+        "at": "2026-10-18T03:38:21.665Z"
       }
     ],
     "EpicGames/raddebugger": [
-      {
-        "stars": 8327,
-        "at": "2026-10-10T23:19:27.184Z"
-      },
       {
         "stars": 8337,
         "at": "2026-10-11T04:44:15.217Z"
@@ -1586,10 +1546,6 @@
       }
     ],
     "storytold/artcraft": [
-      {
-        "stars": 14371,
-        "at": "2026-10-10T23:19:26.421Z"
-      },
       {
         "stars": 14891,
         "at": "2026-10-11T04:44:14.358Z"
@@ -1661,13 +1617,13 @@
       {
         "stars": 31701,
         "at": "2026-10-17T22:00:22.586Z"
+      },
+      {
+        "stars": 31877,
+        "at": "2026-10-18T03:38:21.687Z"
       }
     ],
     "anthropics/knowledge-work-plugins": [
-      {
-        "stars": 28791,
-        "at": "2026-10-10T23:19:27.192Z"
-      },
       {
         "stars": 28891,
         "at": "2026-10-11T04:44:15.209Z"
@@ -1709,19 +1665,11 @@
     ],
     "hugohe3/ppt-master": [
       {
-        "stars": 59389,
-        "at": "2026-10-10T23:19:26.410Z"
-      },
-      {
         "stars": 59647,
         "at": "2026-10-11T04:44:14.368Z"
       }
     ],
     "tensorflow/tensorflow": [
-      {
-        "stars": 200717,
-        "at": "2026-10-10T23:19:26.450Z"
-      },
       {
         "stars": 200769,
         "at": "2026-10-11T04:44:14.404Z"
@@ -1729,29 +1677,17 @@
     ],
     "multica-ai/andrej-karpathy-skills": [
       {
-        "stars": 218229,
-        "at": "2026-10-10T23:19:27.216Z"
-      },
-      {
         "stars": 218402,
         "at": "2026-10-11T04:44:15.212Z"
       }
     ],
     "huggingface/transformers": [
       {
-        "stars": 167234,
-        "at": "2026-10-10T23:19:27.234Z"
-      },
-      {
         "stars": 167340,
         "at": "2026-10-11T04:44:15.217Z"
       }
     ],
     "ranxianglei/billion-context": [
-      {
-        "stars": 774,
-        "at": "2026-10-10T23:19:27.896Z"
-      },
       {
         "stars": 797,
         "at": "2026-10-11T04:44:15.989Z"
@@ -1815,6 +1751,10 @@
       {
         "stars": 1706,
         "at": "2026-10-17T22:00:23.303Z"
+      },
+      {
+        "stars": 1749,
+        "at": "2026-10-18T03:38:22.471Z"
       }
     ],
     "lyogavin/airllm": [
@@ -2043,6 +1983,10 @@
       {
         "stars": 73147,
         "at": "2026-10-17T22:00:21.828Z"
+      },
+      {
+        "stars": 73590,
+        "at": "2026-10-18T03:38:20.933Z"
       }
     ],
     "vercel-labs/skills": [
@@ -2175,6 +2119,10 @@
       {
         "stars": 52189,
         "at": "2026-10-17T22:00:21.827Z"
+      },
+      {
+        "stars": 52319,
+        "at": "2026-10-18T03:38:20.956Z"
       }
     ],
     "ifixai-ai/iFixAi": [
@@ -2239,6 +2187,10 @@
       {
         "stars": 54003,
         "at": "2026-10-17T22:00:21.858Z"
+      },
+      {
+        "stars": 54124,
+        "at": "2026-10-18T03:38:20.936Z"
       }
     ],
     "rust-lang/rust": [
@@ -2355,6 +2307,10 @@
       {
         "stars": 90211,
         "at": "2026-10-17T22:00:22.607Z"
+      },
+      {
+        "stars": 90342,
+        "at": "2026-10-18T03:38:21.693Z"
       }
     ],
     "ruvnet/ruflo": [
@@ -2401,6 +2357,10 @@
       {
         "stars": 76011,
         "at": "2026-10-17T22:00:22.547Z"
+      },
+      {
+        "stars": 76125,
+        "at": "2026-10-18T03:38:21.666Z"
       }
     ],
     "affaan-m/ECC": [
@@ -2447,6 +2407,10 @@
       {
         "stars": 282401,
         "at": "2026-10-17T22:00:21.797Z"
+      },
+      {
+        "stars": 282607,
+        "at": "2026-10-18T03:38:20.973Z"
       }
     ],
     "obra/superpowers": [
@@ -2527,6 +2491,10 @@
       {
         "stars": 41647,
         "at": "2026-10-17T22:00:21.827Z"
+      },
+      {
+        "stars": 41883,
+        "at": "2026-10-18T03:38:20.961Z"
       }
     ],
     "JuliusBrussee/caveman": [
@@ -2591,6 +2559,10 @@
       {
         "stars": 7736,
         "at": "2026-10-17T22:00:22.544Z"
+      },
+      {
+        "stars": 7894,
+        "at": "2026-10-18T03:38:21.665Z"
       }
     ],
     "lightseekorg/tokenspeed": [
@@ -2645,6 +2617,10 @@
       {
         "stars": 8391,
         "at": "2026-10-17T22:00:21.812Z"
+      },
+      {
+        "stars": 8462,
+        "at": "2026-10-18T03:38:20.951Z"
       }
     ],
     "MadsLorentzen/ai-job-search": [
@@ -2675,6 +2651,10 @@
       {
         "stars": 50232,
         "at": "2026-10-17T22:00:21.827Z"
+      },
+      {
+        "stars": 50626,
+        "at": "2026-10-18T03:38:20.933Z"
       }
     ],
     "hmjz100/LinkSwift": [
@@ -2707,6 +2687,10 @@
       {
         "stars": 9869,
         "at": "2026-10-17T22:00:21.839Z"
+      },
+      {
+        "stars": 9990,
+        "at": "2026-10-18T03:38:20.939Z"
       }
     ],
     "stablyai/orca": [
@@ -2721,6 +2705,10 @@
       {
         "stars": 95312,
         "at": "2026-10-17T22:00:21.858Z"
+      },
+      {
+        "stars": 95537,
+        "at": "2026-10-18T03:38:20.953Z"
       }
     ],
     "anthropics/claude-code": [
@@ -2735,6 +2723,10 @@
       {
         "stars": 151659,
         "at": "2026-10-17T22:00:21.846Z"
+      },
+      {
+        "stars": 151838,
+        "at": "2026-10-18T03:38:20.967Z"
       }
     ],
     "anomalyco/opencode": [
@@ -2749,6 +2741,10 @@
       {
         "stars": 215170,
         "at": "2026-10-17T22:00:22.585Z"
+      },
+      {
+        "stars": 215504,
+        "at": "2026-10-18T03:38:21.726Z"
       }
     ]
   },
