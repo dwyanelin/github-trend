@@ -28,20 +28,6 @@
       "url": "https://github.com/cursor/plugins",
       "firstSeenAt": "2026-10-01T15:12:25.001Z"
     },
-    "flutter/flutter": {
-      "fullName": "flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "url": "https://github.com/flutter/flutter",
-      "firstSeenAt": "2026-10-01T15:12:26.546Z"
-    },
-    "thedotmack/claude-mem": {
-      "fullName": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "language": "TypeScript",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "firstSeenAt": "2026-10-03T13:08:25.614Z"
-    },
     "boykopovar/AnyPS5": {
       "fullName": "boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
@@ -55,13 +41,6 @@
       "language": "Python",
       "url": "https://github.com/earthtojake/text-to-cad",
       "firstSeenAt": "2026-10-04T13:48:18.651Z"
-    },
-    "tester-army/e2e": {
-      "fullName": "tester-army/e2e",
-      "description": "Next generation e2e testing framework for web and mobile apps.",
-      "language": "TypeScript",
-      "url": "https://github.com/tester-army/e2e",
-      "firstSeenAt": "2026-10-04T13:48:18.663Z"
     },
     "DuarteSantos8/openGym": {
       "fullName": "DuarteSantos8/openGym",
@@ -83,13 +62,6 @@
       "language": "HTML",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "firstSeenAt": "2026-10-06T11:05:31.454Z"
-    },
-    "EpicGames/raddebugger": {
-      "fullName": "EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "url": "https://github.com/EpicGames/raddebugger",
-      "firstSeenAt": "2026-10-07T15:19:12.853Z"
     },
     "storytold/artcraft": {
       "fullName": "storytold/artcraft",
@@ -119,20 +91,6 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "firstSeenAt": "2026-10-13T11:30:59.545Z"
     },
-    "xtool-org/xtool": {
-      "fullName": "xtool-org/xtool",
-      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-      "language": "Swift",
-      "url": "https://github.com/xtool-org/xtool",
-      "firstSeenAt": "2026-10-13T11:30:59.615Z"
-    },
-    "vxcontrol/pentagi": {
-      "fullName": "vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "firstSeenAt": "2026-10-14T13:25:20.226Z"
-    },
     "K-Dense-AI/scientific-agent-skills": {
       "fullName": "K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
@@ -140,40 +98,12 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "firstSeenAt": "2026-10-14T13:25:20.227Z"
     },
-    "ifixai-ai/iFixAi": {
-      "fullName": "ifixai-ai/iFixAi",
-      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "language": "Python",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "firstSeenAt": "2026-10-14T13:25:20.232Z"
-    },
     "HKUDS/CLI-Anything": {
       "fullName": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "firstSeenAt": "2026-10-14T13:25:20.259Z"
-    },
-    "rust-lang/rust": {
-      "fullName": "rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "url": "https://github.com/rust-lang/rust",
-      "firstSeenAt": "2026-10-14T13:25:20.272Z"
-    },
-    "nvm-sh/nvm": {
-      "fullName": "nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "language": "Shell",
-      "url": "https://github.com/nvm-sh/nvm",
-      "firstSeenAt": "2026-10-14T13:25:20.347Z"
-    },
-    "ntdevlabs/tiny11builder": {
-      "fullName": "ntdevlabs/tiny11builder",
-      "description": "WinUI app for building smaller, customized Windows 11 images.",
-      "language": "C#",
-      "url": "https://github.com/ntdevlabs/tiny11builder",
-      "firstSeenAt": "2026-10-14T13:25:21.103Z"
     },
     "NationalSecurityAgency/ghidra": {
       "fullName": "NationalSecurityAgency/ghidra",
@@ -412,14 +342,17 @@
       "language": "Go",
       "url": "https://github.com/strelov1/freehire",
       "firstSeenAt": "2026-10-21T16:49:31.499Z"
+    },
+    "hugohe3/ppt-master": {
+      "fullName": "hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "firstSeenAt": "2026-10-22T09:14:30.515Z"
     }
   },
   "snapshots": {
     "mattpocock/skills": [
-      {
-        "stars": 291883,
-        "at": "2026-10-15T08:58:26.381Z"
-      },
       {
         "stars": 292426,
         "at": "2026-10-15T16:32:15.890Z"
@@ -474,10 +407,6 @@
       }
     ],
     "mksglu/context-mode": [
-      {
-        "stars": 29476,
-        "at": "2026-10-15T08:58:25.513Z"
-      },
       {
         "stars": 29668,
         "at": "2026-10-15T16:32:15.035Z"
@@ -593,13 +522,13 @@
       {
         "stars": 31684,
         "at": "2026-10-22T03:48:43.273Z"
+      },
+      {
+        "stars": 31731,
+        "at": "2026-10-22T09:14:29.682Z"
       }
     ],
     "heygen-com/hyperframes": [
-      {
-        "stars": 64004,
-        "at": "2026-10-15T08:58:26.388Z"
-      },
       {
         "stars": 64302,
         "at": "2026-10-15T16:32:15.910Z"
@@ -715,6 +644,10 @@
       {
         "stars": 69322,
         "at": "2026-10-22T03:48:43.260Z"
+      },
+      {
+        "stars": 69546,
+        "at": "2026-10-22T09:14:30.496Z"
       }
     ],
     "cursor/plugins": [
@@ -813,25 +746,13 @@
       {
         "stars": 13434,
         "at": "2026-10-22T03:48:43.993Z"
-      }
-    ],
-    "flutter/flutter": [
+      },
       {
-        "stars": 180207,
-        "at": "2026-10-15T08:58:27.233Z"
-      }
-    ],
-    "thedotmack/claude-mem": [
-      {
-        "stars": 100865,
-        "at": "2026-10-15T08:58:26.404Z"
+        "stars": 13489,
+        "at": "2026-10-22T09:14:30.509Z"
       }
     ],
     "boykopovar/AnyPS5": [
-      {
-        "stars": 37622,
-        "at": "2026-10-15T08:58:26.440Z"
-      },
       {
         "stars": 38127,
         "at": "2026-10-15T16:32:15.827Z"
@@ -939,10 +860,6 @@
     ],
     "earthtojake/text-to-cad": [
       {
-        "stars": 20521,
-        "at": "2026-10-15T08:58:27.136Z"
-      },
-      {
         "stars": 20627,
         "at": "2026-10-15T16:32:15.843Z"
       },
@@ -985,12 +902,10 @@
       {
         "stars": 22328,
         "at": "2026-10-22T03:48:44.021Z"
-      }
-    ],
-    "tester-army/e2e": [
+      },
       {
-        "stars": 10650,
-        "at": "2026-10-15T08:58:26.406Z"
+        "stars": 22415,
+        "at": "2026-10-22T09:14:30.498Z"
       }
     ],
     "DuarteSantos8/openGym": [
@@ -1012,10 +927,6 @@
       }
     ],
     "morluto/rea": [
-      {
-        "stars": 254453,
-        "at": "2026-10-15T08:58:25.427Z"
-      },
       {
         "stars": 263783,
         "at": "2026-10-15T16:32:15.010Z"
@@ -1131,13 +1042,13 @@
       {
         "stars": 358992,
         "at": "2026-10-22T03:48:43.272Z"
+      },
+      {
+        "stars": 361209,
+        "at": "2026-10-22T09:14:29.659Z"
       }
     ],
     "cathrynlavery/diagram-design": [
-      {
-        "stars": 55573,
-        "at": "2026-10-15T08:58:26.398Z"
-      },
       {
         "stars": 55768,
         "at": "2026-10-15T16:32:15.875Z"
@@ -1243,12 +1154,6 @@
         "at": "2026-10-21T09:12:09.158Z"
       }
     ],
-    "EpicGames/raddebugger": [
-      {
-        "stars": 8554,
-        "at": "2026-10-15T08:58:26.411Z"
-      }
-    ],
     "storytold/artcraft": [
       {
         "stars": 30204,
@@ -1341,10 +1246,6 @@
     ],
     "twostraws/SwiftUI-Agent-Skill": [
       {
-        "stars": 6016,
-        "at": "2026-10-15T08:58:26.381Z"
-      },
-      {
         "stars": 6055,
         "at": "2026-10-15T16:32:15.803Z"
       },
@@ -1416,10 +1317,6 @@
       }
     ],
     "debpalash/VoiceStudio": [
-      {
-        "stars": 67511,
-        "at": "2026-10-15T08:58:25.666Z"
-      },
       {
         "stars": 68364,
         "at": "2026-10-15T16:32:14.972Z"
@@ -1535,25 +1432,13 @@
       {
         "stars": 80636,
         "at": "2026-10-22T03:48:43.255Z"
-      }
-    ],
-    "xtool-org/xtool": [
+      },
       {
-        "stars": 11284,
-        "at": "2026-10-15T08:58:25.483Z"
-      }
-    ],
-    "vxcontrol/pentagi": [
-      {
-        "stars": 30077,
-        "at": "2026-10-15T08:58:25.490Z"
+        "stars": 80956,
+        "at": "2026-10-22T09:14:29.621Z"
       }
     ],
     "K-Dense-AI/scientific-agent-skills": [
-      {
-        "stars": 49790,
-        "at": "2026-10-15T08:58:25.458Z"
-      },
       {
         "stars": 50193,
         "at": "2026-10-15T16:32:14.999Z"
@@ -1649,19 +1534,13 @@
       {
         "stars": 53632,
         "at": "2026-10-22T03:48:43.263Z"
-      }
-    ],
-    "ifixai-ai/iFixAi": [
+      },
       {
-        "stars": 27982,
-        "at": "2026-10-15T08:58:25.449Z"
+        "stars": 53733,
+        "at": "2026-10-22T09:14:29.689Z"
       }
     ],
     "HKUDS/CLI-Anything": [
-      {
-        "stars": 52828,
-        "at": "2026-10-15T08:58:25.468Z"
-      },
       {
         "stars": 53312,
         "at": "2026-10-16T16:17:20.699Z"
@@ -1745,31 +1624,13 @@
       {
         "stars": 55990,
         "at": "2026-10-22T03:48:44.011Z"
-      }
-    ],
-    "rust-lang/rust": [
+      },
       {
-        "stars": 120221,
-        "at": "2026-10-15T08:58:25.490Z"
-      }
-    ],
-    "nvm-sh/nvm": [
-      {
-        "stars": 95524,
-        "at": "2026-10-15T08:58:25.469Z"
-      }
-    ],
-    "ntdevlabs/tiny11builder": [
-      {
-        "stars": 20408,
-        "at": "2026-10-15T08:58:26.370Z"
+        "stars": 56068,
+        "at": "2026-10-22T09:14:30.470Z"
       }
     ],
     "NationalSecurityAgency/ghidra": [
-      {
-        "stars": 87977,
-        "at": "2026-10-15T08:58:26.407Z"
-      },
       {
         "stars": 88381,
         "at": "2026-10-15T16:32:14.983Z"
@@ -1885,6 +1746,10 @@
       {
         "stars": 92691,
         "at": "2026-10-22T03:48:43.246Z"
+      },
+      {
+        "stars": 92817,
+        "at": "2026-10-22T09:14:29.698Z"
       }
     ],
     "ruvnet/ruflo": [
@@ -2003,6 +1868,10 @@
       {
         "stars": 78244,
         "at": "2026-10-22T03:48:43.273Z"
+      },
+      {
+        "stars": 78303,
+        "at": "2026-10-22T09:14:29.677Z"
       }
     ],
     "affaan-m/ECC": [
@@ -2209,6 +2078,10 @@
       {
         "stars": 43679,
         "at": "2026-10-22T03:48:43.300Z"
+      },
+      {
+        "stars": 43737,
+        "at": "2026-10-22T09:14:29.660Z"
       }
     ],
     "JuliusBrussee/caveman": [
@@ -2391,6 +2264,10 @@
       {
         "stars": 9160,
         "at": "2026-10-22T03:48:43.275Z"
+      },
+      {
+        "stars": 9185,
+        "at": "2026-10-22T09:14:29.695Z"
       }
     ],
     "MadsLorentzen/ai-job-search": [
@@ -2569,6 +2446,10 @@
       {
         "stars": 12429,
         "at": "2026-10-22T03:48:42.495Z"
+      },
+      {
+        "stars": 12573,
+        "at": "2026-10-22T09:14:29.657Z"
       }
     ],
     "stablyai/orca": [
@@ -2655,6 +2536,10 @@
       {
         "stars": 101559,
         "at": "2026-10-22T03:48:42.485Z"
+      },
+      {
+        "stars": 101943,
+        "at": "2026-10-22T09:14:28.826Z"
       }
     ],
     "anthropics/claude-code": [
@@ -2779,6 +2664,10 @@
       {
         "stars": 219781,
         "at": "2026-10-22T03:48:44.039Z"
+      },
+      {
+        "stars": 219908,
+        "at": "2026-10-22T09:14:30.480Z"
       }
     ],
     "Comfy-Org/ComfyUI": [
@@ -2845,6 +2734,10 @@
       {
         "stars": 141624,
         "at": "2026-10-22T03:48:42.524Z"
+      },
+      {
+        "stars": 141804,
+        "at": "2026-10-22T09:14:28.862Z"
       }
     ],
     "Kruk2/jasna": [
@@ -2973,6 +2866,10 @@
       {
         "stars": 77326,
         "at": "2026-10-22T03:48:42.507Z"
+      },
+      {
+        "stars": 77460,
+        "at": "2026-10-22T09:14:28.852Z"
       }
     ],
     "withmarbleapp/os-taxonomy": [
@@ -3037,6 +2934,10 @@
       {
         "stars": 42898,
         "at": "2026-10-22T03:48:42.483Z"
+      },
+      {
+        "stars": 43033,
+        "at": "2026-10-22T09:14:28.820Z"
       }
     ],
     "DietrichGebert/ponytail": [
@@ -3067,6 +2968,10 @@
       {
         "stars": 171913,
         "at": "2026-10-22T03:48:42.518Z"
+      },
+      {
+        "stars": 172350,
+        "at": "2026-10-22T09:14:28.812Z"
       }
     ],
     "msitarzewski/agency-agents": [
@@ -3115,6 +3020,10 @@
       {
         "stars": 36896,
         "at": "2026-10-22T03:48:42.465Z"
+      },
+      {
+        "stars": 37722,
+        "at": "2026-10-22T09:14:28.811Z"
       }
     ],
     "Graphify-Labs/graphify": [
@@ -3145,6 +3054,10 @@
       {
         "stars": 131825,
         "at": "2026-10-22T03:48:43.272Z"
+      },
+      {
+        "stars": 132120,
+        "at": "2026-10-22T09:14:29.687Z"
       }
     ],
     "anthropics/knowledge-work-plugins": [
@@ -3193,6 +3106,10 @@
       {
         "stars": 94946,
         "at": "2026-10-22T03:48:42.497Z"
+      },
+      {
+        "stars": 95071,
+        "at": "2026-10-22T09:14:28.812Z"
       }
     ],
     "sickn33/agentic-awesome-skills": [
@@ -3221,6 +3138,10 @@
       {
         "stars": 41492,
         "at": "2026-10-22T03:48:43.989Z"
+      },
+      {
+        "stars": 41524,
+        "at": "2026-10-22T09:14:30.471Z"
       }
     ],
     "supabase/supabase": [
@@ -3235,6 +3156,10 @@
       {
         "stars": 113099,
         "at": "2026-10-22T03:48:42.529Z"
+      },
+      {
+        "stars": 113219,
+        "at": "2026-10-22T09:14:28.817Z"
       }
     ],
     "twentyhq/twenty": [
@@ -3249,6 +3174,10 @@
       {
         "stars": 59265,
         "at": "2026-10-22T03:48:42.496Z"
+      },
+      {
+        "stars": 59444,
+        "at": "2026-10-22T09:14:28.837Z"
       }
     ],
     "strelov1/freehire": [
@@ -3259,11 +3188,20 @@
       {
         "stars": 2359,
         "at": "2026-10-21T23:03:38.703Z"
+      },
+      {
+        "stars": 2635,
+        "at": "2026-10-22T09:14:28.821Z"
+      }
+    ],
+    "hugohe3/ppt-master": [
+      {
+        "stars": 65618,
+        "at": "2026-10-22T09:14:30.515Z"
       }
     ]
   },
   "sentAlerts": {
-    "mattpocock/skills|24h": "2026-10-15T08:58:27.696Z",
     "NationalSecurityAgency/ghidra|24h": "2026-10-15T16:32:17.688Z",
     "DuarteSantos8/openGym|24h": "2026-10-15T16:32:17.688Z",
     "debpalash/VoiceStudio|72h": "2026-10-16T16:17:23.376Z",
@@ -3281,6 +3219,7 @@
     "cloudflare/security-audit-skill|24h": "2026-10-21T16:49:33.045Z",
     "DietrichGebert/ponytail|24h": "2026-10-21T16:49:33.046Z",
     "Graphify-Labs/graphify|24h": "2026-10-22T03:48:44.542Z",
-    "debpalash/VoiceStudio|24h": "2026-10-22T03:48:44.542Z"
+    "debpalash/VoiceStudio|24h": "2026-10-22T03:48:44.542Z",
+    "morluto/rea|24h": "2026-10-22T09:14:31.219Z"
   }
 }
