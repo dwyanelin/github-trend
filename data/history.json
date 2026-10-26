@@ -426,6 +426,48 @@
       "language": "",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "firstSeenAt": "2026-10-25T15:45:19.722Z"
+    },
+    "affaan-m/ECC": {
+      "fullName": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC",
+      "firstSeenAt": "2026-10-26T18:26:00.364Z"
+    },
+    "NVIDIA/SkillSpector": {
+      "fullName": "NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "language": "Python",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "firstSeenAt": "2026-10-26T18:26:00.376Z"
+    },
+    "nightly-labs/openbot": {
+      "fullName": "nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "url": "https://github.com/nightly-labs/openbot",
+      "firstSeenAt": "2026-10-26T18:26:00.390Z"
+    },
+    "Panniantong/Agent-Reach": {
+      "fullName": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "firstSeenAt": "2026-10-26T18:26:00.392Z"
+    },
+    "alchaincyf/huashu-design": {
+      "fullName": "alchaincyf/huashu-design",
+      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+      "language": "HTML",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "firstSeenAt": "2026-10-26T18:26:01.217Z"
+    },
+    "gitroomhq/postiz-app": {
+      "fullName": "gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "firstSeenAt": "2026-10-26T18:26:01.280Z"
     }
   },
   "snapshots": {
@@ -615,6 +657,10 @@
       {
         "stars": 72546,
         "at": "2026-10-26T09:53:28.576Z"
+      },
+      {
+        "stars": 72881,
+        "at": "2026-10-26T18:26:02.172Z"
       }
     ],
     "cursor/plugins": [
@@ -1041,6 +1087,10 @@
       {
         "stars": 87727,
         "at": "2026-10-26T09:53:27.668Z"
+      },
+      {
+        "stars": 88678,
+        "at": "2026-10-26T18:26:01.293Z"
       }
     ],
     "K-Dense-AI/scientific-agent-skills": [
@@ -1413,6 +1463,10 @@
       {
         "stars": 79372,
         "at": "2026-10-26T09:53:28.549Z"
+      },
+      {
+        "stars": 79475,
+        "at": "2026-10-26T18:26:01.277Z"
       }
     ],
     "anthropics/claude-plugins-official": [
@@ -1641,6 +1695,10 @@
       {
         "stars": 9770,
         "at": "2026-10-26T09:53:28.603Z"
+      },
+      {
+        "stars": 9807,
+        "at": "2026-10-26T18:26:02.094Z"
       }
     ],
     "MadsLorentzen/ai-job-search": [
@@ -1785,6 +1843,10 @@
       {
         "stars": 13627,
         "at": "2026-10-26T09:53:28.590Z"
+      },
+      {
+        "stars": 13741,
+        "at": "2026-10-26T18:26:02.091Z"
       }
     ],
     "stablyai/orca": [
@@ -1907,6 +1969,10 @@
       {
         "stars": 106386,
         "at": "2026-10-26T09:53:28.599Z"
+      },
+      {
+        "stars": 106833,
+        "at": "2026-10-26T18:26:01.319Z"
       }
     ],
     "anthropics/claude-code": [
@@ -2047,6 +2113,10 @@
       {
         "stars": 221711,
         "at": "2026-10-26T09:53:28.595Z"
+      },
+      {
+        "stars": 221874,
+        "at": "2026-10-26T18:26:01.295Z"
       }
     ],
     "Comfy-Org/ComfyUI": [
@@ -2169,6 +2239,10 @@
       {
         "stars": 143097,
         "at": "2026-10-26T09:53:28.579Z"
+      },
+      {
+        "stars": 143203,
+        "at": "2026-10-26T18:26:02.156Z"
       }
     ],
     "Kruk2/jasna": [
@@ -2497,6 +2571,10 @@
       {
         "stars": 47658,
         "at": "2026-10-26T09:53:27.700Z"
+      },
+      {
+        "stars": 48247,
+        "at": "2026-10-26T18:26:01.236Z"
       }
     ],
     "Graphify-Labs/graphify": [
@@ -2587,6 +2665,10 @@
       {
         "stars": 135638,
         "at": "2026-10-26T09:53:28.562Z"
+      },
+      {
+        "stars": 135967,
+        "at": "2026-10-26T18:26:01.256Z"
       }
     ],
     "anthropics/knowledge-work-plugins": [
@@ -2677,6 +2759,10 @@
       {
         "stars": 33085,
         "at": "2026-10-26T09:53:28.612Z"
+      },
+      {
+        "stars": 33171,
+        "at": "2026-10-26T18:26:01.267Z"
       }
     ],
     "vllm-project/vllm": [
@@ -2783,6 +2869,10 @@
       {
         "stars": 41524,
         "at": "2026-10-22T09:14:30.471Z"
+      },
+      {
+        "stars": 41780,
+        "at": "2026-10-26T18:26:02.117Z"
       }
     ],
     "supabase/supabase": [
@@ -3153,6 +3243,10 @@
       {
         "stars": 34844,
         "at": "2026-10-26T09:53:27.651Z"
+      },
+      {
+        "stars": 35759,
+        "at": "2026-10-26T18:26:00.364Z"
       }
     ],
     "pbakaus/impeccable": [
@@ -3195,6 +3289,10 @@
       {
         "stars": 88316,
         "at": "2026-10-26T09:53:27.734Z"
+      },
+      {
+        "stars": 88882,
+        "at": "2026-10-26T18:26:00.384Z"
       }
     ],
     "google-gemini/gemini-cli": [
@@ -3259,6 +3357,10 @@
       {
         "stars": 12042,
         "at": "2026-10-26T09:53:27.660Z"
+      },
+      {
+        "stars": 12288,
+        "at": "2026-10-26T18:26:00.376Z"
       }
     ],
     "jbiaojerry/ebook-treasure-chest": [
@@ -3345,6 +3447,10 @@
       {
         "stars": 5561,
         "at": "2026-10-26T09:53:27.637Z"
+      },
+      {
+        "stars": 6188,
+        "at": "2026-10-26T18:26:00.465Z"
       }
     ],
     "coollabsio/coolify": [
@@ -3389,6 +3495,10 @@
       {
         "stars": 2214,
         "at": "2026-10-26T09:53:27.670Z"
+      },
+      {
+        "stars": 2625,
+        "at": "2026-10-26T18:26:00.416Z"
       }
     ],
     "TauricResearch/TradingAgents": [
@@ -3411,6 +3521,10 @@
       {
         "stars": 115147,
         "at": "2026-10-26T09:53:27.647Z"
+      },
+      {
+        "stars": 115750,
+        "at": "2026-10-26T18:26:00.363Z"
       }
     ],
     "AgriciDaniel/claude-seo": [
@@ -3433,6 +3547,10 @@
       {
         "stars": 21595,
         "at": "2026-10-26T09:53:28.517Z"
+      },
+      {
+        "stars": 21953,
+        "at": "2026-10-26T18:26:02.089Z"
       }
     ],
     "pingdotgg/t3code": [
@@ -3455,6 +3573,10 @@
       {
         "stars": 30283,
         "at": "2026-10-26T09:53:29.427Z"
+      },
+      {
+        "stars": 30425,
+        "at": "2026-10-26T18:26:02.103Z"
       }
     ],
     "multica-ai/andrej-karpathy-skills": [
@@ -3477,6 +3599,46 @@
       {
         "stars": 224086,
         "at": "2026-10-26T09:53:29.482Z"
+      },
+      {
+        "stars": 224414,
+        "at": "2026-10-26T18:26:01.237Z"
+      }
+    ],
+    "affaan-m/ECC": [
+      {
+        "stars": 289597,
+        "at": "2026-10-26T18:26:00.364Z"
+      }
+    ],
+    "NVIDIA/SkillSpector": [
+      {
+        "stars": 21968,
+        "at": "2026-10-26T18:26:00.376Z"
+      }
+    ],
+    "nightly-labs/openbot": [
+      {
+        "stars": 1310,
+        "at": "2026-10-26T18:26:00.390Z"
+      }
+    ],
+    "Panniantong/Agent-Reach": [
+      {
+        "stars": 103268,
+        "at": "2026-10-26T18:26:00.392Z"
+      }
+    ],
+    "alchaincyf/huashu-design": [
+      {
+        "stars": 26648,
+        "at": "2026-10-26T18:26:01.217Z"
+      }
+    ],
+    "gitroomhq/postiz-app": [
+      {
+        "stars": 38254,
+        "at": "2026-10-26T18:26:01.280Z"
       }
     ]
   },
@@ -3493,6 +3655,9 @@
     "debpalash/VoiceStudio|72h": "2026-10-23T22:57:22.724Z",
     "morluto/rea|72h": "2026-10-24T03:47:27.400Z",
     "Nutlope/hallmark|24h": "2026-10-25T18:47:06.675Z",
-    "pbakaus/impeccable|24h": "2026-10-26T09:53:30.051Z"
+    "pbakaus/impeccable|24h": "2026-10-26T09:53:30.051Z",
+    "TauricResearch/TradingAgents|24h": "2026-10-26T18:26:02.949Z",
+    "makecindy/cindy|24h": "2026-10-26T18:26:02.949Z",
+    "AgriciDaniel/claude-seo|24h": "2026-10-26T18:26:02.949Z"
   }
 }
