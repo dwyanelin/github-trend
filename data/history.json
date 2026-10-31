@@ -28,26 +28,12 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "firstSeenAt": "2026-10-13T11:30:59.545Z"
     },
-    "K-Dense-AI/scientific-agent-skills": {
-      "fullName": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "firstSeenAt": "2026-10-14T13:25:20.227Z"
-    },
     "HKUDS/CLI-Anything": {
       "fullName": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "firstSeenAt": "2026-10-14T13:25:20.259Z"
-    },
-    "NationalSecurityAgency/ghidra": {
-      "fullName": "NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "firstSeenAt": "2026-10-14T13:25:21.129Z"
     },
     "ruvnet/ruflo": {
       "fullName": "ruvnet/ruflo",
@@ -154,13 +140,6 @@
       "url": "https://github.com/fastapi/fastapi",
       "firstSeenAt": "2026-10-22T16:49:42.831Z"
     },
-    "SnailSploit/Claude-Red": {
-      "fullName": "SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "Python",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "firstSeenAt": "2026-10-23T16:41:17.072Z"
-    },
     "Renhuai123/ziwei-doushu": {
       "fullName": "Renhuai123/ziwei-doushu",
       "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
@@ -168,33 +147,12 @@
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "firstSeenAt": "2026-10-23T16:41:17.111Z"
     },
-    "OpenBMB/VoxCPM": {
-      "fullName": "OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "language": "Python",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "firstSeenAt": "2026-10-23T16:41:17.113Z"
-    },
-    "nodejs/node": {
-      "fullName": "nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "JavaScript",
-      "url": "https://github.com/nodejs/node",
-      "firstSeenAt": "2026-10-23T16:41:17.117Z"
-    },
     "NVIDIA/OpenShell": {
       "fullName": "NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "url": "https://github.com/NVIDIA/OpenShell",
       "firstSeenAt": "2026-10-23T16:41:17.168Z"
-    },
-    "elie222/rakazo": {
-      "fullName": "elie222/rakazo",
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "language": "TypeScript",
-      "url": "https://github.com/elie222/rakazo",
-      "firstSeenAt": "2026-10-23T16:41:18.794Z"
     },
     "Nutlope/hallmark": {
       "fullName": "Nutlope/hallmark",
@@ -461,14 +419,52 @@
       "language": "Zig",
       "url": "https://github.com/lightpanda-io/browser",
       "firstSeenAt": "2026-10-30T14:54:10.233Z"
+    },
+    "vorssaint/vorssaint-utils": {
+      "fullName": "vorssaint/vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "language": "Swift",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "firstSeenAt": "2026-10-31T14:23:27.908Z"
+    },
+    "bregman-arie/devops-exercises": {
+      "fullName": "bregman-arie/devops-exercises",
+      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+      "language": "Python",
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "firstSeenAt": "2026-10-31T14:23:27.909Z"
+    },
+    "Orkas-AI/Orkas": {
+      "fullName": "Orkas-AI/Orkas",
+      "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+      "language": "JavaScript",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "firstSeenAt": "2026-10-31T14:23:27.933Z"
+    },
+    "THU-MAIC/OpenMAIC": {
+      "fullName": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "firstSeenAt": "2026-10-31T14:23:27.954Z"
+    },
+    "AstrBotDevs/AstrBot": {
+      "fullName": "AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "firstSeenAt": "2026-10-31T14:23:28.702Z"
+    },
+    "YuJunZhiXue/dsh-purge": {
+      "fullName": "YuJunZhiXue/dsh-purge",
+      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "language": "JavaScript",
+      "url": "https://github.com/YuJunZhiXue/dsh-purge",
+      "firstSeenAt": "2026-10-31T14:23:28.708Z"
     }
   },
   "snapshots": {
     "heygen-com/hyperframes": [
-      {
-        "stars": 71017,
-        "at": "2026-10-24T08:44:24.038Z"
-      },
       {
         "stars": 71241,
         "at": "2026-10-24T15:34:52.439Z"
@@ -524,10 +520,6 @@
     ],
     "cursor/plugins": [
       {
-        "stars": 13834,
-        "at": "2026-10-24T08:44:24.067Z"
-      },
-      {
         "stars": 13870,
         "at": "2026-10-24T15:34:52.435Z"
       },
@@ -550,10 +542,6 @@
     ],
     "morluto/rea": [
       {
-        "stars": 374883,
-        "at": "2026-10-24T08:44:23.282Z"
-      },
-      {
         "stars": 376714,
         "at": "2026-10-24T15:34:52.406Z"
       },
@@ -575,10 +563,6 @@
       }
     ],
     "debpalash/VoiceStudio": [
-      {
-        "stars": 83868,
-        "at": "2026-10-24T08:44:24.063Z"
-      },
       {
         "stars": 86101,
         "at": "2026-10-25T15:45:18.141Z"
@@ -612,17 +596,7 @@
         "at": "2026-10-27T04:11:59.859Z"
       }
     ],
-    "K-Dense-AI/scientific-agent-skills": [
-      {
-        "stars": 54322,
-        "at": "2026-10-24T08:44:24.802Z"
-      }
-    ],
     "HKUDS/CLI-Anything": [
-      {
-        "stars": 56702,
-        "at": "2026-10-24T08:44:24.081Z"
-      },
       {
         "stars": 56779,
         "at": "2026-10-24T15:34:53.213Z"
@@ -644,17 +618,7 @@
         "at": "2026-10-25T09:00:21.987Z"
       }
     ],
-    "NationalSecurityAgency/ghidra": [
-      {
-        "stars": 93754,
-        "at": "2026-10-24T08:44:24.858Z"
-      }
-    ],
     "ruvnet/ruflo": [
-      {
-        "stars": 78862,
-        "at": "2026-10-24T08:44:24.057Z"
-      },
       {
         "stars": 78935,
         "at": "2026-10-24T15:34:52.408Z"
@@ -758,10 +722,6 @@
     ],
     "anthropics/claude-plugins-official": [
       {
-        "stars": 44209,
-        "at": "2026-10-24T08:44:23.343Z"
-      },
-      {
         "stars": 44290,
         "at": "2026-10-24T15:34:52.488Z"
       },
@@ -803,10 +763,6 @@
       }
     ],
     "android/skills": [
-      {
-        "stars": 9501,
-        "at": "2026-10-24T08:44:24.080Z"
-      },
       {
         "stars": 9548,
         "at": "2026-10-24T15:34:52.435Z"
@@ -874,10 +830,6 @@
     ],
     "akitaonrails/ai-memory": [
       {
-        "stars": 13131,
-        "at": "2026-10-24T08:44:24.039Z"
-      },
-      {
         "stars": 13193,
         "at": "2026-10-24T15:34:53.196Z"
       },
@@ -944,10 +896,6 @@
     ],
     "stablyai/orca": [
       {
-        "stars": 104240,
-        "at": "2026-10-24T08:44:24.099Z"
-      },
-      {
         "stars": 104609,
         "at": "2026-10-24T15:34:52.406Z"
       },
@@ -1013,10 +961,6 @@
       }
     ],
     "anomalyco/opencode": [
-      {
-        "stars": 220858,
-        "at": "2026-10-24T08:44:24.096Z"
-      },
       {
         "stars": 220965,
         "at": "2026-10-24T15:34:52.435Z"
@@ -1096,10 +1040,6 @@
     ],
     "Comfy-Org/ComfyUI": [
       {
-        "stars": 142446,
-        "at": "2026-10-24T08:44:24.085Z"
-      },
-      {
         "stars": 142543,
         "at": "2026-10-24T15:34:52.427Z"
       },
@@ -1153,10 +1093,6 @@
       }
     ],
     "cloudflare/security-audit-skill": [
-      {
-        "stars": 42721,
-        "at": "2026-10-24T08:44:23.244Z"
-      },
       {
         "stars": 43430,
         "at": "2026-10-24T15:34:51.639Z"
@@ -1256,6 +1192,10 @@
       {
         "stars": 54288,
         "at": "2026-10-31T04:39:28.419Z"
+      },
+      {
+        "stars": 54832,
+        "at": "2026-10-31T14:23:27.923Z"
       }
     ],
     "Graphify-Labs/graphify": [
@@ -1337,10 +1277,6 @@
       }
     ],
     "anthropics/knowledge-work-plugins": [
-      {
-        "stars": 32427,
-        "at": "2026-10-24T08:44:23.270Z"
-      },
       {
         "stars": 32532,
         "at": "2026-10-24T15:34:52.429Z"
@@ -1522,10 +1458,6 @@
     ],
     "php/php-src": [
       {
-        "stars": 41616,
-        "at": "2026-10-24T08:44:23.244Z"
-      },
-      {
         "stars": 41709,
         "at": "2026-10-29T15:00:33.114Z"
       },
@@ -1552,17 +1484,7 @@
         "at": "2026-10-28T04:41:15.156Z"
       }
     ],
-    "SnailSploit/Claude-Red": [
-      {
-        "stars": 8697,
-        "at": "2026-10-24T08:44:23.281Z"
-      }
-    ],
     "Renhuai123/ziwei-doushu": [
-      {
-        "stars": 7103,
-        "at": "2026-10-24T08:44:23.269Z"
-      },
       {
         "stars": 7456,
         "at": "2026-10-25T15:45:18.181Z"
@@ -1594,25 +1516,13 @@
       {
         "stars": 11431,
         "at": "2026-10-31T04:39:27.617Z"
-      }
-    ],
-    "OpenBMB/VoxCPM": [
+      },
       {
-        "stars": 40415,
-        "at": "2026-10-24T08:44:23.288Z"
-      }
-    ],
-    "nodejs/node": [
-      {
-        "stars": 123003,
-        "at": "2026-10-24T08:44:23.257Z"
+        "stars": 12003,
+        "at": "2026-10-31T14:23:27.185Z"
       }
     ],
     "NVIDIA/OpenShell": [
-      {
-        "stars": 19004,
-        "at": "2026-10-24T08:44:23.297Z"
-      },
       {
         "stars": 19227,
         "at": "2026-10-24T15:34:51.647Z"
@@ -1632,12 +1542,6 @@
       {
         "stars": 19675,
         "at": "2026-10-25T09:00:20.285Z"
-      }
-    ],
-    "elie222/rakazo": [
-      {
-        "stars": 5511,
-        "at": "2026-10-24T08:44:24.850Z"
       }
     ],
     "Nutlope/hallmark": [
@@ -1716,6 +1620,10 @@
       {
         "stars": 40962,
         "at": "2026-10-29T04:53:58.358Z"
+      },
+      {
+        "stars": 43527,
+        "at": "2026-10-31T14:23:27.898Z"
       }
     ],
     "pbakaus/impeccable": [
@@ -1818,6 +1726,10 @@
       {
         "stars": 97261,
         "at": "2026-10-31T04:39:27.613Z"
+      },
+      {
+        "stars": 97795,
+        "at": "2026-10-31T14:23:27.180Z"
       }
     ],
     "google-gemini/gemini-cli": [
@@ -2202,6 +2114,10 @@
       {
         "stars": 118759,
         "at": "2026-10-31T04:39:28.402Z"
+      },
+      {
+        "stars": 118895,
+        "at": "2026-10-31T14:23:27.932Z"
       }
     ],
     "AgriciDaniel/claude-seo": [
@@ -2284,6 +2200,10 @@
       {
         "stars": 24600,
         "at": "2026-10-31T04:39:28.395Z"
+      },
+      {
+        "stars": 24825,
+        "at": "2026-10-31T14:23:27.919Z"
       }
     ],
     "pingdotgg/t3code": [
@@ -2342,6 +2262,10 @@
       {
         "stars": 32927,
         "at": "2026-10-31T04:39:27.647Z"
+      },
+      {
+        "stars": 33968,
+        "at": "2026-10-31T14:23:27.163Z"
       }
     ],
     "multica-ai/andrej-karpathy-skills": [
@@ -2424,6 +2348,10 @@
       {
         "stars": 226947,
         "at": "2026-10-31T04:39:28.414Z"
+      },
+      {
+        "stars": 227241,
+        "at": "2026-10-31T14:23:27.964Z"
       }
     ],
     "affaan-m/ECC": [
@@ -2462,6 +2390,10 @@
       {
         "stars": 293492,
         "at": "2026-10-31T04:39:29.214Z"
+      },
+      {
+        "stars": 293753,
+        "at": "2026-10-31T14:23:28.698Z"
       }
     ],
     "NVIDIA/SkillSpector": [
@@ -2630,6 +2562,10 @@
       {
         "stars": 309528,
         "at": "2026-10-31T04:39:28.363Z"
+      },
+      {
+        "stars": 309789,
+        "at": "2026-10-31T14:23:27.162Z"
       }
     ],
     "togg53192-cmd/jailbreaks": [
@@ -2730,6 +2666,10 @@
       {
         "stars": 51918,
         "at": "2026-10-31T04:39:27.625Z"
+      },
+      {
+        "stars": 52390,
+        "at": "2026-10-31T14:23:27.179Z"
       }
     ],
     "elayadesign/ai-design-skills": [
@@ -2892,6 +2832,10 @@
       {
         "stars": 9401,
         "at": "2026-10-31T04:39:29.187Z"
+      },
+      {
+        "stars": 9501,
+        "at": "2026-10-31T14:23:27.915Z"
       }
     ],
     "Leonxlnx/taste-skill": [
@@ -2926,6 +2870,10 @@
       {
         "stars": 106435,
         "at": "2026-10-31T04:39:28.466Z"
+      },
+      {
+        "stars": 106722,
+        "at": "2026-10-31T14:23:28.696Z"
       }
     ],
     "thedotmack/claude-mem": [
@@ -2952,6 +2900,10 @@
       {
         "stars": 106525,
         "at": "2026-10-31T04:39:27.634Z"
+      },
+      {
+        "stars": 107183,
+        "at": "2026-10-31T14:23:27.152Z"
       }
     ],
     "milind-soni/OpenMausBot": [
@@ -2978,6 +2930,10 @@
       {
         "stars": 8831,
         "at": "2026-10-31T04:39:27.603Z"
+      },
+      {
+        "stars": 9274,
+        "at": "2026-10-31T14:23:27.166Z"
       }
     ],
     "CopilotKit/OpenBot": [
@@ -3018,6 +2974,10 @@
       {
         "stars": 29467,
         "at": "2026-10-30T04:53:40.883Z"
+      },
+      {
+        "stars": 30775,
+        "at": "2026-10-31T14:23:27.140Z"
       }
     ],
     "hugohe3/ppt-master": [
@@ -3038,6 +2998,10 @@
       {
         "stars": 307598,
         "at": "2026-10-31T04:39:27.653Z"
+      },
+      {
+        "stars": 307972,
+        "at": "2026-10-31T14:23:27.144Z"
       }
     ],
     "anthropics/skills": [
@@ -3052,6 +3016,10 @@
       {
         "stars": 185435,
         "at": "2026-10-31T04:39:28.420Z"
+      },
+      {
+        "stars": 185733,
+        "at": "2026-10-31T14:23:28.713Z"
       }
     ],
     "lightpanda-io/browser": [
@@ -3066,6 +3034,46 @@
       {
         "stars": 38532,
         "at": "2026-10-31T04:39:28.444Z"
+      },
+      {
+        "stars": 38865,
+        "at": "2026-10-31T14:23:27.185Z"
+      }
+    ],
+    "vorssaint/vorssaint-utils": [
+      {
+        "stars": 31595,
+        "at": "2026-10-31T14:23:27.908Z"
+      }
+    ],
+    "bregman-arie/devops-exercises": [
+      {
+        "stars": 85628,
+        "at": "2026-10-31T14:23:27.909Z"
+      }
+    ],
+    "Orkas-AI/Orkas": [
+      {
+        "stars": 5917,
+        "at": "2026-10-31T14:23:27.933Z"
+      }
+    ],
+    "THU-MAIC/OpenMAIC": [
+      {
+        "stars": 42035,
+        "at": "2026-10-31T14:23:27.954Z"
+      }
+    ],
+    "AstrBotDevs/AstrBot": [
+      {
+        "stars": 45247,
+        "at": "2026-10-31T14:23:28.702Z"
+      }
+    ],
+    "YuJunZhiXue/dsh-purge": [
+      {
+        "stars": 14336,
+        "at": "2026-10-31T14:23:28.708Z"
       }
     ]
   },
@@ -3088,6 +3096,7 @@
     "obra/superpowers|24h": "2026-10-30T14:54:12.307Z",
     "affaan-m/ECC|24h": "2026-10-30T14:54:12.307Z",
     "thedotmack/claude-mem|24h": "2026-10-30T20:30:34.624Z",
-    "cloudflare/security-audit-skill|72h": "2026-10-31T04:39:29.740Z"
+    "cloudflare/security-audit-skill|72h": "2026-10-31T04:39:29.740Z",
+    "milind-soni/OpenMausBot|24h": "2026-10-31T14:23:29.270Z"
   }
 }
