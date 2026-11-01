@@ -7,33 +7,12 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "firstSeenAt": "2026-09-30T14:43:20.066Z"
     },
-    "cursor/plugins": {
-      "fullName": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "url": "https://github.com/cursor/plugins",
-      "firstSeenAt": "2026-10-01T15:12:25.001Z"
-    },
-    "morluto/rea": {
-      "fullName": "morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "language": "TypeScript",
-      "url": "https://github.com/morluto/rea",
-      "firstSeenAt": "2026-10-06T11:05:30.656Z"
-    },
     "debpalash/VoiceStudio": {
       "fullName": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "url": "https://github.com/debpalash/VoiceStudio",
       "firstSeenAt": "2026-10-13T11:30:59.545Z"
-    },
-    "HKUDS/CLI-Anything": {
-      "fullName": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "firstSeenAt": "2026-10-14T13:25:20.259Z"
     },
     "ruvnet/ruflo": {
       "fullName": "ruvnet/ruflo",
@@ -119,13 +98,6 @@
       "url": "https://github.com/wshobson/agents",
       "firstSeenAt": "2026-10-21T03:49:00.749Z"
     },
-    "luongnv89/claude-howto": {
-      "fullName": "luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "firstSeenAt": "2026-10-22T16:49:42.791Z"
-    },
     "php/php-src": {
       "fullName": "php/php-src",
       "description": "The PHP Interpreter",
@@ -147,13 +119,6 @@
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "firstSeenAt": "2026-10-23T16:41:17.111Z"
     },
-    "NVIDIA/OpenShell": {
-      "fullName": "NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "firstSeenAt": "2026-10-23T16:41:17.168Z"
-    },
     "Nutlope/hallmark": {
       "fullName": "Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
@@ -168,33 +133,12 @@
       "url": "https://github.com/pbakaus/impeccable",
       "firstSeenAt": "2026-10-24T15:34:51.616Z"
     },
-    "google-gemini/gemini-cli": {
-      "fullName": "google-gemini/gemini-cli",
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "language": "TypeScript",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "firstSeenAt": "2026-10-24T15:34:51.621Z"
-    },
     "pollen-robotics/microduck": {
       "fullName": "pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "language": "Rust",
       "url": "https://github.com/pollen-robotics/microduck",
       "firstSeenAt": "2026-10-24T15:34:51.643Z"
-    },
-    "jbiaojerry/ebook-treasure-chest": {
-      "fullName": "jbiaojerry/ebook-treasure-chest",
-      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-      "language": "Python",
-      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
-      "firstSeenAt": "2026-10-24T15:34:51.653Z"
-    },
-    "aws/agent-toolkit-for-aws": {
-      "fullName": "aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "language": "Python",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "firstSeenAt": "2026-10-24T15:34:51.653Z"
     },
     "makecindy/cindy": {
       "fullName": "makecindy/cindy",
@@ -461,14 +405,80 @@
       "language": "JavaScript",
       "url": "https://github.com/YuJunZhiXue/dsh-purge",
       "firstSeenAt": "2026-10-31T14:23:28.708Z"
+    },
+    "beenuar/AiSOC": {
+      "fullName": "beenuar/AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "language": "Python",
+      "url": "https://github.com/beenuar/AiSOC",
+      "firstSeenAt": "2026-11-01T14:49:22.623Z"
+    },
+    "cjpais/Handy": {
+      "fullName": "cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "Rust",
+      "url": "https://github.com/cjpais/Handy",
+      "firstSeenAt": "2026-11-01T14:49:22.629Z"
+    },
+    "shiyu-coder/Kronos": {
+      "fullName": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "firstSeenAt": "2026-11-01T14:49:22.638Z"
+    },
+    "public-apis/public-apis": {
+      "fullName": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "url": "https://github.com/public-apis/public-apis",
+      "firstSeenAt": "2026-11-01T14:49:22.647Z"
+    },
+    "kornia/kornia": {
+      "fullName": "kornia/kornia",
+      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "language": "Python",
+      "url": "https://github.com/kornia/kornia",
+      "firstSeenAt": "2026-11-01T14:49:22.652Z"
+    },
+    "anomalyco/hex": {
+      "fullName": "anomalyco/hex",
+      "description": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.",
+      "language": "Rust",
+      "url": "https://github.com/anomalyco/hex",
+      "firstSeenAt": "2026-11-01T14:49:23.391Z"
+    },
+    "patchy631/ai-engineering-hub": {
+      "fullName": "patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "firstSeenAt": "2026-11-01T14:49:23.398Z"
+    },
+    "FlashML-org/FreeToken": {
+      "fullName": "FlashML-org/FreeToken",
+      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "language": "Python",
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "firstSeenAt": "2026-11-01T14:49:23.401Z"
+    },
+    "hyprwm/Hyprland": {
+      "fullName": "hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "firstSeenAt": "2026-11-01T14:49:23.421Z"
+    },
+    "ghostty-org/ghostty": {
+      "fullName": "ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "firstSeenAt": "2026-11-01T14:49:24.958Z"
     }
   },
   "snapshots": {
     "heygen-com/hyperframes": [
-      {
-        "stars": 71691,
-        "at": "2026-10-25T09:00:21.206Z"
-      },
       {
         "stars": 71926,
         "at": "2026-10-25T15:45:18.936Z"
@@ -500,18 +510,6 @@
       {
         "stars": 73229,
         "at": "2026-10-27T04:12:00.610Z"
-      }
-    ],
-    "cursor/plugins": [
-      {
-        "stars": 13946,
-        "at": "2026-10-25T09:00:21.195Z"
-      }
-    ],
-    "morluto/rea": [
-      {
-        "stars": 380579,
-        "at": "2026-10-25T09:00:21.165Z"
       }
     ],
     "debpalash/VoiceStudio": [
@@ -548,17 +546,7 @@
         "at": "2026-10-27T04:11:59.859Z"
       }
     ],
-    "HKUDS/CLI-Anything": [
-      {
-        "stars": 56914,
-        "at": "2026-10-25T09:00:21.987Z"
-      }
-    ],
     "ruvnet/ruflo": [
-      {
-        "stars": 79117,
-        "at": "2026-10-25T09:00:21.163Z"
-      },
       {
         "stars": 79202,
         "at": "2026-10-25T15:45:18.906Z"
@@ -642,10 +630,6 @@
     ],
     "anthropics/claude-plugins-official": [
       {
-        "stars": 44425,
-        "at": "2026-10-25T09:00:21.186Z"
-      },
-      {
         "stars": 44482,
         "at": "2026-10-25T15:45:19.716Z"
       },
@@ -667,10 +651,6 @@
       }
     ],
     "android/skills": [
-      {
-        "stars": 9640,
-        "at": "2026-10-25T09:00:21.136Z"
-      },
       {
         "stars": 9679,
         "at": "2026-10-25T15:45:18.939Z"
@@ -718,10 +698,6 @@
     ],
     "akitaonrails/ai-memory": [
       {
-        "stars": 13352,
-        "at": "2026-10-25T09:00:21.996Z"
-      },
-      {
         "stars": 13441,
         "at": "2026-10-25T15:45:18.921Z"
       },
@@ -768,10 +744,6 @@
     ],
     "stablyai/orca": [
       {
-        "stars": 105201,
-        "at": "2026-10-25T09:00:21.201Z"
-      },
-      {
         "stars": 105493,
         "at": "2026-10-25T15:45:18.966Z"
       },
@@ -817,10 +789,6 @@
       }
     ],
     "anomalyco/opencode": [
-      {
-        "stars": 221304,
-        "at": "2026-10-25T09:00:21.214Z"
-      },
       {
         "stars": 221425,
         "at": "2026-10-25T15:45:18.921Z"
@@ -880,10 +848,6 @@
     ],
     "Comfy-Org/ComfyUI": [
       {
-        "stars": 142751,
-        "at": "2026-10-25T09:00:21.201Z"
-      },
-      {
         "stars": 142846,
         "at": "2026-10-25T15:45:18.925Z"
       },
@@ -917,10 +881,6 @@
       }
     ],
     "cloudflare/security-audit-skill": [
-      {
-        "stars": 45446,
-        "at": "2026-10-25T09:00:20.317Z"
-      },
       {
         "stars": 46185,
         "at": "2026-10-25T15:45:18.172Z"
@@ -1016,13 +976,13 @@
       {
         "stars": 55497,
         "at": "2026-11-01T04:59:22.530Z"
+      },
+      {
+        "stars": 56013,
+        "at": "2026-11-01T14:49:24.158Z"
       }
     ],
     "Graphify-Labs/graphify": [
-      {
-        "stars": 134637,
-        "at": "2026-10-25T09:00:21.994Z"
-      },
       {
         "stars": 134882,
         "at": "2026-10-25T15:45:18.947Z"
@@ -1081,10 +1041,6 @@
       }
     ],
     "anthropics/knowledge-work-plugins": [
-      {
-        "stars": 32762,
-        "at": "2026-10-25T09:00:21.195Z"
-      },
       {
         "stars": 32883,
         "at": "2026-10-25T15:45:18.918Z"
@@ -1168,10 +1124,6 @@
     ],
     "vllm-project/vllm": [
       {
-        "stars": 95401,
-        "at": "2026-10-25T09:00:21.995Z"
-      },
-      {
         "stars": 95452,
         "at": "2026-10-25T15:45:19.731Z"
       },
@@ -1204,12 +1156,6 @@
       {
         "stars": 41830,
         "at": "2026-10-27T04:12:00.612Z"
-      }
-    ],
-    "luongnv89/claude-howto": [
-      {
-        "stars": 44795,
-        "at": "2026-10-25T09:00:20.308Z"
       }
     ],
     "php/php-src": [
@@ -1288,19 +1234,13 @@
       {
         "stars": 12435,
         "at": "2026-11-01T04:59:21.756Z"
-      }
-    ],
-    "NVIDIA/OpenShell": [
+      },
       {
-        "stars": 19675,
-        "at": "2026-10-25T09:00:20.285Z"
+        "stars": 12869,
+        "at": "2026-11-01T14:49:23.405Z"
       }
     ],
     "Nutlope/hallmark": [
-      {
-        "stars": 32629,
-        "at": "2026-10-25T09:00:20.284Z"
-      },
       {
         "stars": 33185,
         "at": "2026-10-25T15:45:18.126Z"
@@ -1372,13 +1312,13 @@
       {
         "stars": 44060,
         "at": "2026-11-01T04:59:22.573Z"
+      },
+      {
+        "stars": 44472,
+        "at": "2026-11-01T14:49:23.379Z"
       }
     ],
     "pbakaus/impeccable": [
-      {
-        "stars": 86760,
-        "at": "2026-10-25T09:00:20.296Z"
-      },
       {
         "stars": 87249,
         "at": "2026-10-25T15:45:18.111Z"
@@ -1474,19 +1414,13 @@
       {
         "stars": 98465,
         "at": "2026-11-01T04:59:21.751Z"
-      }
-    ],
-    "google-gemini/gemini-cli": [
+      },
       {
-        "stars": 108310,
-        "at": "2026-10-25T09:00:20.317Z"
+        "stars": 98950,
+        "at": "2026-11-01T14:49:23.402Z"
       }
     ],
     "pollen-robotics/microduck": [
-      {
-        "stars": 11208,
-        "at": "2026-10-25T09:00:20.350Z"
-      },
       {
         "stars": 11425,
         "at": "2026-10-25T15:45:18.187Z"
@@ -1520,23 +1454,7 @@
         "at": "2026-10-27T04:11:59.137Z"
       }
     ],
-    "jbiaojerry/ebook-treasure-chest": [
-      {
-        "stars": 22947,
-        "at": "2026-10-25T09:00:20.330Z"
-      }
-    ],
-    "aws/agent-toolkit-for-aws": [
-      {
-        "stars": 3238,
-        "at": "2026-10-25T09:00:20.404Z"
-      }
-    ],
     "makecindy/cindy": [
-      {
-        "stars": 4336,
-        "at": "2026-10-25T09:00:20.330Z"
-      },
       {
         "stars": 4599,
         "at": "2026-10-25T15:45:18.149Z"
@@ -1696,6 +1614,10 @@
       {
         "stars": 6646,
         "at": "2026-10-31T04:39:28.420Z"
+      },
+      {
+        "stars": 6901,
+        "at": "2026-11-01T14:49:24.195Z"
       }
     ],
     "TauricResearch/TradingAgents": [
@@ -1794,6 +1716,10 @@
       {
         "stars": 119114,
         "at": "2026-11-01T04:59:22.543Z"
+      },
+      {
+        "stars": 119349,
+        "at": "2026-11-01T14:49:24.171Z"
       }
     ],
     "AgriciDaniel/claude-seo": [
@@ -1892,6 +1818,10 @@
       {
         "stars": 25109,
         "at": "2026-11-01T04:59:22.497Z"
+      },
+      {
+        "stars": 25324,
+        "at": "2026-11-01T14:49:23.357Z"
       }
     ],
     "pingdotgg/t3code": [
@@ -1966,6 +1896,10 @@
       {
         "stars": 35906,
         "at": "2026-11-01T04:59:21.773Z"
+      },
+      {
+        "stars": 36879,
+        "at": "2026-11-01T14:49:22.655Z"
       }
     ],
     "multica-ai/andrej-karpathy-skills": [
@@ -2064,6 +1998,10 @@
       {
         "stars": 227584,
         "at": "2026-11-01T04:59:22.555Z"
+      },
+      {
+        "stars": 227808,
+        "at": "2026-11-01T14:49:24.136Z"
       }
     ],
     "affaan-m/ECC": [
@@ -2118,6 +2056,10 @@
       {
         "stars": 294182,
         "at": "2026-11-01T04:59:23.312Z"
+      },
+      {
+        "stars": 294498,
+        "at": "2026-11-01T14:49:24.124Z"
       }
     ],
     "NVIDIA/SkillSpector": [
@@ -2302,6 +2244,10 @@
       {
         "stars": 310164,
         "at": "2026-11-01T04:59:21.805Z"
+      },
+      {
+        "stars": 310408,
+        "at": "2026-11-01T14:49:24.150Z"
       }
     ],
     "togg53192-cmd/jailbreaks": [
@@ -2352,6 +2298,10 @@
       {
         "stars": 11353,
         "at": "2026-10-31T04:39:28.426Z"
+      },
+      {
+        "stars": 12645,
+        "at": "2026-11-01T14:49:23.397Z"
       }
     ],
     "HKUDS/DeepTutor": [
@@ -2596,6 +2546,10 @@
       {
         "stars": 9648,
         "at": "2026-11-01T04:59:22.549Z"
+      },
+      {
+        "stars": 9869,
+        "at": "2026-11-01T14:49:24.165Z"
       }
     ],
     "Leonxlnx/taste-skill": [
@@ -2646,6 +2600,10 @@
       {
         "stars": 107154,
         "at": "2026-11-01T04:59:23.287Z"
+      },
+      {
+        "stars": 107481,
+        "at": "2026-11-01T14:49:24.149Z"
       }
     ],
     "thedotmack/claude-mem": [
@@ -2688,6 +2646,10 @@
       {
         "stars": 108083,
         "at": "2026-11-01T04:59:21.746Z"
+      },
+      {
+        "stars": 108668,
+        "at": "2026-11-01T14:49:22.638Z"
       }
     ],
     "milind-soni/OpenMausBot": [
@@ -2730,6 +2692,10 @@
       {
         "stars": 9813,
         "at": "2026-11-01T04:59:21.756Z"
+      },
+      {
+        "stars": 10231,
+        "at": "2026-11-01T14:49:22.654Z"
       }
     ],
     "CopilotKit/OpenBot": [
@@ -2756,6 +2722,10 @@
       {
         "stars": 8887,
         "at": "2026-10-31T04:39:27.632Z"
+      },
+      {
+        "stars": 9293,
+        "at": "2026-11-01T14:49:23.400Z"
       }
     ],
     "Donchitos/Claude-Code-Game-Studios": [
@@ -2786,6 +2756,10 @@
       {
         "stars": 31303,
         "at": "2026-11-01T04:59:21.750Z"
+      },
+      {
+        "stars": 31796,
+        "at": "2026-11-01T14:49:22.630Z"
       }
     ],
     "hugohe3/ppt-master": [
@@ -2852,6 +2826,10 @@
       {
         "stars": 185970,
         "at": "2026-11-01T04:59:23.302Z"
+      },
+      {
+        "stars": 186151,
+        "at": "2026-11-01T14:49:24.156Z"
       }
     ],
     "lightpanda-io/browser": [
@@ -2882,6 +2860,10 @@
       {
         "stars": 39364,
         "at": "2026-11-01T04:59:21.746Z"
+      },
+      {
+        "stars": 39750,
+        "at": "2026-11-01T14:49:22.625Z"
       }
     ],
     "vorssaint/vorssaint-utils": [
@@ -2990,6 +2972,70 @@
       {
         "stars": 14719,
         "at": "2026-11-01T04:59:23.294Z"
+      },
+      {
+        "stars": 15160,
+        "at": "2026-11-01T14:49:24.159Z"
+      }
+    ],
+    "beenuar/AiSOC": [
+      {
+        "stars": 5941,
+        "at": "2026-11-01T14:49:22.623Z"
+      }
+    ],
+    "cjpais/Handy": [
+      {
+        "stars": 36166,
+        "at": "2026-11-01T14:49:22.629Z"
+      }
+    ],
+    "shiyu-coder/Kronos": [
+      {
+        "stars": 45041,
+        "at": "2026-11-01T14:49:22.638Z"
+      }
+    ],
+    "public-apis/public-apis": [
+      {
+        "stars": 494137,
+        "at": "2026-11-01T14:49:22.647Z"
+      }
+    ],
+    "kornia/kornia": [
+      {
+        "stars": 11626,
+        "at": "2026-11-01T14:49:22.652Z"
+      }
+    ],
+    "anomalyco/hex": [
+      {
+        "stars": 2743,
+        "at": "2026-11-01T14:49:23.391Z"
+      }
+    ],
+    "patchy631/ai-engineering-hub": [
+      {
+        "stars": 39917,
+        "at": "2026-11-01T14:49:23.398Z"
+      }
+    ],
+    "FlashML-org/FreeToken": [
+      {
+        "stars": 15164,
+        "at": "2026-11-01T14:49:23.401Z"
+      }
+    ],
+    "hyprwm/Hyprland": [
+      {
+        "stars": 39189,
+        "at": "2026-11-01T14:49:23.421Z"
+      }
+    ],
+    "ghostty-org/ghostty": [
+      {
+        "stars": 63138,
+        "at": "2026-11-01T14:49:24.958Z"
       }
     ]
   },
