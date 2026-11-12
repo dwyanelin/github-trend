@@ -28,20 +28,6 @@
       "url": "https://github.com/pbakaus/impeccable",
       "firstSeenAt": "2026-10-24T15:34:51.616Z"
     },
-    "JetBrains/thinkrail": {
-      "fullName": "JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "language": "TypeScript",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "firstSeenAt": "2026-10-25T15:45:18.155Z"
-    },
-    "AgriciDaniel/claude-seo": {
-      "fullName": "AgriciDaniel/claude-seo",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "language": "Python",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "firstSeenAt": "2026-10-25T15:45:18.921Z"
-    },
     "pingdotgg/t3code": {
       "fullName": "pingdotgg/t3code",
       "description": "",
@@ -196,13 +182,6 @@
       "url": "https://github.com/garrytan/gstack",
       "firstSeenAt": "2026-11-04T19:30:05.913Z"
     },
-    "harry0703/MoneyPrinterTurbo": {
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "firstSeenAt": "2026-11-04T19:30:05.925Z"
-    },
     "NVIDIA/auto-ontology": {
       "fullName": "NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
@@ -223,27 +202,6 @@
       "language": "Python",
       "url": "https://github.com/github/spec-kit",
       "firstSeenAt": "2026-11-04T19:30:06.020Z"
-    },
-    "FareedKhan-dev/kimi-k3-in-c": {
-      "fullName": "FareedKhan-dev/kimi-k3-in-c",
-      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "language": "C",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "firstSeenAt": "2026-11-04T19:30:06.788Z"
-    },
-    "Thysrael/Horizon": {
-      "fullName": "Thysrael/Horizon",
-      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
-      "language": "Python",
-      "url": "https://github.com/Thysrael/Horizon",
-      "firstSeenAt": "2026-11-04T19:30:06.810Z"
-    },
-    "MichaelCade/90DaysOfDevOps": {
-      "fullName": "MichaelCade/90DaysOfDevOps",
-      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. ",
-      "language": "Shell",
-      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
-      "firstSeenAt": "2026-11-04T19:30:06.854Z"
     },
     "JiaFeiMiao-K-Cat/DiscImageStudio": {
       "fullName": "JiaFeiMiao-K-Cat/DiscImageStudio",
@@ -601,6 +559,10 @@
       {
         "stars": 70304,
         "at": "2026-11-11T22:33:20.519Z"
+      },
+      {
+        "stars": 70528,
+        "at": "2026-11-12T06:19:33.385Z"
       }
     ],
     "Renhuai123/ziwei-doushu": [
@@ -630,10 +592,6 @@
       }
     ],
     "Nutlope/hallmark": [
-      {
-        "stars": 47935,
-        "at": "2026-11-05T00:46:54.987Z"
-      },
       {
         "stars": 48379,
         "at": "2026-11-05T11:58:12.840Z"
@@ -697,10 +655,6 @@
     ],
     "pbakaus/impeccable": [
       {
-        "stars": 102817,
-        "at": "2026-11-05T00:46:55.039Z"
-      },
-      {
         "stars": 103376,
         "at": "2026-11-05T11:58:13.703Z"
       },
@@ -745,23 +699,7 @@
         "at": "2026-11-08T05:04:05.856Z"
       }
     ],
-    "JetBrains/thinkrail": [
-      {
-        "stars": 7599,
-        "at": "2026-11-05T00:46:55.847Z"
-      }
-    ],
-    "AgriciDaniel/claude-seo": [
-      {
-        "stars": 26663,
-        "at": "2026-11-05T00:46:55.770Z"
-      }
-    ],
     "pingdotgg/t3code": [
-      {
-        "stars": 46615,
-        "at": "2026-11-05T00:46:55.015Z"
-      },
       {
         "stars": 47374,
         "at": "2026-11-05T11:58:12.896Z"
@@ -837,10 +775,6 @@
     ],
     "multica-ai/andrej-karpathy-skills": [
       {
-        "stars": 229505,
-        "at": "2026-11-05T00:46:55.839Z"
-      },
-      {
         "stars": 229685,
         "at": "2026-11-05T11:58:13.663Z"
       },
@@ -888,10 +822,6 @@
       }
     ],
     "obra/superpowers": [
-      {
-        "stars": 312446,
-        "at": "2026-11-05T00:46:55.028Z"
-      },
       {
         "stars": 312723,
         "at": "2026-11-05T11:58:13.677Z"
@@ -969,10 +899,6 @@
     ],
     "jakubkrehel/skills": [
       {
-        "stars": 10813,
-        "at": "2026-11-05T00:46:55.825Z"
-      },
-      {
         "stars": 10904,
         "at": "2026-11-05T11:58:13.716Z"
       },
@@ -1027,10 +953,6 @@
     ],
     "Leonxlnx/taste-skill": [
       {
-        "stars": 110067,
-        "at": "2026-11-05T00:46:55.827Z"
-      },
-      {
         "stars": 110339,
         "at": "2026-11-05T11:58:13.722Z"
       },
@@ -1044,10 +966,6 @@
       }
     ],
     "thedotmack/claude-mem": [
-      {
-        "stars": 112851,
-        "at": "2026-11-05T00:46:54.132Z"
-      },
       {
         "stars": 113270,
         "at": "2026-11-05T11:58:12.840Z"
@@ -1201,6 +1119,10 @@
       {
         "stars": 21206,
         "at": "2026-11-11T22:33:20.507Z"
+      },
+      {
+        "stars": 21372,
+        "at": "2026-11-12T06:19:33.344Z"
       }
     ],
     "Donchitos/Claude-Code-Game-Studios": [
@@ -1271,13 +1193,13 @@
       {
         "stars": 38442,
         "at": "2026-11-11T22:33:20.544Z"
+      },
+      {
+        "stars": 38569,
+        "at": "2026-11-12T06:19:33.338Z"
       }
     ],
     "mattpocock/skills": [
-      {
-        "stars": 313310,
-        "at": "2026-11-05T00:46:54.135Z"
-      },
       {
         "stars": 314156,
         "at": "2026-11-05T11:58:11.998Z"
@@ -1357,13 +1279,13 @@
       {
         "stars": 321962,
         "at": "2026-11-11T22:33:20.499Z"
+      },
+      {
+        "stars": 322240,
+        "at": "2026-11-12T06:19:33.355Z"
       }
     ],
     "anthropics/skills": [
-      {
-        "stars": 187422,
-        "at": "2026-11-05T00:46:55.829Z"
-      },
       {
         "stars": 187599,
         "at": "2026-11-05T11:58:12.866Z"
@@ -1443,6 +1365,10 @@
       {
         "stars": 193089,
         "at": "2026-11-11T22:33:20.536Z"
+      },
+      {
+        "stars": 193285,
+        "at": "2026-11-12T06:19:33.372Z"
       }
     ],
     "shiyu-coder/Kronos": [
@@ -1494,10 +1420,6 @@
       }
     ],
     "hyprwm/Hyprland": [
-      {
-        "stars": 40298,
-        "at": "2026-11-05T00:46:55.818Z"
-      },
       {
         "stars": 40334,
         "at": "2026-11-05T11:58:13.671Z"
@@ -1553,10 +1475,6 @@
     ],
     "ghostty-org/ghostty": [
       {
-        "stars": 63546,
-        "at": "2026-11-05T00:46:55.841Z"
-      },
-      {
         "stars": 63598,
         "at": "2026-11-05T11:58:13.707Z"
       },
@@ -1570,10 +1488,6 @@
       }
     ],
     "D4Vinci/Scrapling": [
-      {
-        "stars": 96534,
-        "at": "2026-11-05T00:46:55.027Z"
-      },
       {
         "stars": 97309,
         "at": "2026-11-05T11:58:12.068Z"
@@ -1653,13 +1567,13 @@
       {
         "stars": 101615,
         "at": "2026-11-11T22:33:20.485Z"
+      },
+      {
+        "stars": 101773,
+        "at": "2026-11-12T06:19:33.393Z"
       }
     ],
     "vercel-labs/agent-desktop": [
-      {
-        "stars": 15086,
-        "at": "2026-11-05T00:46:54.120Z"
-      },
       {
         "stars": 16127,
         "at": "2026-11-05T11:58:11.960Z"
@@ -1699,13 +1613,13 @@
       {
         "stars": 22018,
         "at": "2026-11-11T22:33:20.558Z"
+      },
+      {
+        "stars": 22281,
+        "at": "2026-11-12T06:19:33.415Z"
       }
     ],
     "max-sixty/worktrunk": [
-      {
-        "stars": 11029,
-        "at": "2026-11-05T00:46:54.077Z"
-      },
       {
         "stars": 11310,
         "at": "2026-11-05T11:58:11.978Z"
@@ -1781,10 +1695,6 @@
     ],
     "floci-io/floci": [
       {
-        "stars": 29614,
-        "at": "2026-11-05T00:46:54.263Z"
-      },
-      {
         "stars": 29990,
         "at": "2026-11-05T11:58:12.826Z"
       },
@@ -1813,10 +1723,6 @@
     ],
     "garrytan/gstack": [
       {
-        "stars": 139338,
-        "at": "2026-11-05T00:46:54.065Z"
-      },
-      {
         "stars": 139613,
         "at": "2026-11-05T11:58:11.951Z"
       },
@@ -1829,17 +1735,7 @@
         "at": "2026-11-06T00:52:36.304Z"
       }
     ],
-    "harry0703/MoneyPrinterTurbo": [
-      {
-        "stars": 138960,
-        "at": "2026-11-05T00:46:54.111Z"
-      }
-    ],
     "NVIDIA/auto-ontology": [
-      {
-        "stars": 4981,
-        "at": "2026-11-05T00:46:54.098Z"
-      },
       {
         "stars": 6335,
         "at": "2026-11-05T11:58:11.999Z"
@@ -1903,13 +1799,13 @@
       {
         "stars": 11810,
         "at": "2026-11-11T22:33:20.557Z"
+      },
+      {
+        "stars": 11966,
+        "at": "2026-11-12T06:19:33.384Z"
       }
     ],
     "The-PR-Agent/pr-agent": [
-      {
-        "stars": 14756,
-        "at": "2026-11-05T00:46:54.078Z"
-      },
       {
         "stars": 15000,
         "at": "2026-11-05T11:58:13.674Z"
@@ -1985,10 +1881,6 @@
     ],
     "github/spec-kit": [
       {
-        "stars": 147304,
-        "at": "2026-11-05T00:46:54.171Z"
-      },
-      {
         "stars": 148327,
         "at": "2026-11-07T14:45:04.525Z"
       },
@@ -2013,29 +1905,7 @@
         "at": "2026-11-08T20:16:09.012Z"
       }
     ],
-    "FareedKhan-dev/kimi-k3-in-c": [
-      {
-        "stars": 10291,
-        "at": "2026-11-05T00:46:55.068Z"
-      }
-    ],
-    "Thysrael/Horizon": [
-      {
-        "stars": 12488,
-        "at": "2026-11-05T00:46:55.004Z"
-      }
-    ],
-    "MichaelCade/90DaysOfDevOps": [
-      {
-        "stars": 30419,
-        "at": "2026-11-05T00:46:55.044Z"
-      }
-    ],
     "JiaFeiMiao-K-Cat/DiscImageStudio": [
-      {
-        "stars": 6606,
-        "at": "2026-11-05T00:46:55.046Z"
-      },
       {
         "stars": 6966,
         "at": "2026-11-05T11:58:12.812Z"
@@ -2051,10 +1921,6 @@
     ],
     "scenario-labs/skills": [
       {
-        "stars": 2435,
-        "at": "2026-11-05T00:46:55.043Z"
-      },
-      {
         "stars": 2746,
         "at": "2026-11-05T11:58:12.910Z"
       },
@@ -2068,10 +1934,6 @@
       }
     ],
     "calesthio/OpenMontage": [
-      {
-        "stars": 76533,
-        "at": "2026-11-05T00:46:55.766Z"
-      },
       {
         "stars": 76872,
         "at": "2026-11-05T11:58:13.697Z"
@@ -2165,6 +2027,10 @@
       {
         "stars": 23928,
         "at": "2026-11-11T22:33:20.526Z"
+      },
+      {
+        "stars": 23970,
+        "at": "2026-11-12T06:19:33.393Z"
       }
     ],
     "lz4/lz4": [
@@ -2257,6 +2123,10 @@
       {
         "stars": 49818,
         "at": "2026-11-11T22:33:19.758Z"
+      },
+      {
+        "stars": 50033,
+        "at": "2026-11-12T06:19:32.570Z"
       }
     ],
     "ConardLi/garden-skills": [
@@ -2363,6 +2233,10 @@
       {
         "stars": 94700,
         "at": "2026-11-11T22:33:20.495Z"
+      },
+      {
+        "stars": 94747,
+        "at": "2026-11-12T06:19:33.349Z"
       }
     ],
     "symfony/symfony": [
@@ -2629,6 +2503,10 @@
       {
         "stars": 24832,
         "at": "2026-11-11T22:33:19.753Z"
+      },
+      {
+        "stars": 25440,
+        "at": "2026-11-12T06:19:32.536Z"
       }
     ],
     "sherlock-project/sherlock": [
@@ -2813,6 +2691,10 @@
       {
         "stars": 17631,
         "at": "2026-11-11T22:33:21.354Z"
+      },
+      {
+        "stars": 17685,
+        "at": "2026-11-12T06:19:34.142Z"
       }
     ],
     "anthropics/claude-quickstarts": [
@@ -2871,6 +2753,10 @@
       {
         "stars": 70144,
         "at": "2026-11-11T22:33:19.704Z"
+      },
+      {
+        "stars": 70624,
+        "at": "2026-11-12T06:19:32.537Z"
       }
     ],
     "ruvnet/RuView": [
@@ -2921,6 +2807,10 @@
       {
         "stars": 7298,
         "at": "2026-11-11T22:33:19.731Z"
+      },
+      {
+        "stars": 7515,
+        "at": "2026-11-12T06:19:32.594Z"
       }
     ],
     "we-promise/sure": [
@@ -2943,6 +2833,10 @@
       {
         "stars": 12879,
         "at": "2026-11-11T22:33:19.749Z"
+      },
+      {
+        "stars": 13163,
+        "at": "2026-11-12T06:19:32.630Z"
       }
     ],
     "addyosmani/agent-skills": [
@@ -2965,6 +2859,10 @@
       {
         "stars": 115881,
         "at": "2026-11-11T22:33:19.691Z"
+      },
+      {
+        "stars": 116126,
+        "at": "2026-11-12T06:19:32.586Z"
       }
     ],
     "tokio-rs/topcoat": [
@@ -2989,6 +2887,10 @@
       {
         "stars": 1694,
         "at": "2026-11-11T22:33:19.702Z"
+      },
+      {
+        "stars": 1971,
+        "at": "2026-11-12T06:19:32.603Z"
       }
     ],
     "openai/codex-security": [
@@ -2999,6 +2901,10 @@
       {
         "stars": 11665,
         "at": "2026-11-11T22:33:19.761Z"
+      },
+      {
+        "stars": 11916,
+        "at": "2026-11-12T06:19:32.624Z"
       }
     ],
     "shadcn/improve": [
@@ -3009,6 +2915,10 @@
       {
         "stars": 10794,
         "at": "2026-11-11T22:33:19.692Z"
+      },
+      {
+        "stars": 11128,
+        "at": "2026-11-12T06:19:32.563Z"
       }
     ],
     "TheAlgorithms/Java": [
@@ -3019,6 +2929,10 @@
       {
         "stars": 66986,
         "at": "2026-11-11T22:33:19.733Z"
+      },
+      {
+        "stars": 67136,
+        "at": "2026-11-12T06:19:32.568Z"
       }
     ],
     "herdrdev/herdr": [
@@ -3029,6 +2943,10 @@
       {
         "stars": 50304,
         "at": "2026-11-11T22:33:21.363Z"
+      },
+      {
+        "stars": 50412,
+        "at": "2026-11-12T06:19:34.126Z"
       }
     ]
   },
@@ -3052,6 +2970,7 @@
     "anthropics/skills|24h": "2026-11-10T02:35:48.268Z",
     "mattpocock/skills|24h": "2026-11-10T12:18:05.231Z",
     "meta/astryx|72h": "2026-11-10T21:41:33.782Z",
-    "sherlock-project/sherlock|72h": "2026-11-10T21:41:33.782Z"
+    "sherlock-project/sherlock|72h": "2026-11-10T21:41:33.782Z",
+    "ZhuLinsen/daily_stock_analysis|24h": "2026-11-12T06:19:34.675Z"
   }
 }
