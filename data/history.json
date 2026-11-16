@@ -422,10 +422,52 @@
     },
     "NVIDIA/SkillEvaluator": {
       "fullName": "NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "language": "Python",
       "url": "https://github.com/NVIDIA/SkillEvaluator",
       "firstSeenAt": "2026-11-15T15:27:44.414Z"
+    },
+    "DeanChensj/jiangshan-map": {
+      "fullName": "DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "language": "JavaScript",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "firstSeenAt": "2026-11-16T18:04:44.913Z"
+    },
+    "mvanhorn/last30days-skill": {
+      "fullName": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "firstSeenAt": "2026-11-16T18:04:44.951Z"
+    },
+    "getarcaneapp/arcane": {
+      "fullName": "getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "firstSeenAt": "2026-11-16T18:04:44.977Z"
+    },
+    "kajisho5/ffmpeg-skill": {
+      "fullName": "kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "language": "Python",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "firstSeenAt": "2026-11-16T18:04:45.792Z"
+    },
+    "sveltejs/svelte": {
+      "fullName": "sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "url": "https://github.com/sveltejs/svelte",
+      "firstSeenAt": "2026-11-16T18:04:45.803Z"
+    },
+    "google-research/paper-orchestra": {
+      "fullName": "google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "language": "Python",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "firstSeenAt": "2026-11-16T18:04:45.817Z"
     }
   },
   "snapshots": {
@@ -795,6 +837,10 @@
       {
         "stars": 195479,
         "at": "2026-11-16T05:26:52.325Z"
+      },
+      {
+        "stars": 195871,
+        "at": "2026-11-16T18:04:45.868Z"
       }
     ],
     "anomalyco/hex": [
@@ -1115,6 +1161,10 @@
       {
         "stars": 51726,
         "at": "2026-11-16T05:26:52.350Z"
+      },
+      {
+        "stars": 51930,
+        "at": "2026-11-16T18:04:45.830Z"
       }
     ],
     "zed-industries/zed": [
@@ -1219,6 +1269,10 @@
       {
         "stars": 29045,
         "at": "2026-11-16T05:26:52.344Z"
+      },
+      {
+        "stars": 29459,
+        "at": "2026-11-16T18:04:45.808Z"
       }
     ],
     "sherlock-project/sherlock": [
@@ -1281,6 +1335,10 @@
       {
         "stars": 112634,
         "at": "2026-11-16T05:26:52.309Z"
+      },
+      {
+        "stars": 113033,
+        "at": "2026-11-16T18:04:46.654Z"
       }
     ],
     "ranxianglei/billion-context": [
@@ -1377,6 +1435,10 @@
       {
         "stars": 18100,
         "at": "2026-11-16T05:26:53.129Z"
+      },
+      {
+        "stars": 18162,
+        "at": "2026-11-16T18:04:46.634Z"
       }
     ],
     "anthropics/claude-quickstarts": [
@@ -1489,6 +1551,10 @@
       {
         "stars": 72584,
         "at": "2026-11-16T05:26:52.303Z"
+      },
+      {
+        "stars": 72762,
+        "at": "2026-11-16T18:04:45.830Z"
       }
     ],
     "ruvnet/RuView": [
@@ -1617,6 +1683,10 @@
       {
         "stars": 15776,
         "at": "2026-11-16T05:26:52.329Z"
+      },
+      {
+        "stars": 15936,
+        "at": "2026-11-16T18:04:45.806Z"
       }
     ],
     "addyosmani/agent-skills": [
@@ -1691,6 +1761,10 @@
       {
         "stars": 118018,
         "at": "2026-11-16T05:26:53.088Z"
+      },
+      {
+        "stars": 118247,
+        "at": "2026-11-16T18:04:46.643Z"
       }
     ],
     "tokio-rs/topcoat": [
@@ -1767,6 +1841,10 @@
       {
         "stars": 7389,
         "at": "2026-11-16T05:26:51.547Z"
+      },
+      {
+        "stars": 7884,
+        "at": "2026-11-16T18:04:45.849Z"
       }
     ],
     "openai/codex-security": [
@@ -1805,6 +1883,10 @@
       {
         "stars": 13375,
         "at": "2026-11-14T11:15:57.637Z"
+      },
+      {
+        "stars": 13711,
+        "at": "2026-11-16T18:04:46.642Z"
       }
     ],
     "shadcn/improve": [
@@ -1891,6 +1973,10 @@
       {
         "stars": 30407,
         "at": "2026-11-15T05:28:19.770Z"
+      },
+      {
+        "stars": 30608,
+        "at": "2026-11-16T18:04:46.627Z"
       }
     ],
     "pookjw/HermesEnabler": [
@@ -2041,6 +2127,10 @@
       {
         "stars": 52323,
         "at": "2026-11-16T05:26:51.495Z"
+      },
+      {
+        "stars": 52810,
+        "at": "2026-11-16T18:04:44.954Z"
       }
     ],
     "backnotprop/plannotator": [
@@ -2083,6 +2173,10 @@
       {
         "stars": 12006,
         "at": "2026-11-16T05:26:51.505Z"
+      },
+      {
+        "stars": 12400,
+        "at": "2026-11-16T18:04:44.930Z"
       }
     ],
     "tradermonty/claude-trading-skills": [
@@ -2125,6 +2219,10 @@
       {
         "stars": 5736,
         "at": "2026-11-16T05:26:52.305Z"
+      },
+      {
+        "stars": 6154,
+        "at": "2026-11-16T18:04:44.886Z"
       }
     ],
     "block/buzz": [
@@ -2215,6 +2313,10 @@
       {
         "stars": 57156,
         "at": "2026-11-16T05:26:51.534Z"
+      },
+      {
+        "stars": 57566,
+        "at": "2026-11-16T18:04:45.828Z"
       }
     ],
     "lobehub/lobehub": [
@@ -2271,6 +2373,10 @@
       {
         "stars": 19912,
         "at": "2026-11-16T05:26:52.332Z"
+      },
+      {
+        "stars": 20259,
+        "at": "2026-11-16T18:04:46.667Z"
       }
     ],
     "JuliusBrussee/caveman": [
@@ -2311,6 +2417,10 @@
       {
         "stars": 18090,
         "at": "2026-11-16T05:26:51.463Z"
+      },
+      {
+        "stars": 18700,
+        "at": "2026-11-16T18:04:44.940Z"
       }
     ],
     "dream-num/univer": [
@@ -2337,6 +2447,10 @@
       {
         "stars": 26503,
         "at": "2026-11-16T05:26:51.528Z"
+      },
+      {
+        "stars": 27652,
+        "at": "2026-11-16T18:04:44.970Z"
       }
     ],
     "Tencent/LoopForge": [
@@ -2419,6 +2533,10 @@
       {
         "stars": 9428,
         "at": "2026-11-16T05:26:51.507Z"
+      },
+      {
+        "stars": 9663,
+        "at": "2026-11-16T18:04:45.038Z"
       }
     ],
     "NVIDIA/SkillEvaluator": [
@@ -2433,6 +2551,46 @@
       {
         "stars": 1888,
         "at": "2026-11-16T05:26:52.292Z"
+      },
+      {
+        "stars": 2459,
+        "at": "2026-11-16T18:04:44.950Z"
+      }
+    ],
+    "DeanChensj/jiangshan-map": [
+      {
+        "stars": 6633,
+        "at": "2026-11-16T18:04:44.913Z"
+      }
+    ],
+    "mvanhorn/last30days-skill": [
+      {
+        "stars": 67982,
+        "at": "2026-11-16T18:04:44.951Z"
+      }
+    ],
+    "getarcaneapp/arcane": [
+      {
+        "stars": 8563,
+        "at": "2026-11-16T18:04:44.977Z"
+      }
+    ],
+    "kajisho5/ffmpeg-skill": [
+      {
+        "stars": 6443,
+        "at": "2026-11-16T18:04:45.792Z"
+      }
+    ],
+    "sveltejs/svelte": [
+      {
+        "stars": 88860,
+        "at": "2026-11-16T18:04:45.803Z"
+      }
+    ],
+    "google-research/paper-orchestra": [
+      {
+        "stars": 1274,
+        "at": "2026-11-16T18:04:45.817Z"
       }
     ]
   },
