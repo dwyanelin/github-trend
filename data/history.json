@@ -14,13 +14,6 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "firstSeenAt": "2026-10-29T15:00:32.224Z"
     },
-    "Donchitos/Claude-Code-Game-Studios": {
-      "fullName": "Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "language": "Shell",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "firstSeenAt": "2026-10-29T15:00:33.135Z"
-    },
     "mattpocock/skills": {
       "fullName": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
@@ -112,13 +105,6 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "firstSeenAt": "2026-11-09T18:29:29.571Z"
     },
-    "homeassistant-ai/ha-mcp": {
-      "fullName": "homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "language": "Python",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "firstSeenAt": "2026-11-09T18:29:29.596Z"
-    },
     "we-promise/sure": {
       "fullName": "we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
@@ -146,27 +132,6 @@
       "language": "TypeScript",
       "url": "https://github.com/openai/codex-security",
       "firstSeenAt": "2026-11-11T15:56:06.426Z"
-    },
-    "shadcn/improve": {
-      "fullName": "shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "language": "",
-      "url": "https://github.com/shadcn/improve",
-      "firstSeenAt": "2026-11-11T15:56:06.433Z"
-    },
-    "TheAlgorithms/Java": {
-      "fullName": "TheAlgorithms/Java",
-      "description": "All Algorithms implemented in Java",
-      "language": "Java",
-      "url": "https://github.com/TheAlgorithms/Java",
-      "firstSeenAt": "2026-11-11T15:56:06.466Z"
-    },
-    "herdrdev/herdr": {
-      "fullName": "herdrdev/herdr",
-      "description": "the runtime your coding agents live on",
-      "language": "Rust",
-      "url": "https://github.com/herdrdev/herdr",
-      "firstSeenAt": "2026-11-11T15:56:08.283Z"
     },
     "ashhart/TensorFold": {
       "fullName": "ashhart/TensorFold",
@@ -422,7 +387,7 @@
     },
     "jingyaogong/minimind": {
       "fullName": "jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
       "url": "https://github.com/jingyaogong/minimind",
       "firstSeenAt": "2026-11-17T12:52:03.135Z"
@@ -482,14 +447,66 @@
       "language": "TypeScript",
       "url": "https://github.com/n8n-io/n8n",
       "firstSeenAt": "2026-11-18T17:00:17.321Z"
+    },
+    "nginx/nginx": {
+      "fullName": "nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "url": "https://github.com/nginx/nginx",
+      "firstSeenAt": "2026-11-19T12:36:13.484Z"
+    },
+    "cathrynlavery/diagram-design": {
+      "fullName": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "firstSeenAt": "2026-11-19T12:36:13.504Z"
+    },
+    "firecrawl/firecrawl": {
+      "fullName": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "language": "TypeScript",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "firstSeenAt": "2026-11-19T12:36:13.552Z"
+    },
+    "zhouxiaoka/autoclip": {
+      "fullName": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "language": "Python",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "firstSeenAt": "2026-11-19T12:36:14.432Z"
+    },
+    "XiaoYouChR/Ghost-Downloader-3": {
+      "fullName": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "language": "Python",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "firstSeenAt": "2026-11-19T12:36:14.480Z"
+    },
+    "mjmirza/app-store-compliance": {
+      "fullName": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "language": "Shell",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "firstSeenAt": "2026-11-19T12:36:14.513Z"
+    },
+    "Tracer-Cloud/opensre": {
+      "fullName": "Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "language": "Python",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "firstSeenAt": "2026-11-19T12:36:14.542Z"
+    },
+    "toeverything/AFFiNE": {
+      "fullName": "toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+      "language": "TypeScript",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "firstSeenAt": "2026-11-19T12:36:14.584Z"
     }
   },
   "snapshots": {
     "cloudflare/security-audit-skill": [
-      {
-        "stars": 70528,
-        "at": "2026-11-12T06:19:33.385Z"
-      },
       {
         "stars": 70929,
         "at": "2026-11-12T16:39:18.433Z"
@@ -516,10 +533,6 @@
       }
     ],
     "milind-soni/OpenMausBot": [
-      {
-        "stars": 21372,
-        "at": "2026-11-12T06:19:33.344Z"
-      },
       {
         "stars": 21610,
         "at": "2026-11-12T16:39:18.342Z"
@@ -569,17 +582,7 @@
         "at": "2026-11-16T05:26:52.282Z"
       }
     ],
-    "Donchitos/Claude-Code-Game-Studios": [
-      {
-        "stars": 38569,
-        "at": "2026-11-12T06:19:33.338Z"
-      }
-    ],
     "mattpocock/skills": [
-      {
-        "stars": 322240,
-        "at": "2026-11-12T06:19:33.355Z"
-      },
       {
         "stars": 322762,
         "at": "2026-11-12T16:39:18.428Z"
@@ -606,10 +609,6 @@
       }
     ],
     "anthropics/skills": [
-      {
-        "stars": 193285,
-        "at": "2026-11-12T06:19:33.372Z"
-      },
       {
         "stars": 193563,
         "at": "2026-11-12T16:39:18.357Z"
@@ -689,10 +688,6 @@
     ],
     "D4Vinci/Scrapling": [
       {
-        "stars": 101773,
-        "at": "2026-11-12T06:19:33.393Z"
-      },
-      {
         "stars": 102015,
         "at": "2026-11-12T16:39:19.342Z"
       },
@@ -702,10 +697,6 @@
       }
     ],
     "vercel-labs/agent-desktop": [
-      {
-        "stars": 22281,
-        "at": "2026-11-12T06:19:33.415Z"
-      },
       {
         "stars": 22586,
         "at": "2026-11-12T16:39:18.368Z"
@@ -733,10 +724,6 @@
     ],
     "NVIDIA/auto-ontology": [
       {
-        "stars": 11966,
-        "at": "2026-11-12T06:19:33.384Z"
-      },
-      {
         "stars": 12153,
         "at": "2026-11-12T16:39:18.368Z"
       },
@@ -763,10 +750,6 @@
     ],
     "google/skills": [
       {
-        "stars": 23970,
-        "at": "2026-11-12T06:19:33.393Z"
-      },
-      {
         "stars": 24029,
         "at": "2026-11-12T16:39:19.395Z"
       },
@@ -776,10 +759,6 @@
       }
     ],
     "vercel-labs/agent-browser": [
-      {
-        "stars": 50033,
-        "at": "2026-11-12T06:19:32.570Z"
-      },
       {
         "stars": 50233,
         "at": "2026-11-12T16:39:18.516Z"
@@ -859,10 +838,6 @@
     ],
     "zed-industries/zed": [
       {
-        "stars": 94747,
-        "at": "2026-11-12T06:19:33.349Z"
-      },
-      {
         "stars": 94802,
         "at": "2026-11-12T16:39:19.367Z"
       },
@@ -888,10 +863,6 @@
       }
     ],
     "meta/astryx": [
-      {
-        "stars": 25440,
-        "at": "2026-11-12T06:19:32.536Z"
-      },
       {
         "stars": 26205,
         "at": "2026-11-12T16:39:17.445Z"
@@ -951,6 +922,10 @@
       {
         "stars": 30588,
         "at": "2026-11-19T01:46:22.457Z"
+      },
+      {
+        "stars": 30775,
+        "at": "2026-11-19T12:36:15.473Z"
       }
     ],
     "sherlock-project/sherlock": [
@@ -1004,10 +979,6 @@
       }
     ],
     "google-deepmind/mujoco": [
-      {
-        "stars": 17685,
-        "at": "2026-11-12T06:19:34.142Z"
-      },
       {
         "stars": 17735,
         "at": "2026-11-12T16:39:19.332Z"
@@ -1097,10 +1068,6 @@
     ],
     "ZhuLinsen/daily_stock_analysis": [
       {
-        "stars": 70624,
-        "at": "2026-11-12T06:19:32.537Z"
-      },
-      {
         "stars": 71225,
         "at": "2026-11-13T11:57:13.202Z"
       },
@@ -1169,17 +1136,7 @@
         "at": "2026-11-19T01:46:22.395Z"
       }
     ],
-    "homeassistant-ai/ha-mcp": [
-      {
-        "stars": 7515,
-        "at": "2026-11-12T06:19:32.594Z"
-      }
-    ],
     "we-promise/sure": [
-      {
-        "stars": 13163,
-        "at": "2026-11-12T06:19:32.630Z"
-      },
       {
         "stars": 13662,
         "at": "2026-11-12T16:39:17.423Z"
@@ -1255,13 +1212,13 @@
       {
         "stars": 16508,
         "at": "2026-11-19T01:46:22.448Z"
+      },
+      {
+        "stars": 16610,
+        "at": "2026-11-19T12:36:15.409Z"
       }
     ],
     "addyosmani/agent-skills": [
-      {
-        "stars": 116126,
-        "at": "2026-11-12T06:19:32.586Z"
-      },
       {
         "stars": 116486,
         "at": "2026-11-12T16:39:17.431Z"
@@ -1332,10 +1289,6 @@
       }
     ],
     "GoogleChrome/modern-web-guidance-src": [
-      {
-        "stars": 1971,
-        "at": "2026-11-12T06:19:32.603Z"
-      },
       {
         "stars": 2495,
         "at": "2026-11-12T16:39:17.510Z"
@@ -1411,13 +1364,13 @@
       {
         "stars": 8849,
         "at": "2026-11-19T01:46:21.531Z"
+      },
+      {
+        "stars": 8999,
+        "at": "2026-11-19T12:36:14.509Z"
       }
     ],
     "openai/codex-security": [
-      {
-        "stars": 11916,
-        "at": "2026-11-12T06:19:32.624Z"
-      },
       {
         "stars": 12209,
         "at": "2026-11-12T16:39:17.435Z"
@@ -1469,24 +1422,6 @@
       {
         "stars": 14118,
         "at": "2026-11-19T01:46:23.313Z"
-      }
-    ],
-    "shadcn/improve": [
-      {
-        "stars": 11128,
-        "at": "2026-11-12T06:19:32.563Z"
-      }
-    ],
-    "TheAlgorithms/Java": [
-      {
-        "stars": 67136,
-        "at": "2026-11-12T06:19:32.568Z"
-      }
-    ],
-    "herdrdev/herdr": [
-      {
-        "stars": 50412,
-        "at": "2026-11-12T06:19:34.126Z"
       }
     ],
     "ashhart/TensorFold": [
@@ -1549,6 +1484,10 @@
       {
         "stars": 1538,
         "at": "2026-11-13T00:56:42.079Z"
+      },
+      {
+        "stars": 2223,
+        "at": "2026-11-19T12:36:15.434Z"
       }
     ],
     "nvm-sh/nvm": [
@@ -1725,6 +1664,10 @@
       {
         "stars": 54181,
         "at": "2026-11-19T01:46:22.385Z"
+      },
+      {
+        "stars": 54302,
+        "at": "2026-11-19T12:36:14.427Z"
       }
     ],
     "backnotprop/plannotator": [
@@ -1795,6 +1738,10 @@
       {
         "stars": 13464,
         "at": "2026-11-19T01:46:22.395Z"
+      },
+      {
+        "stars": 13572,
+        "at": "2026-11-19T12:36:14.413Z"
       }
     ],
     "tradermonty/claude-trading-skills": [
@@ -1865,6 +1812,10 @@
       {
         "stars": 7085,
         "at": "2026-11-19T01:46:22.369Z"
+      },
+      {
+        "stars": 7161,
+        "at": "2026-11-19T12:36:14.479Z"
       }
     ],
     "block/buzz": [
@@ -1983,6 +1934,10 @@
       {
         "stars": 58219,
         "at": "2026-11-19T01:46:22.412Z"
+      },
+      {
+        "stars": 58300,
+        "at": "2026-11-19T12:36:14.548Z"
       }
     ],
     "lobehub/lobehub": [
@@ -2115,6 +2070,10 @@
       {
         "stars": 20447,
         "at": "2026-11-19T01:46:22.408Z"
+      },
+      {
+        "stars": 20556,
+        "at": "2026-11-19T12:36:15.409Z"
       }
     ],
     "dream-num/univer": [
@@ -2169,6 +2128,10 @@
       {
         "stars": 29893,
         "at": "2026-11-19T01:46:23.270Z"
+      },
+      {
+        "stars": 30410,
+        "at": "2026-11-19T12:36:15.434Z"
       }
     ],
     "Tencent/LoopForge": [
@@ -2311,6 +2274,10 @@
       {
         "stars": 10412,
         "at": "2026-11-19T01:46:20.716Z"
+      },
+      {
+        "stars": 10569,
+        "at": "2026-11-19T12:36:13.648Z"
       }
     ],
     "NVIDIA/SkillEvaluator": [
@@ -2389,6 +2356,10 @@
       {
         "stars": 70052,
         "at": "2026-11-19T01:46:20.704Z"
+      },
+      {
+        "stars": 70515,
+        "at": "2026-11-19T12:36:13.535Z"
       }
     ],
     "getarcaneapp/arcane": [
@@ -2429,6 +2400,10 @@
       {
         "stars": 6898,
         "at": "2026-11-17T02:49:09.951Z"
+      },
+      {
+        "stars": 8138,
+        "at": "2026-11-19T12:36:15.409Z"
       }
     ],
     "sveltejs/svelte": [
@@ -2511,6 +2486,10 @@
       {
         "stars": 321346,
         "at": "2026-11-19T01:46:21.590Z"
+      },
+      {
+        "stars": 321688,
+        "at": "2026-11-19T12:36:13.478Z"
       }
     ],
     "cursor/plugins": [
@@ -2533,6 +2512,10 @@
       {
         "stars": 17225,
         "at": "2026-11-19T01:46:20.714Z"
+      },
+      {
+        "stars": 17424,
+        "at": "2026-11-19T12:36:13.567Z"
       }
     ],
     "affaan-m/ECC": [
@@ -2569,6 +2552,10 @@
       {
         "stars": 66213,
         "at": "2026-11-18T06:28:54.895Z"
+      },
+      {
+        "stars": 66634,
+        "at": "2026-11-19T12:36:13.556Z"
       }
     ],
     "HKUDS/CLI-Anything": [
@@ -2579,6 +2566,10 @@
       {
         "stars": 59784,
         "at": "2026-11-19T01:46:20.736Z"
+      },
+      {
+        "stars": 60233,
+        "at": "2026-11-19T12:36:13.532Z"
       }
     ],
     "astral-sh/uv": [
@@ -2609,6 +2600,10 @@
       {
         "stars": 11341,
         "at": "2026-11-19T01:46:21.499Z"
+      },
+      {
+        "stars": 11458,
+        "at": "2026-11-19T12:36:13.615Z"
       }
     ],
     "solidjs/solid": [
@@ -2650,10 +2645,57 @@
         "stars": 211102,
         "at": "2026-11-19T01:46:21.590Z"
       }
+    ],
+    "nginx/nginx": [
+      {
+        "stars": 32227,
+        "at": "2026-11-19T12:36:13.484Z"
+      }
+    ],
+    "cathrynlavery/diagram-design": [
+      {
+        "stars": 68365,
+        "at": "2026-11-19T12:36:13.504Z"
+      }
+    ],
+    "firecrawl/firecrawl": [
+      {
+        "stars": 203582,
+        "at": "2026-11-19T12:36:13.552Z"
+      }
+    ],
+    "zhouxiaoka/autoclip": [
+      {
+        "stars": 10885,
+        "at": "2026-11-19T12:36:14.432Z"
+      }
+    ],
+    "XiaoYouChR/Ghost-Downloader-3": [
+      {
+        "stars": 12291,
+        "at": "2026-11-19T12:36:14.480Z"
+      }
+    ],
+    "mjmirza/app-store-compliance": [
+      {
+        "stars": 1500,
+        "at": "2026-11-19T12:36:14.513Z"
+      }
+    ],
+    "Tracer-Cloud/opensre": [
+      {
+        "stars": 12904,
+        "at": "2026-11-19T12:36:14.542Z"
+      }
+    ],
+    "toeverything/AFFiNE": [
+      {
+        "stars": 74812,
+        "at": "2026-11-19T12:36:14.584Z"
+      }
     ]
   },
   "sentAlerts": {
-    "ZhuLinsen/daily_stock_analysis|24h": "2026-11-12T06:19:34.675Z",
     "anthropics/skills|72h": "2026-11-12T16:39:20.800Z",
     "mattpocock/skills|72h": "2026-11-12T16:39:20.800Z",
     "GoogleChrome/modern-web-guidance-src|24h": "2026-11-13T11:57:15.498Z",
